@@ -1,0 +1,68 @@
+Resistencias 1206
+R1   1k
+R2   10k (No colocar)
+R3    100R (No colocar si el PIC no tiene USB)
+R4   33R
+R5   1k
+R6   100k
+R7   10k
+R8   150R o 220R
+R9   150R o 220R
+R10   150R o 220R
+R11   150R o 220R
+R12   150R o 220R
+R13   100R
+R14   100R
+R15   10k
+R16   10k
+R17   10k
+R18   330
+R19   10k
+
+Potenciomentro
+POT 	10k
+
+Capacitores 1206
+C1   100u/16V
+C2   100u/10V
+C3   100u/10V
+C4   17-22pF
+C5   17-22pF
+C6   17-22pF
+C7   17-22pF
+C8   100nF
+C9   100nF
+C10   100nF
+C11   100nF
+C12   10uF/10V
+C13   100nF
+C14   100nF
+C15   100nF
+C16   100nF
+C17   100nF
+
+6 Leds Package 1206
+3 Switch
+
+
+Q1   BC807
+Q2   BC817
+Q3   Principal (4-20MHz)
+Q4   32768 Hz
+
+EEPROM SPI de 3.3V
+
+Reguladores TO252:
+IC1       GJ1117A5.0
+IC2       GJ1117A3.3
+
+TPS2041B -> Control sobre corriente entregada en modo USB Host.
+
+Microcontrolador:
+PIC32MX3/4 o PIC24 -> 100 pines.
+
+Zocalo SD: PSDBT4-09GL
+Referencia: http://www.cika.com/catalogo/XI.pdf Pagina 122
+
+Conector USB-A
+conector mini-USB
