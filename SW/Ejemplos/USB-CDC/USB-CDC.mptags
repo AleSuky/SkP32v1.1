@@ -1,0 +1,971 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABSTRACT_CONTROL_MODEL::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	135;"	d	line:135
+ABSTRACT_STATE::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	149;"	d	line:149
+ADDRESS_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	158;"	e	line:158
+ADR_PENDING_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	154;"	e	line:154
+ATTACHED_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	139;"	e	line:139
+BDT	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	299;"	v	line:299
+BDT	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	301;"	v	line:301
+BDT	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	303;"	v	line:303
+BDT	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	305;"	v	line:305
+BIT	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BOOL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
+BYTE	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	434;"	t	line:434
+BYTE_BITS	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
+BYTE_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
+BaudRateGen	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	140;"	v	line:140
+BlinkUSBStatus	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	101;"	f	line:101	signature:(void)
+BlinkUSBStatus	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	27;"	p	line:27	file:	signature:(void)
+BothEP0OutUOWNsSet	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	270;"	v	line:270
+CARRIER_CONTROL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	578;"	m	line:578	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+CDCDataInHandle	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	136;"	v	line:136
+CDCDataOutHandle	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	135;"	v	line:135
+CDCInitEP	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	647;"	p	line:647	signature:(void)
+CDCInitEP	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	301;"	f	line:301	signature:(void)
+CDCSetBaudRate::(baudRate){line_coding.dwDTERa	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	255;"	d	line:255
+CDCSetCharacterFormat::(charFormat){line_coding.bChar	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	293;"	d	line:293
+CDCSetDataSize::(dataBits){line_coding.bDataBi	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	376;"	d	line:376
+CDCSetLineCoding::(baud,format,parity,dataSize){	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	427;"	d	line:427
+CDCSetParity::(parityType){line_coding.bPari	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	336;"	d	line:336
+CDCTxService	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	652;"	p	line:652	signature:(void)
+CDCTxService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	715;"	f	line:715	signature:(void)
+CDC_COMM_EP::1	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	166;"	d	line:166
+CDC_COMM_INTF_ID::0x0	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	165;"	d	line:165
+CDC_COMM_IN_EP_SIZE::10	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	167;"	d	line:167
+CDC_DATA_EP::2	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	170;"	d	line:170
+CDC_DATA_INTF_ID::0x01	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	169;"	d	line:169
+CDC_DATA_IN_EP_SIZE::64	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	172;"	d	line:172
+CDC_DATA_OUT_EP_SIZE::64	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	171;"	d	line:171
+CDC_DEVICE::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	129;"	d	line:129
+CDC_H	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	99;"	d	line:99
+CDC_NOTICE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	628;"	t	line:628
+CDC_TX_BUSY::1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	172;"	d	line:172
+CDC_TX_BUSY_ZLP::2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	173;"	d	line:173
+CDC_TX_COMPLETING::3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	174;"	d	line:174
+CDC_TX_READY::0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	171;"	d	line:171
+CHAR	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	440;"	t	line:440
+CHAR8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	431;"	t	line:431
+CLEAR	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+CLEAR_COMM_FEATURE::0x04	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	113;"	d	line:113
+COMM_INTF::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	132;"	d	line:132
+CONFIGURED_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	165;"	e	line:165
+CONFIGURE_DTR::(a)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	189;"	d	line:189
+CONFIGURE_DTR::(a)UART_DTR=a;	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	186;"	d	line:186
+CONFIGURE_RTS::(a)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	188;"	d	line:188
+CONFIGURE_RTS::(a)UART_RTS=a;	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	185;"	d	line:185
+CONTROL_SIGNAL_BITMAP	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	580;"	t	line:580
+COUNTRY_SETTING::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	150;"	d	line:150
+CS_ENDPOINT::0x25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	155;"	d	line:155
+CS_INTERFACE::0x24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	154;"	d	line:154
+CTRL_TRF_PARAMS::void	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1659;"	d	line:1659
+CTRL_TRF_RETURN::void	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1658;"	d	line:1658
+CtrlTrfData	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	314;"	v	line:314
+DATA_INTF::0x0A	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	142;"	d	line:142
+DEFAULT_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	147;"	e	line:147
+DESC_CONFIG_BYTE::(a)(a)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1624;"	d	line:1624
+DESC_CONFIG_DWORD::(a)(a&0xFF),((a>>8)&0xFF),((a>	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1617;"	d	line:1617
+DESC_CONFIG_WORD::(a)(a&0xFF),((a>>8)&0xFF)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1610;"	d	line:1610
+DETACHED_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	135;"	e	line:135
+DSC_FN_ACM::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	160;"	d	line:160
+DSC_FN_CALL_MGT::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	159;"	d	line:159
+DSC_FN_COUNTRY_SELECTION::0x07	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	165;"	d	line:165
+DSC_FN_DLM::0x03	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	161;"	d	line:161
+DSC_FN_HEADER::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	158;"	d	line:158
+DSC_FN_RPT_CAPABILITIES::0x05	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	163;"	d	line:163
+DSC_FN_TELEPHONE_RINGER::0x04	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	162;"	d	line:162
+DSC_FN_TEL_OP_MODES::0x08	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	166;"	d	line:166
+DSC_FN_UNION::0x06	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	164;"	d	line:164
+DSC_FN_USB_TERMINAL::0x09	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	167;"	d	line:167
+DTE_PRESENT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	577;"	m	line:577	struct:_CONTROL_SIGNAL_BITMAP::<anonymous>
+DWORD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	436;"	t	line:436
+DWORD_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	550;"	t	line:550
+Delay10us	C:\Proyectos C32\SkP32\Microchip\Common\TimeDelay.c	68;"	f	line:68	signature:( UINT32 tenMicroSecondCounter )
+Delay10us	C:\Proyectos C32\SkP32\Microchip\Include\TimeDelay.h	58;"	p	line:58	signature:( UINT32 tenMicroSecondCounter )
+DelayMs	C:\Proyectos C32\SkP32\Microchip\Common\TimeDelay.c	174;"	f	line:174	signature:( UINT16 ms )
+DelayMs	C:\Proyectos C32\SkP32\Microchip\Include\TimeDelay.h	79;"	p	line:79	signature:( UINT16 ms )
+EVENT_ATTACH	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	213;"	e	line:213
+EVENT_CONFIGURED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	174;"	e	line:174
+EVENT_EP0_REQUEST	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	184;"	e	line:184
+EVENT_SET_DESCRIPTOR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	178;"	e	line:178
+EVENT_TRANSFER_TERMINATED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	218;"	e	line:218
+FALSE	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+FLOAT_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	424;"	t	line:424
+GET_COMM_FEATURE::0x03	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	112;"	d	line:112
+GET_ENCAPSULATED_RESPONSE::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	110;"	d	line:110
+GET_LINE_CODING::0x21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	115;"	d	line:115
+GetInstructionClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	72;"	d	line:72
+GetLineCoding	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	625;"	m	line:625	union:_CDC_NOTICE
+GetPeripheralClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	73;"	d	line:73
+GetSystemClock	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	32;"	p	line:32	file:
+GetSystemClock::(80000000ul)	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	71;"	d	line:71
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	185;"	m	line:185
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	470;"	m	line:470	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	340;"	m	line:340	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	562;"	m	line:562	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226
+HW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278
+HW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	345;"	m	line:345	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	567;"	m	line:567	struct:<anonymous>::__PACKED
+INT	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
+INT16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+INT32	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT64	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
+INT8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+IN_PIPE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1691;"	t	line:1691
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	184;"	m	line:184
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+LD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	339;"	m	line:339	struct:<anonymous>::__PACKED
+LD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	561;"	m	line:561	struct:<anonymous>::__PACKED
+LED1_OFF::PORTClearBits(PORT_LED1,PIN_LE	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	55;"	d	line:55
+LED1_ON::PORTSetBits(PORT_LED1,PIN_LED1	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	50;"	d	line:50
+LED1_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	45;"	d	line:45
+LED1_READ::PORTBbits.RB8	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	40;"	d	line:40
+LED1_TOGGLE::PORTToggleBits(PORT_LED1,PIN_L	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	60;"	d	line:60
+LED2_OFF::PORTClearBits(PORT_LED2,PIN_LE	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	56;"	d	line:56
+LED2_ON::PORTSetBits(PORT_LED2,PIN_LED2	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	51;"	d	line:51
+LED2_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	46;"	d	line:46
+LED2_READ::PORTBbits.RB9	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	41;"	d	line:41
+LED2_TOGGLE::PORTToggleBits(PORT_LED2,PIN_L	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	61;"	d	line:61
+LED3_OFF::PORTClearBits(PORT_LED3,PIN_LE	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	57;"	d	line:57
+LED3_ON::PORTSetBits(PORT_LED3,PIN_LED3	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	52;"	d	line:52
+LED3_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	47;"	d	line:47
+LED3_READ::PORTBbits.RB10	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	42;"	d	line:42
+LED3_TOGGLE::PORTToggleBits(PORT_LED3,PIN_L	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	62;"	d	line:62
+LED4_OFF::PORTClearBits(PORT_LED4,PIN_LE	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	58;"	d	line:58
+LED4_ON::PORTSetBits(PORT_LED4,PIN_LED4	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	53;"	d	line:53
+LED4_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	48;"	d	line:48
+LED4_READ::PORTBbits.RB11	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	43;"	d	line:43
+LED4_TOGGLE::PORTToggleBits(PORT_LED4,PIN_L	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	63;"	d	line:63
+LINE_CODING	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	570;"	t	line:570
+LINE_CODING_LENGTH::0x07	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	555;"	d	line:555
+LINE_CODING_PFUNC::&USB_CDC_SET_LINE_CODING_HANDL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	178;"	d	line:178
+LINE_CODING_PFUNC::NULL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	181;"	d	line:181
+LINE_CODING_TARGET::&cdc_notice.SetLineCoding._byt	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	177;"	d	line:177
+LINE_CODING_TARGET::&line_coding._byte[0]	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	180;"	d	line:180
+LONG	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	442;"	t	line:442
+LONGLONG	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	445;"	t	line:445
+LW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225
+LW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277
+LW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	344;"	m	line:344	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	566;"	m	line:566	struct:<anonymous>::__PACKED
+MB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233
+MB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285
+MB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+MW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	347;"	m	line:347	struct:<anonymous>::__PACKED
+MW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	569;"	m	line:569	struct:<anonymous>::__PACKED
+NETWORK_CONNECTION::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	123;"	d	line:123
+NO_PROTOCOL::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	145;"	d	line:145
+NUM_STOP_BITS_1::0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	294;"	d	line:294
+NUM_STOP_BITS_1_5::1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	295;"	d	line:295
+NUM_STOP_BITS_2::2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	296;"	d	line:296
+OUT_PIPE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1716;"	t	line:1716
+PARITY_EVEN::2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	339;"	d	line:339
+PARITY_MARK::3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	340;"	d	line:340
+PARITY_NONE::0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	337;"	d	line:337
+PARITY_ODD::1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	338;"	d	line:338
+PARITY_SPACE::4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	341;"	d	line:341
+PCDC_NOTICE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	628;"	t	line:628
+PIN_LED1::BIT_8	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	27;"	d	line:27
+PIN_LED2::BIT_9	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	29;"	d	line:29
+PIN_LED3::BIT_10	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	31;"	d	line:31
+PIN_LED4::BIT_11	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	33;"	d	line:33
+PIN_SW1::BIT_12	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	36;"	d	line:36
+PIN_SW2::BIT_13	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	38;"	d	line:38
+PORT_LED1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	26;"	d	line:26
+PORT_LED2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	28;"	d	line:28
+PORT_LED3::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	30;"	d	line:30
+PORT_LED4::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	32;"	d	line:32
+PORT_SW1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	35;"	d	line:35
+PORT_SW2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	37;"	d	line:37
+POWERED_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	143;"	e	line:143
+PRIVATE::static	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PROTECTED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+PUBLIC::	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	67;"	d	line:67
+ProcessIO	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	26;"	p	line:26	file:	signature:(void)
+ProcessIO	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	59;"	f	line:59	signature:(void)
+QWORD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	439;"	t	line:439
+QWORD_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	638;"	t	line:638
+RESPONSE_AVAILABLE::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	124;"	d	line:124
+RemoteWakeup	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	266;"	v	line:266
+SEND_BREAK::0x23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	117;"	d	line:117
+SEND_ENCAPSULATED_COMMAND::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	109;"	d	line:109
+SERIAL_STATE::0x20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	125;"	d	line:125
+SET	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+SET_COMM_FEATURE::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	111;"	d	line:111
+SET_CONTROL_LINE_STATE::0x22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	116;"	d	line:116
+SET_LINE_CODING::0x20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	114;"	d	line:114
+SHORT	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	441;"	t	line:441
+SW1_INPUT::PORTSetPinsDigitalIn(PORT_SW1,	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	65;"	d	line:65
+SW1_STATUS::PORTReadBits(PORT_SW1,PIN_SW1)	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	68;"	d	line:68
+SW2_INPUT::PORTSetPinsDigitalIn(PORT_SW2,	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	66;"	d	line:66
+SW2_STATUS::PORTReadBits(PORT_SW2,PIN_SW2)	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	69;"	d	line:69
+SetLineCoding	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	626;"	m	line:626	union:_CDC_NOTICE
+SetupPkt	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	313;"	v	line:313
+TRUE	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+UB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186
+UB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232
+UB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284
+UB	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+UCHAR8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	432;"	t	line:432
+UINT	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
+UINT16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT16_BITS	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
+UINT16_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
+UINT24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
+UINT24_BITS	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
+UINT24_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
+UINT32	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
+UINT32_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	327;"	t	line:327
+UINT64	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
+UINT64_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	416;"	t	line:416
+UINT8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT8_BITS	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
+UINT8_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
+USBActiveConfiguration	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	255;"	v	line:255
+USBAdvancePingPongBuffer::(buffer)((BYTE_VAL*)buffer)->V	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	420;"	d	line:420	file:
+USBAlternateInterface	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	256;"	v	line:256
+USBBusIsSuspended	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	267;"	v	line:267
+USBCBCheckOtherReq	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	181;"	f	line:181	signature:(void)
+USBCBEP0DataReceived	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	218;"	f	line:218	signature:(void)
+USBCBErrorHandler	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	177;"	f	line:177	signature:(void)
+USBCBInitEP	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	186;"	f	line:186	signature:(void)
+USBCBSendResume	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	189;"	f	line:189	signature:(void)
+USBCBStdSetDscHandler	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	184;"	f	line:184	signature:(void)
+USBCBSuspend	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	151;"	f	line:151	signature:(void)
+USBCBWakeFromSuspend	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	154;"	f	line:154	signature:(void)
+USBCB_SOF_Handler	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	156;"	f	line:156	signature:(void)
+USBCDCSetLineCoding	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	158;"	p	line:158	file:	signature:(void)
+USBCFG_H	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	52;"	d	line:52
+USBCancelIO	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1593;"	p	line:1593	signature:(BYTE endpoint)
+USBCancelIO	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2704;"	f	line:2704	signature:(BYTE endpoint)
+USBCheckCDCRequest	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	646;"	p	line:646	signature:(void)
+USBCheckCDCRequest	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	185;"	f	line:185	signature:(void)
+USBCheckStdRequest	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1415;"	f	line:1415	file:	signature:(void)
+USBCheckStdRequest	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	372;"	p	line:372	file:	signature:(void)
+USBConfigureEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2387;"	f	line:2387	file:	signature:(BYTE EPNum, BYTE direction)
+USBConfigureEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	381;"	p	line:381	file:	signature:(BYTE EPNum, BYTE direction)
+USBCtrlEPAllowDataStage	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1297;"	p	line:1297	signature:(void)
+USBCtrlEPAllowDataStage	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1782;"	f	line:1782	signature:(void)
+USBCtrlEPAllowStatusStage	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1198;"	p	line:1198	signature:(void)
+USBCtrlEPAllowStatusStage	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1712;"	f	line:1712	signature:(void)
+USBCtrlEPService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1099;"	f	line:1099	file:	signature:(void)
+USBCtrlEPService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	369;"	p	line:369	file:	signature:(void)
+USBCtrlEPServiceComplete	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1980;"	f	line:1980	file:	signature:(void)
+USBCtrlEPServiceComplete	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	374;"	p	line:374	file:	signature:(void)
+USBCtrlTrfInHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1324;"	f	line:1324	file:	signature:(void)
+USBCtrlTrfInHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	371;"	p	line:371	file:	signature:(void)
+USBCtrlTrfOutHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1271;"	f	line:1271	file:	signature:(void)
+USBCtrlTrfOutHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	380;"	p	line:380	file:	signature:(void)
+USBCtrlTrfRxService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2213;"	f	line:2213	file:	signature:(void)
+USBCtrlTrfRxService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	376;"	p	line:376	file:	signature:(void)
+USBCtrlTrfSetupHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1199;"	f	line:1199	file:	signature:(void)
+USBCtrlTrfSetupHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	370;"	p	line:370	file:	signature:(void)
+USBCtrlTrfTxService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2132;"	f	line:2132	file:	signature:(void)
+USBCtrlTrfTxService	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	375;"	p	line:375	file:	signature:(void)
+USBDEVICE_H	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	104;"	d	line:104
+USBDeferINDataStage	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1509;"	p	line:1509	signature:(void)
+USBDeferINDataStage::{USBDeferINDataStagePackets=TR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1512;"	d	line:1512
+USBDeferINDataStagePackets	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	277;"	v	line:277
+USBDeferOUTDataStage	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1373;"	p	line:1373	signature:(void)
+USBDeferOUTDataStage::{USBDeferOUTDataStagePackets=T	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1376;"	d	line:1376
+USBDeferOUTDataStagePackets	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	278;"	v	line:278
+USBDeferStatusStage	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1264;"	p	line:1264	signature:(void)
+USBDeferStatusStage::{USBDeferStatusStagePacket=TRU	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1267;"	d	line:1267
+USBDeferStatusStagePacket	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	274;"	v	line:274
+USBDeviceAttach	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1096;"	p	line:1096	signature:(void)
+USBDeviceAttach	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2849;"	f	line:2849	signature:(void)
+USBDeviceAttach::	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1100;"	d	line:1100
+USBDeviceCBGetDescriptor	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1163;"	p	line:1163	signature:( UINT16 *length, UINT8 *ptr_type, DESCRIPTOR_ID *id)
+USBDeviceDetach	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1054;"	p	line:1054	signature:(void)
+USBDeviceDetach	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2745;"	f	line:2745	signature:(void)
+USBDeviceDetach::	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1058;"	d	line:1058
+USBDeviceInit	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	305;"	p	line:305	signature:(void)
+USBDeviceInit	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	448;"	f	line:448	signature:(void)
+USBDeviceState	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	254;"	v	line:254
+USBDeviceTasks	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	280;"	p	line:280	signature:(void)
+USBDeviceTasks	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	570;"	f	line:570	signature:(void)
+USBEP0Receive	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	945;"	p	line:945	signature:(BYTE* dest, WORD size, void (*function))
+USBEP0Receive::(dest,size,function){outPipes[	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	947;"	d	line:947
+USBEP0SendRAMPtr	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	885;"	p	line:885	signature:(BYTE* src, WORD size, BYTE Options)
+USBEP0SendRAMPtr::(src,size,options){	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	891;"	d	line:891
+USBEP0SendROMPtr	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	917;"	p	line:917	signature:(BYTE* src, WORD size, BYTE Options)
+USBEP0SendROMPtr::(src,size,options){	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	923;"	d	line:923
+USBEP0Transmit	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	857;"	p	line:857	signature:(BYTE options)
+USBEP0Transmit::(options)inPipes[0].info.Val=o	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	859;"	d	line:859
+USBEnableEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	528;"	p	line:528	signature:(BYTE ep, BYTE options)
+USBEnableEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2479;"	f	line:2479	signature:(BYTE ep, BYTE options)
+USBGetDeviceState	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	427;"	p	line:427	signature:(void)
+USBGetDeviceState::USBDeviceState	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	429;"	d	line:429
+USBGetRemoteWakeupStatus	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	370;"	p	line:370	signature:(void)
+USBGetRemoteWakeupStatus::RemoteWakeup	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	372;"	d	line:372
+USBGetSuspendState	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	477;"	p	line:477	signature:(void)
+USBHALPingPongSetToEven::(buffer){((BYTE_VAL*)buffer)->	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	422;"	d	line:422	file:
+USBHALPingPongSetToOdd::(buffer){((BYTE_VAL*)buffer)->	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	421;"	d	line:421	file:
+USBHandleBusy	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	758;"	p	line:758	signature:(USB_HANDLE handle)
+USBHandleBusy::(handle)(handle==0?0:((volatil	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	760;"	d	line:760
+USBHandleGetAddr	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	824;"	p	line:824	signature:(USB_HANDLE)
+USBHandleGetAddr::(handle)ConvertToVirtualAddres	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	826;"	d	line:826
+USBHandleGetLength	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	792;"	p	line:792	signature:(USB_HANDLE handle)
+USBHandleGetLength::(handle)(((volatileBDT_ENTRY*)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	794;"	d	line:794
+USBINDataStageDeferred	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1563;"	p	line:1563	signature:(void)
+USBINDataStageDeferred::USBDeferINDataStagePackets	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1565;"	d	line:1565
+USBIsBusSuspended	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	603;"	p	line:603	signature:(void)
+USBIsBusSuspended::USBBusIsSuspended	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	605;"	d	line:605
+USBIsDeviceSuspended	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	560;"	p	line:560	signature:(void)
+USBIsDeviceSuspended::USBSuspendControl	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	562;"	d	line:562
+USBOUTDataStageDeferred	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1426;"	p	line:1426	signature:(void)
+USBOUTDataStageDeferred::USBDeferOUTDataStagePackets	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1428;"	d	line:1428
+USBRxOnePacket	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1000;"	p	line:1000	signature:(BYTE ep, BYTE* data, WORD len)
+USBRxOnePacket::(ep,data,len)USBTransferOnePac	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1002;"	d	line:1002
+USBSoftDetach	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	629;"	p	line:629	signature:(void)
+USBSoftDetach::U1CON=0;U1IE=0;USBDeviceState=	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	631;"	d	line:631
+USBStallEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1026;"	p	line:1026	signature:(BYTE ep, BYTE dir)
+USBStallEndpoint	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2522;"	f	line:2522	signature:(BYTE ep, BYTE dir)
+USBStallHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	384;"	p	line:384	file:	signature:(void)
+USBStallHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	932;"	f	line:932	file:	signature:(void)
+USBStatusStageEnabledFlag1	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	275;"	v	line:275
+USBStatusStageEnabledFlag2	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	276;"	v	line:276
+USBStatusStageTimeoutCounter	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	273;"	v	line:273
+USBStdFeatureReqHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1480;"	f	line:1480	file:	signature:(void)
+USBStdFeatureReqHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	379;"	p	line:379	file:	signature:(void)
+USBStdGetDscHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1828;"	f	line:1828	file:	signature:(void)
+USBStdGetDscHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	373;"	p	line:373	file:	signature:(void)
+USBStdGetStatusHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1895;"	f	line:1895	signature:(void)
+USBStdGetStatusHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	378;"	p	line:378	file:	signature:(void)
+USBStdSetCfgHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2317;"	f	line:2317	signature:(void)
+USBStdSetCfgHandler	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	377;"	p	line:377	file:	signature:(void)
+USBSuspend	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	383;"	p	line:383	file:	signature:(void)
+USBSuspend	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	975;"	f	line:975	file:	signature:(void)
+USBTransferOnePacket	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	724;"	p	line:724	signature:(BYTE ep,BYTE dir,BYTE* data,BYTE len)
+USBTransferOnePacket	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2628;"	f	line:2628	signature:(BYTE ep,BYTE dir,BYTE* data,BYTE len)
+USBTxOnePacket	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	973;"	p	line:973	signature:(BYTE ep, BYTE* data, WORD len)
+USBTxOnePacket::(ep,data,len)USBTransferOnePac	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	975;"	d	line:975
+USBUSARTIsTxTrfReady::(cdc_trf_state==CDC_TX_READY)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	463;"	d	line:463
+USBWakeFromSuspend	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1032;"	f	line:1032	file:	signature:(void)
+USBWakeFromSuspend	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	382;"	p	line:382	file:	signature:(void)
+USB_APPLICATION_EVENT_HANDLER	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1131;"	p	line:1131	signature:(BYTE address, USB_EVENT event, void *pdata, WORD size)
+USB_BUS_SENSE	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	245;"	d	line:245	file:
+USB_BUS_SENSE::1	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	246;"	d	line:246	file:
+USB_BUS_SENSE::1	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	81;"	d	line:81
+USB_CDC_ACM_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	601;"	t	line:601
+USB_CDC_ACM_FN_DSC_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	220;"	d	line:220
+USB_CDC_CALL_MGT_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	621;"	t	line:621
+USB_CDC_HEADER_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	592;"	t	line:592
+USB_CDC_SET_LINE_CODING_HANDLER	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	154;"	p	line:154	file:
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D0_VAL::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	213;"	d	line:213
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1::	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	175;"	d	line:175
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1_VAL::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	207;"	d	line:207
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D1_VAL::0x02	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	205;"	d	line:205
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D2_VAL::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	201;"	d	line:201
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D2_VAL::0x04	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	199;"	d	line:199
+USB_CDC_SUPPORT_ABSTRACT_CONTROL_MANAGEMENT_CAPABILITIES_D3_VAL::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	195;"	d	line:195
+USB_CDC_UNION_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	611;"	t	line:611
+USB_CD_Ptr	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	289;"	v	line:289
+USB_DEVICE_STACK_EVENTS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	220;"	t	line:220
+USB_DEVICE_STATE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	167;"	t	line:167
+USB_DOT_VER::1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb.h	140;"	d	line:140
+USB_ENABLE_ALL_HANDLERS	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	147;"	d	line:147
+USB_ENABLE_STATUS_STAGE_TIMEOUTS::	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	120;"	d	line:120
+USB_EP0_BUFF_SIZE::8	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	55;"	d	line:55
+USB_EP0_BUSY::0x80	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	117;"	d	line:117
+USB_EP0_INCLUDE_ZERO::0x40	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	118;"	d	line:118
+USB_EP0_NO_DATA::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	119;"	d	line:119
+USB_EP0_NO_OPTIONS::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	120;"	d	line:120
+USB_EP0_RAM::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	116;"	d	line:116
+USB_EP0_ROM::0x00	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	115;"	d	line:115
+USB_HANDLE::void*	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	113;"	d	line:113
+USB_INTERRUPT	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	84;"	d	line:84
+USB_In_Buffer	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	20;"	v	line:20
+USB_MAJOR_VER::2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb.h	138;"	d	line:138
+USB_MAX_EP_NUMBER::2	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	162;"	d	line:162
+USB_MAX_NUM_INT::2	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	62;"	d	line:62
+USB_MINOR_VER::7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb.h	139;"	d	line:139
+USB_NUM_STRING_DESCRIPTORS::3	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	144;"	d	line:144
+USB_Out_Buffer	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	21;"	v	line:21
+USB_PING_PONG_MODE::USB_PING_PONG__FULL_PING_PONG	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	78;"	d	line:78
+USB_PULLUP_OPTION::USB_PULLUP_ENABLE	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	87;"	d	line:87
+USB_SD_Ptr	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	294;"	v	line:294
+USB_SPEED_OPTION::USB_FULL_SPEED	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	96;"	d	line:96
+USB_STATUS_STAGE_TIMEOUT::(BYTE)45	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	136;"	d	line:136
+USB_SUPPORT_DEVICE	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	142;"	d	line:142
+USB_TRANSCEIVER_OPTION::USB_INTERNAL_TRANSCEIVER	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	90;"	d	line:90
+USB_USER_CONFIG_DESCRIPTOR::USB_CD_Ptr	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	72;"	d	line:72
+USB_USER_CONFIG_DESCRIPTOR_INCLUDE::externROMBYTE*ROMUSB_CD_Ptr[]	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	73;"	d	line:73
+USB_USER_DEVICE_DESCRIPTOR::&device_dsc	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	67;"	d	line:67
+USB_USER_DEVICE_DESCRIPTOR_INCLUDE::externROMUSB_DEVICE_DESCRIPTOR	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	68;"	d	line:68
+USB_USE_CDC	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_config.h	159;"	d	line:159
+USB_VOLATILE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1653;"	d	line:1653
+USB_VOLATILE::volatile	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1655;"	d	line:1655
+USER_USB_CALLBACK_EVENT_HANDLER	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	366;"	p	line:366	file:	signature:(USB_EVENT event, void *pdata, WORD size)
+USER_USB_CALLBACK_EVENT_HANDLER	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	221;"	f	line:221	signature:(USB_EVENT event, void *pdata, WORD size)
+USTATcopy	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	268;"	v	line:268
+UW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	346;"	m	line:346	struct:<anonymous>::__PACKED
+UW	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	568;"	m	line:568	struct:<anonymous>::__PACKED
+V25TER::0x01	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	138;"	d	line:138
+VOID	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	429;"	t	line:429
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	333;"	m	line:333
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	421;"	m	line:421
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	465;"	m	line:465
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	555;"	m	line:555
+Val	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1688;"	m	line:1688
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1712;"	m	line:1712
+WORD	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	435;"	t	line:435
+WORD_BITS	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
+WORD_VAL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
+_BIT	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+_BOOL	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	64;"	g	line:64
+_CDC_NOTICE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	623;"	u	line:623
+_CONTROL_SIGNAL_BITMAP	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	572;"	u	line:572
+_LINE_CODING	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	557;"	u	line:557
+_USB_CDC_ACM_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	595;"	s	line:595
+_USB_CDC_CALL_MGT_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	614;"	s	line:614
+_USB_CDC_HEADER_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	586;"	s	line:586
+_USB_CDC_UNION_FN_DSC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	604;"	s	line:604
+_USB_H_	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb.h	100;"	d	line:100
+__EXTENSION	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
+__EXTENSION	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	640;"	d	line:640
+__EXTENSION::__extension__	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
+__GENERIC_TYPE_DEFS_H_	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	48;"	d	line:48
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	334;"	m	line:334
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	335;"	m	line:335
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	336;"	m	line:336
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	337;"	s	line:337
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	342;"	s	line:342
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	349;"	s	line:349
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	450;"	s	line:450
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	466;"	m	line:466
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	467;"	s	line:467
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	472;"	s	line:472
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	498;"	s	line:498
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	503;"	s	line:503
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	510;"	s	line:510
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	515;"	s	line:515
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	556;"	m	line:556
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	557;"	m	line:557
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	558;"	m	line:558
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	559;"	s	line:559
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	564;"	s	line:564
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	571;"	s	line:571
+__PACKED	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
+__USB_DESCRIPTORS_C	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	154;"	d	line:154	file:
+_byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	561;"	m	line:561	struct:_LINE_CODING::<anonymous>
+_byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	574;"	m	line:574	union:_CONTROL_SIGNAL_BITMAP
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	112;"	m	line:112
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	190;"	m	line:190
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	242;"	m	line:242
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	351;"	m	line:351	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	573;"	m	line:573	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	113;"	m	line:113
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	243;"	m	line:243
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	352;"	m	line:352	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	574;"	m	line:574	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	144;"	m	line:144
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	252;"	m	line:252
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	583;"	m	line:583	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	145;"	m	line:145
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	584;"	m	line:584	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	202;"	m	line:202
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	585;"	m	line:585	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	586;"	m	line:586	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	587;"	m	line:587	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	149;"	m	line:149
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	257;"	m	line:257
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	588;"	m	line:588	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	367;"	m	line:367	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	589;"	m	line:589	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	207;"	m	line:207
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	368;"	m	line:368	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	590;"	m	line:590	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	369;"	m	line:369	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	591;"	m	line:591	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	370;"	m	line:370	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	592;"	m	line:592	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	244;"	m	line:244
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	353;"	m	line:353	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	575;"	m	line:575	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	371;"	m	line:371	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	593;"	m	line:593	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	594;"	m	line:594	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	264;"	m	line:264
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	373;"	m	line:373	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	595;"	m	line:595	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	374;"	m	line:374	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	596;"	m	line:596	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266
+b24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318
+b24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	375;"	m	line:375	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	597;"	m	line:597	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267
+b25	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319
+b25	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	598;"	m	line:598	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268
+b26	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320
+b26	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	599;"	m	line:599	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269
+b27	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321
+b27	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	378;"	m	line:378	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	544;"	m	line:544	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	600;"	m	line:600	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270
+b28	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322
+b28	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	379;"	m	line:379	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	545;"	m	line:545	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	601;"	m	line:601	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271
+b29	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323
+b29	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	380;"	m	line:380	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	546;"	m	line:546	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	602;"	m	line:602	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	245;"	m	line:245
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	354;"	m	line:354	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	477;"	m	line:477	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	576;"	m	line:576	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272
+b30	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324
+b30	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	547;"	m	line:547	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	603;"	m	line:603	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273
+b31	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325
+b31	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	548;"	m	line:548	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	604;"	m	line:604	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	605;"	m	line:605	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	606;"	m	line:606	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	607;"	m	line:607	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	608;"	m	line:608	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	609;"	m	line:609	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	610;"	m	line:610	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	611;"	m	line:611	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	612;"	m	line:612	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	246;"	m	line:246
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	355;"	m	line:355	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	456;"	m	line:456	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	478;"	m	line:478	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	577;"	m	line:577	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	613;"	m	line:613	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	614;"	m	line:614	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	615;"	m	line:615	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	616;"	m	line:616	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	617;"	m	line:617	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	618;"	m	line:618	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	397;"	m	line:397	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	619;"	m	line:619	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	398;"	m	line:398	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	620;"	m	line:620	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	399;"	m	line:399	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	621;"	m	line:621	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	400;"	m	line:400	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	622;"	m	line:622	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	117;"	m	line:117
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	195;"	m	line:195
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	356;"	m	line:356	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	457;"	m	line:457	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	479;"	m	line:479	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	578;"	m	line:578	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	401;"	m	line:401	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	623;"	m	line:623	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	624;"	m	line:624	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	625;"	m	line:625	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	404;"	m	line:404	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	626;"	m	line:626	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	405;"	m	line:405	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	627;"	m	line:627	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	406;"	m	line:406	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	628;"	m	line:628	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	629;"	m	line:629	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	630;"	m	line:630	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	409;"	m	line:409	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	631;"	m	line:631	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	410;"	m	line:410	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	632;"	m	line:632	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	357;"	m	line:357	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	458;"	m	line:458	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	579;"	m	line:579	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	411;"	m	line:411	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	633;"	m	line:633	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	634;"	m	line:634	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	635;"	m	line:635	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	636;"	m	line:636	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	141;"	m	line:141
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	358;"	m	line:358	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	459;"	m	line:459	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	580;"	m	line:580	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	142;"	m	line:142
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	581;"	m	line:581	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	143;"	m	line:143
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	582;"	m	line:582	struct:<anonymous>::__PACKED
+bCharFormat	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	566;"	m	line:566	struct:_LINE_CODING::<anonymous>
+bDataBits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	568;"	m	line:568	struct:_LINE_CODING::<anonymous>
+bDataInterface	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	620;"	m	line:620	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscSubType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	590;"	m	line:590	struct:_USB_CDC_HEADER_FN_DSC
+bDscSubType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	599;"	m	line:599	struct:_USB_CDC_ACM_FN_DSC
+bDscSubType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	608;"	m	line:608	struct:_USB_CDC_UNION_FN_DSC
+bDscSubType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	618;"	m	line:618	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	589;"	m	line:589	struct:_USB_CDC_HEADER_FN_DSC
+bDscType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	598;"	m	line:598	struct:_USB_CDC_ACM_FN_DSC
+bDscType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	607;"	m	line:607	struct:_USB_CDC_UNION_FN_DSC
+bDscType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	617;"	m	line:617	struct:_USB_CDC_CALL_MGT_FN_DSC
+bDscType	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	271;"	m	line:271	file:
+bDscType	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	275;"	m	line:275	file:
+bDscType	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	282;"	m	line:282	file:
+bFNLength	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	588;"	m	line:588	struct:_USB_CDC_HEADER_FN_DSC
+bFNLength	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	597;"	m	line:597	struct:_USB_CDC_ACM_FN_DSC
+bFNLength	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	606;"	m	line:606	struct:_USB_CDC_UNION_FN_DSC
+bFNLength	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	616;"	m	line:616	struct:_USB_CDC_CALL_MGT_FN_DSC
+bLength	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	271;"	m	line:271	file:
+bLength	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	275;"	m	line:275	file:
+bLength	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	282;"	m	line:282	file:
+bMasterIntf	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	609;"	m	line:609	struct:_USB_CDC_UNION_FN_DSC
+bParityType	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	567;"	m	line:567	struct:_LINE_CODING::<anonymous>
+bRam	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1670;"	m	line:1670
+bRam	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1701;"	m	line:1701
+bRom	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1671;"	m	line:1671
+bSaveIntf0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	610;"	m	line:610	struct:_USB_CDC_UNION_FN_DSC
+bcdCDC	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	591;"	m	line:591	struct:_USB_CDC_HEADER_FN_DSC
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	460;"	m	line:460
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	549;"	m	line:549
+bits	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	637;"	m	line:637
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1687;"	m	line:1687
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1711;"	m	line:1711
+bmCapabilities	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	600;"	m	line:600	struct:_USB_CDC_ACM_FN_DSC
+bmCapabilities	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	619;"	m	line:619	struct:_USB_CDC_CALL_MGT_FN_DSC
+busy	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1686;"	m	line:1686
+busy	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1710;"	m	line:1710
+buttonCount	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	24;"	v	line:24
+buttonPressed	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	23;"	v	line:23
+byte	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	155;"	m	line:155
+byte	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286
+byte	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	471;"	m	line:471
+byte	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509
+byteToRead	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2215;"	l	line:2215
+byteToSend	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2134;"	l	line:2134
+byte_to_send	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	717;"	l	line:717
+cdc_data_rx	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	122;"	v	line:122
+cdc_data_tx	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	123;"	v	line:123
+cdc_mem_type	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	133;"	v	line:133
+cdc_notice	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	121;"	v	line:121
+cdc_rx_len	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	127;"	v	line:127
+cdc_trf_state	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	129;"	v	line:129
+cdc_tx_len	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	132;"	v	line:132
+configDescriptor1	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	185;"	v	line:185
+controlTransferState	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	262;"	v	line:262
+control_signal_bitmap	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	139;"	v	line:139
+ctrl_trf_mem	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1680;"	m	line:1680
+current_ep_data	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1483;"	l	line:1483
+cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32\Microchip\Common\TimeDelay.c	178;"	l	line:178
+cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32\Microchip\Common\TimeDelay.c	70;"	l	line:70
+delay_count	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	190;"	l	line:190	file:
+device_dsc	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	166;"	v	line:166
+dummy_encapsulated_cmd_response	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	151;"	v	line:151
+dummy_length::0x08	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	150;"	d	line:150	file:
+dwDTERate	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	565;"	m	line:565	struct:_LINE_CODING::<anonymous>
+dword	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	341;"	m	line:341
+dword	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	563;"	m	line:563
+endpoint_number	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	269;"	v	line:269
+ep_data_in	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	271;"	v	line:271
+ep_data_out	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	272;"	v	line:272
+getsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	648;"	p	line:648	signature:(char *buffer, BYTE len)
+getsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	370;"	f	line:370	signature:(char *buffer, BYTE len)
+handle	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2389;"	l	line:2389
+handle	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2630;"	l	line:2630
+hid_report_in	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	322;"	v	line:322
+hid_report_out	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	321;"	v	line:321
+high	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238
+high	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290
+high	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+i	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	718;"	l	line:718
+i	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2216;"	l	line:2216
+i	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2319;"	l	line:2319
+i	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	450;"	l	line:450
+i	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	580;"	l	line:580
+i	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	81;"	l	line:81
+inPipes	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	263;"	v	line:263
+includeZero	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1684;"	m	line:1684
+info	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1689;"	m	line:1689
+info	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1713;"	m	line:1713
+lastDTS	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1326;"	l	line:1326
+led_count	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	102;"	l	line:102	file:
+len	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	516;"	l	line:516
+len	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	613;"	l	line:613
+line_coding	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	124;"	v	line:124
+low	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237
+low	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289
+low	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+mLED_Both_Off::{LED1_OFF;LED2_OFF;}	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	107;"	d	line:107	file:
+mLED_Both_On::{LED1_ON;LED2_ON;}	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	108;"	d	line:108	file:
+mLED_Only_1_On::{LED1_ON;LED2_OFF;}	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	109;"	d	line:109	file:
+mLED_Only_2_On::{LED1_OFF;LED2_ON;}	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	110;"	d	line:110	file:
+mUSBUSARTIsTxTrfReady::USBUSARTIsTxTrfReady	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	473;"	d	line:473
+mUSBUSARTTxRam::(pData,len)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	511;"	d	line:511
+mUSBUSARTTxRom::(pData,len)	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	550;"	d	line:550
+main	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	29;"	f	line:29
+msd_buffer	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	334;"	v	line:334
+msd_cbw	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	327;"	v	line:327
+msd_csw	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	328;"	v	line:328
+numBytesRead	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	60;"	l	line:60
+outPipes	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	264;"	v	line:264
+p	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1482;"	l	line:1482
+p	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1927;"	l	line:1927
+p	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2481;"	l	line:2481
+p	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2524;"	l	line:2524
+pBDTEntryEP0OutCurrent	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	257;"	v	line:257
+pBDTEntryEP0OutNext	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	258;"	v	line:258
+pBDTEntryIn	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	260;"	v	line:260
+pBDTEntryOut	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	259;"	v	line:259
+pCDCDst	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	131;"	v	line:131
+pCDCSrc	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	130;"	v	line:130
+pData	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	517;"	l	line:517
+pData	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	614;"	l	line:614
+pDst	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1703;"	m	line:1703
+pDst	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	265;"	v	line:265
+pFunc	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1715;"	m	line:1715
+pFunc	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1386;"	p	line:1386	file:
+pFunc	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	2274;"	p	line:2274	file:
+pSrc	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1674;"	m	line:1674
+packet	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	627;"	m	line:627	union:_CDC_NOTICE
+putUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	650;"	p	line:650	signature:(char *data, BYTE Length)
+putUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	441;"	f	line:441	signature:(char *data, BYTE length)
+putrsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	649;"	p	line:649	signature:(const ROM char *data)
+putrsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	611;"	f	line:611	signature:(const ROM char *data)
+putsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_cdc.h	651;"	p	line:651	signature:(char *data)
+putsUSBUSART	C:\Proyectos C32\SkP32v1.1\Microchip\USB\CDC Device Driver\usb_function_cdc.c	514;"	f	line:514	signature:(char *data)
+reserved	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1681;"	m	line:1681
+reserved	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1708;"	m	line:1708
+sd000	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	271;"	v	line:271
+sd001	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	275;"	v	line:275
+sd002	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	282;"	v	line:282
+self_power::1	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	77;"	d	line:77
+setup_cnt	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	1128;"	l	line:1128
+shortPacketStatus	C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c	261;"	v	line:261
+string	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	271;"	m	line:271	file:
+string	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	275;"	m	line:275	file:
+string	C:\Proyectos C32\SkP32v1.1\USB-CDC\usb_descriptors.c	282;"	m	line:282	file:
+stringPrinted	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	22;"	v	line:22
+sw2	C:\Proyectos C32\SkP32v1.1\USB-CDC\main.c	157;"	l	line:157
+tris_self_power::TRISAbits.TRISA2	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	76;"	d	line:76
+tris_usb_bus_sense::TRISBbits.TRISB5	C:\Proyectos C32\SkP32v1.1\USB-CDC\HardwareProfileSkP32.h	80;"	d	line:80
+v	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126
+v	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181
+v	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222
+v	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	423;"	m	line:423
+w	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221
+w	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	422;"	m	line:422
+wCount	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1690;"	m	line:1690
+wCount	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1714;"	m	line:1714
+wRam	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1672;"	m	line:1672
+wRam	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1702;"	m	line:1702
+wRom	C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h	1673;"	m	line:1673
+word	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279
+word	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	348;"	m	line:348
+word	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502
+word	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	570;"	m	line:570
+wordUnion	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291
+wordUnion	C:\Proyectos C32\SkP32\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514

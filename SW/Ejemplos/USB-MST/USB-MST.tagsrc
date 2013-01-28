@@ -1,0 +1,24 @@
+C:\Proyectos C32\SkP32v1.1\USB-MST\main.c
+C:\Proyectos C32\SkP32v1.1\Microchip\Common\TimeDelay.c
+C:\Proyectos C32\SkP32v1.1\USB-MST\usb_descriptors.c
+C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device.c
+C:\Proyectos C32\SkP32v1.1\Microchip\USB\MSD Device Driver\usb_function_msd.c
+C:\Proyectos C32\SkP32v1.1\Microchip\MDD File System\FSIO.c
+C:\Proyectos C32\SkP32v1.1\Microchip\MDD File System\SD-SPI.c
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\TimeDelay.h
+C:\Proyectos C32\SkP32v1.1\USB-MST\FSconfig.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_ch9.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_common.h
+C:\Proyectos C32\SkP32v1.1\USB-MST\usb_config.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_device.h
+C:\Proyectos C32\SkP32v1.1\Microchip\USB\usb_device_local.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_function_msd.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_hal.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\USB\usb_hal_pic32.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h
+C:\Proyectos C32\SkP32v1.1\USB-MST\HardwareProfile.h
+C:\Proyectos C32\SkP32v1.1\USB-MST\HardwareProfileSkP32.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\MDD File System\FSDefs.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\MDD File System\FSIO.h
+C:\Proyectos C32\SkP32v1.1\Microchip\Include\MDD File System\SD-SPI.h

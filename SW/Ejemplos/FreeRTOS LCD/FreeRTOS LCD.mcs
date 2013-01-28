@@ -1,0 +1,137 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\main.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\list.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\queue.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\tasks.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\heap_2.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\port.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\port_asm.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={92E15EC6-5E91-4BF4-B5FA-C80AD2601AA7}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ar.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=--keep-locals --gdwarf-2
+TraceCmdString=
+DebugOptions=--defsym=__DEBUG=1
+[File007]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Objects\Driver LCD.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g -DMPLAB_PIC32MX_PORT -fomit-frame-pointer
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Hex\FreeRTOS LCD.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=0 --defsym=_min_heap_size=0 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O3
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File009]
+Location=C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\Hex\FreeRTOS LCD.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)|..\..\FreeRTOS\Source\portable\MPLAB\PIC32MX;..;.||$(INCDIR)|..\Drivers FreeRTOS Micros-Designs\include;..\..\Microchip\Include;..\Microchip\Include;..\..\..\include;..\..\include;..\include;.;..\FreeRTOS\Source\include;..\FreeRTOS\Source\portable\MPLAB\PIC32MX||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|main.c|..\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c|..\FreeRTOS\Source\portable\MemMang\heap_2.c|..\FreeRTOS\Source\list.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c|..\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S|..\FreeRTOS\Source\queue.c|..\FreeRTOS\Source\tasks.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=0 --defsym=_min_heap_size=0 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -O3
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{92E15EC6-5E91-4BF4-B5FA-C80AD2601AA7}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ar.exe
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files\Microchip\mplabc32\v2.02\bin\pic32-ld.exe

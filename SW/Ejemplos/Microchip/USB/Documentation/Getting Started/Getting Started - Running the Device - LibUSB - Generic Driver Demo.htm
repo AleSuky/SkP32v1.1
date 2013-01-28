@@ -1,0 +1,1192 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<title>Getting Started: Running the “Device - Libusb - Generic driver demo”</title>
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Arial","sans-serif";}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:0in;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Arial","sans-serif";}
+h4
+	{mso-style-link:"Heading 4 Char";
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	font-style:italic;}
+p.MsoToc1, li.MsoToc1, div.MsoToc1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoToc2, li.MsoToc2, div.MsoToc2
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:12.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoToc3, li.MsoToc3, div.MsoToc3
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:24.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;
+	font-style:italic;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-link:"Heading 4";
+	font-family:"Cambria","serif";
+	font-weight:bold;
+	font-style:italic;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-link:"Plain Text";
+	font-family:"Courier New";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+p.msolistparagraphcxspfirst, li.msolistparagraphcxspfirst, div.msolistparagraphcxspfirst
+	{mso-style-name:msolistparagraphcxspfirst;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msolistparagraphcxspmiddle, li.msolistparagraphcxspmiddle, div.msolistparagraphcxspmiddle
+	{mso-style-name:msolistparagraphcxspmiddle;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msolistparagraphcxsplast, li.msolistparagraphcxsplast, div.msolistparagraphcxsplast
+	{mso-style-name:msolistparagraphcxsplast;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 65.95pt 1.0in 65.95pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US link=blue vlink=purple>
+
+<div class=Section1>
+
+<p class=MsoPlainText align=center style='text-align:center'><a
+name="_Toc194573682"><b><u><span style='font-size:16.0pt;font-family:"Arial","sans-serif"'>Getting
+Started: Running the “Device – Libusb – Generic Driver Demo</span></u></b></a><b><u><span
+style='font-size:16.0pt;font-family:"Arial","sans-serif"'>”</span></u></b></p>
+
+<p class=MsoPlainText><span style='font-size:16.0pt;font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301515996">Required
+Hardware:<span style='color:windowtext;display:none;text-decoration:none'> 1</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301515997">Configuration
+1: PICDEM FS USB<span style='color:windowtext;display:none;text-decoration:
+none'>.. 1</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301515998">Configuration
+2: PIC18F87J50 PIM<span style='color:windowtext;display:none;text-decoration:
+none'>... 1</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301515999">Configuration
+3: Explorer 16<span style='color:windowtext;display:none;text-decoration:none'>.
+1</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516000">Configuration
+4: Low Pin Count USB Development Kit<span style='color:windowtext;display:none;
+text-decoration:none'> 2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516001">Configuration
+5: PIC24F Starter Kit 1<span style='color:windowtext;display:none;text-decoration:
+none'>. 2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516002">Configuration
+6: PIC18F46J50 Full Speed USB Demo Board<span style='color:windowtext;
+display:none;text-decoration:none'>. 2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516003">Configuration
+7: PIC32 USB Starter Board<span style='color:windowtext;display:none;
+text-decoration:none'>. 2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516004">Configuration
+8: PIC18F Starter Kit<span style='color:windowtext;display:none;text-decoration:
+none'> 2</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516005">Configuring
+the Hardware:<span style='color:windowtext;display:none;text-decoration:none'>
+2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516006">Configuration
+1: PICDEM FS USB<span style='color:windowtext;display:none;text-decoration:
+none'>.. 2</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516007">Configuration
+2: PIC18F87J50 PIM<span style='color:windowtext;display:none;text-decoration:
+none'>... 3</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516008">Configuration
+3: Explorer 16<span style='color:windowtext;display:none;text-decoration:none'>.
+4</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516009">Configuration
+4: Low Pin Count USB Development Kit<span style='color:windowtext;display:none;
+text-decoration:none'> 7</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516010">Configuration
+5: PIC24F Starter Kit 1<span style='color:windowtext;display:none;text-decoration:
+none'>. 7</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516011">Configuration
+6: PIC18F46J50 Full Speed USB Demo Board<span style='color:windowtext;
+display:none;text-decoration:none'>. 7</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516012">Configuration
+7: PIC32 USB Starter Board<span style='color:windowtext;display:none;
+text-decoration:none'>. 8</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516013">Configuration
+8: PIC18F Starter Kit<span style='color:windowtext;display:none;text-decoration:
+none'> 8</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516014">Firmware<span
+style='color:windowtext;display:none;text-decoration:none'>. 8</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516015">Running the
+Demo (Windows):<span style='color:windowtext;display:none;text-decoration:none'>
+9</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516016">Running the
+Demo (Linux):<span style='color:windowtext;display:none;text-decoration:none'>
+11</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516017">Running the
+Demo (Android v3.1+)<span style='color:windowtext;display:none;text-decoration:
+none'> 12</span></a></span></p>
+
+<p class=MsoToc3><span class=MsoHyperlink><a href="#_Toc301516018">Getting the
+App<span style='color:windowtext;display:none;text-decoration:none'>. 12</span></a></span></p>
+
+<p class=MsoToc2 style='text-indent:12.0pt'><span class=MsoHyperlink><a
+href="#_Toc301516019">Running the Demo<span style='color:windowtext;display:
+none;text-decoration:none'>. 12</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516020">Push Button<span
+style='color:windowtext;display:none;text-decoration:none'>. 12</span></a></span></p>
+
+<p class=MsoToc2><span class=MsoHyperlink><a href="#_Toc301516021">Trademarks:<span
+style='color:windowtext;display:none;text-decoration:none'> 16</span></a></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h2><a name="required_hardware"></a><a name="_Toc301515996"></a><a
+name="_Toc234121094"></a>Required Hardware:</h2>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp; To
+run this project, you will need one of the following sets of hardware:</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3>&nbsp;&nbsp;&nbsp; <a name="_Toc234121095"></a><a name="_Toc301515997"></a>Configuration
+1: PICDEM FS USB</h3>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=DM163025">PICDEM
+FS USB</a> (DM163025)</span></p>
+
+<h3>&nbsp;&nbsp;&nbsp; <a name="_Toc234121096"></a><a name="_Toc301515998"></a>Configuration
+2: PIC18F87J50 PIM</h3>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=MA180021">PIC18F87J50
+Plug-In-Module (PIM)</a> (MA180021)</span></p>
+
+<h3>&nbsp;&nbsp;&nbsp; <a name="_Toc234121097"></a><a name="_Toc301515999"></a>Configuration
+3: Explorer 16</h3>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=DM240001">Explorer
+16</a> (DM240001)</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.microchipdirect.com/productsearch.aspx?Keywords=AC164131">USB
+PICtail™ Plus Daughter Card</a> (AC164131)</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+And one of the following PIMs</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span lang=DE
+style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=MA240019"><span
+lang=EN-US>PIC24FJ64GB004 Plug-In-Module (PIM)</span></a></span><span
+style='font-family:"Arial","sans-serif"'> (MA240019)</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=MA240014">PIC24FJ256GB110
+Plug-In-Module (PIM)</a> (MA240014)</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=MA320002">PIC32MX
+USB Plug-In-Module (PIM)</a> (MA320002)</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'>dsPIC33EP512MU810 Plug-In-Module (PIM)
+</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'>PIC24EP512GU810 Plug-In-Module (PIM) </span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3><a name="_Toc200532837">&nbsp;&nbsp;&nbsp; </a><a name="_Toc234121098"></a><a
+name="_Toc301516000"></a>Configuration 4: Low Pin Count USB Development Kit</h3>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>Low
+Pin Count USB Development Kit with PICKit 2 Debugger/Programmer (<a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=DV164126">DV164126</a>)
+or without Debugger/Programmer (<a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=DM164127">DM164127</a>)</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3><a name="_Toc207092141">&nbsp;&nbsp;&nbsp; </a><a name="_Toc234121099"></a><a
+name="_Toc301516001"></a>Configuration 5: PIC24F Starter Kit 1</h3>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=PIC24F+starter">PIC24F
+Starter Kit 1</a> (DM240011)</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3>&nbsp;&nbsp;&nbsp; <a name="_Toc207767006"></a><a name="_Toc301516002"></a><a
+name="_Toc234121100"></a>Configuration 6: PIC18F46J50 Full Speed USB Demo Board</h3>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=MA180024">PIC18F46J50
+Full Speed USB Demo Board</a> (MA180024)</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3><a name="_Toc229910187">&nbsp;&nbsp;&nbsp; </a><a name="_Toc231699768"></a><a
+name="_Toc301516003"></a><a name="_Toc234121101"></a>Configuration 7: PIC32 USB
+Starter Board</h3>
+
+<p class=MsoPlainText style='text-indent:.5in'><span lang=DE style='font-family:
+"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/productsearch.aspx?Keywords=DM320003"><span
+lang=EN-US>PIC32 USB Starter Board</span></a> </span><span style='font-family:
+"Arial","sans-serif"'>(DM320003)</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3><a name="_Toc245819251">&nbsp;&nbsp;&nbsp; </a><a name="_Toc301516004"></a>Configuration
+8: PIC18F Starter Kit</h3>
+
+<p class=MsoPlainText style='margin-left:.25in'><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang=DE style='font-family:"Arial","sans-serif"'><a
+href="http://www.microchipdirect.com/ProductSearch.aspx?Keywords=DM180021"><span
+lang=EN-US>PIC18F Starter Kit</span></a></span><span style='font-family:"Arial","sans-serif"'>
+(DM180021)</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h2><a name="configuring_the_hardware"></a><a name="_Toc301516005"></a><a
+name="_Toc234121102"></a>Configuring the Hardware:</h2>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>This
+section describes how to set up the various configurations of hardware to run this
+demo.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#config_1">Configuration 1: PICDEM FS USB</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#config_2">Configuration 2: PIC18F87J50 PIM</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#config_3">Configuration 3: PIC24FJ256GB110 PIM + Explorer 16</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#_Configuration_4:_Low">Configuration 4: Low Pin Count USB Development
+Kit</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#config_5">Configuration 5: PIC24F Starter Kit 1</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#config_6">Configuration 6: PIC18F46J50 Full Speed USB Demo Board</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><a
+href="#_Configuration_7:_PIC32">Configuration 7: PIC32MX USB Starter Board</a></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'>&nbsp;<a name="config_1"></a><a
+name="_Toc301516006"></a><a name="_Toc234121103"></a>Configuration 1: PICDEM FS
+USB</h3>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>1)
+If using the PICDEM FS USB Demo Board, no hardware related configuration or
+jumper setting changes should be necessary.&nbsp; The demo board need only be
+programmed with appropriate firmware.&nbsp; </span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=409 height=245
+src="../images/PICDEM%20FS%20USB%20Demo%20Board.JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3>&nbsp;<a name="config_2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a><a
+name="_Toc234121104"></a><a name="_Toc301516007"></a>Configuration 2:
+PIC18F87J50 PIM</h3>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>1)
+Short JP4 on the PIC18F87J50 PIM.&nbsp; This allows the demo board to be
+powered through bus power.</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=268 height=293 src="../images/PIC18F87J50%20PIM%20JP4.JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>2)
+Short JP1 such that the “R” and “U” options are shorted.&nbsp; </span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=268 height=293 src="../images/PIC18F87J50%20PIM%20JP1.JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class=apple-style-span><span style='color:black'>3) Short JP5 on
+PIC18F87J50 PIM. This connects the LEDs to RE0 and RE1 pins of the
+Microcontroller.&nbsp;</span></span></span></p>
+
+<p class=MsoPlainText><span class=apple-style-span><span style='font-family:
+"Arial","sans-serif";color:black'>&nbsp;</span></span></p>
+
+<p class=MsoPlainText><span class=apple-style-span><span style='font-family:
+"Arial","sans-serif";color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial","sans-serif";color:black'><img
+border=0 width=268 height=292 src="../images/PIC18F87J50%20PIM%20JP5.jpg"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>4)
+Before connecting the PIC18F87J50 PIM to the HPC Explorer board, remove all
+attached cables from both boards.&nbsp; Connect the PIC18F87J50 PIM to the HPC
+Explorer board.&nbsp; Be careful when connecting the boards to insure that no
+pins are bent or damaged during the process.&nbsp; Also insure that the PIM is
+not shifted in any direction and that all of the headers are properly aligned.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'><a name="config_3"></a><a name="_Toc301516008"></a><a
+name="_Toc234121105"></a>Configuration 3: Explorer 16</h3>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>1)
+Before attaching the PIM to the Explorer 16 board, insure that the processor
+selector switch (S2) is in the “PIM” position as seen in the image below. </span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=473 height=356
+src="../images/Explorer%2016%20(processor%20switch).JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>2)
+Short the J7 jumper to the “PIC24” setting</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=402 height=334
+src="../images/Explorer%2016%20(programming%20jumper).JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>3)
+Before connecting the PIM to the Explorer 16 board, remove all attached cables
+from both boards.&nbsp; Connect the PIM to the Explorer 16 board.&nbsp; Be
+careful when connecting the boards to insure that no pins are bent or damaged
+during the process.&nbsp; Also insure that the PIM is not shifted in any
+direction and that all of the headers are properly aligned.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3a)&nbsp; If using the PIC24FJ64GB004 PIM, please insure that the programming
+port switch is switched in the PGX1 direction.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><img border=0
+width=220 height=202 src="../images/pic24fj64gb004_pim_switch.jpg"></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>4)&nbsp;
+On the USB PICTail Plus board, short jumper JP1.&nbsp; Remove all other shorts
+on the board.</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=365 height=499
+src="../images/USB%20PICTail+%20(Device%20Enabled).JPG"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>5)&nbsp;
+Connect the USB PICTail Plus board to either of the female PICTail Plus
+connectors or on the card edge connector (J9) at the edge of the Explorer 16
+board.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-size:12.0pt;
+font-family:"Arial","sans-serif"'>Note: When using the HID bootloader for
+PIC32, it is important to modify the procdefs.ld file to relocate the sections of
+code that will hold the bootloader and those sections that will hold the user
+application.&nbsp; Example modified procdefs.ld files have been provided with
+each project.&nbsp; This file is currently named “Procdefs.ld.boot”.&nbsp; When
+using the example project with the bootloader it is required to remove the
+“.boot” section of the file.&nbsp; This will allow MPLAB to use this file
+instead of the default linker file.&nbsp; Once the linker file is renamed,
+however, the project will no longer work without the bootloader.&nbsp; Please rename
+the file in order to get the project working again with PIC32.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'><a name="_Toc301516009"></a><a name="_Toc234121106"></a><a
+name="_Toc200532842"></a><a name="_Configuration_4:_Low"></a>Configuration 4:
+Low Pin Count USB Development Kit</h3>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>1) Short pins 2
+and 3 of J14.&nbsp; Make sure J12 is left open.</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><img
+border=0 width=191 height=168 src="../images/LPCDK-J14.jpg"></span></p>
+
+<h3 style='text-indent:.5in'><a name="_Toc207092147"></a><a name="config_5"></a><a
+name="_Toc301516010"></a><a name="_Toc234121107"></a>Configuration 5: PIC24F
+Starter Kit 1</h3>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>The PIC24F Starter Kit does not require any
+hardware setup to run this demo.&nbsp; This demo does, however, require the
+user to change the default selected device in the project before compiling the
+demo.</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1) Open the associated project file for C30</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2) In MPLAB Select “Configure-&gt;Select Device”</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3) In the device list box in the top left corner of that window, select “PIC24FJ256GB1<b><u>06</u></b>”</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'><a name="_Toc207767013"></a><a name="config_6"></a><a
+name="_Toc301516011"></a><a name="_Toc234121108"></a>Configuration 6:
+PIC18F46J50 Full Speed USB Demo Board</h3>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1) Short JP3 to allow the board to be powered from the USB.</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><img
+border=0 width=214 height=233 src="../images/PIC18F46J50%20PIM%20(JP3).jpg"></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'><a name="_Toc301516012"></a><a name="_Toc234121109"></a><a
+name="_Toc231699773"></a><a name="_Configuration_7:_PIC32"></a>Configuration 7:
+PIC32 USB Starter Board</h3>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>No specific hardware configuration is
+required for this demo. Connect the USB cable to the OTG connector J5 on the
+bottom of the board.</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=207 height=209 src="../images/pic32_starter_kit_top.jpg"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h3 style='text-indent:.5in'><a name="_Toc245131255"></a><a name="_Toc301516013"></a><a
+name="_Toc245819260"></a><a name="_Toc245125658"></a>Configuration 8: PIC18F
+Starter Kit</h3>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>No specific hardware configuration is
+required for this demo.</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'><img border=0 width=286 height=421
+src="../images/pic18f_starter_kit.jpg"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><a name=firmware></a><a name="_Toc301516014"></a><span
+class=Heading2Char><span style='font-size:14.0pt'>Firmware</span></span><span
+style='font-family:"Arial","sans-serif"'>:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>To
+run this project, you will need to load the corresponding firmware into the
+microcontroller.&nbsp; Precompiled Demos are available in the “&lt;Install
+Directory&gt;\USB Precompiled Demos” folders.&nbsp; Each demo hex filename
+should include information regarding the hardware platform it is compiled
+for.&nbsp; For this demo, select the appropriate “LibUSB – Generic Driver Demo”
+hex files that matches the hardware configuration that you plan to use.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+more information about how to load a precompiled project, please see the
+“Getting Started – Loading a precompiled demo” guide.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+source code for this demo firmware is available in the “&lt;Install Directory\</span>
+<span style='font-family:"Arial","sans-serif"'>USB Device - LibUSB - Generic
+Driver Demo\LibUSB Simple Demo - Firmware” directory.&nbsp; In this directory
+you will find all of the user level source and header files as well as project
+and workspace files for each of the hardware platforms.&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Please
+note that when using either the C30 or C32 demo projects you will be required
+to select the correct processor for the demo board.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'>1) Open the associated project file</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2) In MPLAB Select “Configure-&gt;Select Device”</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3) In the device list box in the top left corner of that window, select the
+desired device.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+more help on how to compile and program projects, please refer to the MPLAB®
+IDE help available through the help menu of MPLAB (Help-&gt;Topics…-&gt;MPLAB
+IDE).</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><a name="running_the_demo"></a><a name="_Toc301516015"></a><span
+class=Heading2Char><span style='font-size:14.0pt'>Running the Demo (Windows):</span></span><span
+style='font-family:"Arial","sans-serif"'> </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>This
+demo uses the selected hardware platform as a Libusb class USB device.&nbsp;
+Libusb-Win32 is a USB Library for the Windows operating systems. </span>&nbsp;<span
+style='font-family:"Arial","sans-serif"'>The library allows user space
+applications to access any USB device on Windows in a generic way without
+writing any line of kernel driver code.</span> <span style='font-family:"Arial","sans-serif"'>This
+driver allows users to have access to interrupt, bulk, and control transfers
+directly.&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+SimpleLibUSBDemo.exe program and the associated firmware demonstrate how to use
+the Libusb device drivers for basic general purpose USB data transfer.&nbsp; To
+make the PC source code as easy to understand as possible, the demo has
+deliberately been made simple, and only sends/receives small amounts of
+data.&nbsp;&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Before you can run the SimpleLibUSBDemo.exe
+executable, you will need to have the Microsoft® .NET Framework Version 3.5
+Redistributable Package (later versions probably okay, but not tested)
+installed on your computer.&nbsp; Programs which were built in the Visual
+Studio® .NET languages require the .NET redistributable package in order to
+run.&nbsp; The redistributable package can be freely downloaded from
+Microsoft’s website.&nbsp; Users of Windows Vista® operating systems will not
+need to install the .NET framework, as it comes pre-installed as part of the
+operating system.</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+source code for SimpleLibUSBDemo.exe file was created in Microsoft Visual C++®
+2008 Express Edition.&nbsp; The source code can be found in the “&lt;Install
+Directory&gt;\ USB Device - Libusb - Generic Driver Demo\</span> <span
+style='font-family:"Arial","sans-serif"'>Libusb Simple Demo - Windows
+Application\Libusb Simple Demo - PC Application - MS VC++ 2008 Express”
+directory.&nbsp; Microsoft currently distributes Visual C++ 2008 Express
+Edition for free, and can be downloaded from Microsoft’s website.&nbsp; </span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>To
+launch the application, simply double click on the executable
+“SimpleLIbusbDemo.exe” in the “&lt;Install Directory&gt;\USB Device - Libusb -
+Generic Driver Demo\Windows Application” directory. A window like that shown
+below should appear:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><img border=0 width=352 height=130
+src="../images/libusb.jpg"></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>If
+instead of this window, an error message pops up while trying to launch the
+application, it is likely the Microsoft .NET Framework Version 3.5
+Redistributable Package has not yet been installed.&nbsp; Please install it and
+try again.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>In
+order to begin sending/receiving packets to the device, you must first find and
+“connect” to the device.&nbsp; As configured by default, the application is
+looking for USB devices with VID = 0x04D8 and PID = 0x0204.&nbsp; The device
+descriptor in the firmware project meant to be used with this demo uses the
+same VID/PID.&nbsp; To run the demo program the USB device with the correct
+precompiled .hex file.&nbsp; If you are connecting the device for the first
+time, Windows pops up a window asking you to install the driver for the
+device.&nbsp; When asked for the driver point it to the inf file provided along
+with the demo.&nbsp; Windows takes while to install the driver for the USB
+device that is just plugged in.&nbsp; Open the Device manager and ensure that
+the USB device is listed under the ‘Libusb Demo Devices’.&nbsp; Once the driver
+is installed hit the “Connect” button, the other pushbuttons should become
+enabled.&nbsp; If hitting the connect button has no effect, it is likely the
+USB device is either not connected, or has not been programmed with the correct
+firmware.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Hitting
+the Toggle LED(s) should send a single packet of general purpose generic data to
+the Custom class USB peripheral device.&nbsp; The data will arrive on the Bulk
+OUT endpoint.&nbsp; The firmware has been configured to receive this generic
+data packet, parse the packet looking for the “Toggle LED(s)” command, and
+should respond appropriately by controlling the LED(s) on the demo board.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+“Get Pushbutton State” button will send one packet of data over the USB to the
+peripheral device (to the Bulk OUT endpoint) requesting the current <a
+href="#_Push_Button">pushbutton</a> state.&nbsp;&nbsp; The firmware will
+process the received Get Pushbutton State command, and will prepare an
+appropriate response packet depending upon the pushbutton state.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 1 (PICDEM FS USB Demo Board), the firmware will check
+pushbutton “S2” (RB4).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 2 (PIC18F87J50 PIM), the firmware will check pushbutton
+“S4” (RB4).&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 3 (Explorer 16), the firmware will check pushbutton “S3”
+(RD6).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 4 (Low Pin Count USB Development Kit), the firmware will
+check pushbutton “S1” (RA3).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 5 (PIC24F Starter Kit 1), the pushbutton functionality
+is not implemented in this demo at this point of time.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 6 (PIC18F46J50 PIM), the firmware will check pushbutton
+“S2” (RB2).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 7 (PIC32 USB Starter Kit), the firmware will check
+pushbutton “SW1” (RD6).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+PC then requests a packet of data from the device (which will be taken from the
+Bulk IN endpoint).&nbsp; Once the PC application receives the response packet,
+it will update the pushbutton state label.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Try
+experimenting with the application by holding down the appropriate pushbutton
+on the demo board, and then simultaneously clicking on the “Get Pushbutton
+State” button.&nbsp; Then try to repeat the process, but this time without
+holding down the pushbutton on the demo board.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>To
+make for a more fluid and gratifying end user experience, a real USB
+application would probably want to launch a separate thread to periodically
+poll the pushbutton state, so as to get updates regularly.&nbsp; This is not
+done in this simple demo, so as to avoid cluttering the PC application project
+with source code that is not related to USB communication.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>In
+order to build the application, copy the file &lt;libusb-win32 unzipped
+folder&gt;\ libusb-win32-device-bin-0.1.12.1\lib\msvc\libusb.lib and paste to
+‘lib’ folder of the VC++. Also copy the file </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&lt;libusb-win32
+unzipped folder&gt;\ libusb-win32-device-bin-0.1.12.1\ include\usb.h and paste
+to the “&lt;Install Directory&gt;\USB Device - Libusb - Generic Driver
+Demo\Windows Application\Microsoft VC++ 2008 Express\SimpleLibusbDemo’ folder. </span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><a name="_Toc301516016"><span class=Heading2Char><span
+style='font-size:14.0pt'>Running the Demo (Linux):</span></span></a><span
+style='font-family:"Arial","sans-serif"'> </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+SimpleLibUSBDemo program and the associated firmware demonstrate how to use the
+Libusb device drivers for basic general purpose USB data transfer.&nbsp; To
+make the PC source code as easy to understand as possible, the demo has
+deliberately been made simple, and only sends/receives small amounts of
+data.&nbsp;&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Before
+you can run the SimpleLibUSBDemo executable, you will need to have the libusb
+0.1 driver installed on your computer.&nbsp; The libusb can be downloaded from
+sourceforge.net. </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+source code for SimpleLibUSBDemo.exe file was created using QT3 Designer.&nbsp;
+The source code can be found in the “&lt;Install Directory&gt;\ USB Device -
+Libusb - Generic Driver Demo\Libusb Simple Demo - Linux Application\</span> <span
+style='font-family:"Arial","sans-serif"'>Libusb Simple Demo - Linux Application
+-QT3” directory.&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>To
+launch the application, open the Terminal and navigate to the “&lt;Install
+Directory&gt;\USB Device - LibUSB - Generic Driver Demo\Linux Application”
+directory and execute the following commands </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1. chmod a+x SimpleLibusbDemo_Linux (This command gives executable right to the
+file on this Linux computer)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in;text-indent:.5in'><span
+style='font-family:"Arial","sans-serif"'>2. sudo
+./SimpleLibusbDemo_Linux.&nbsp; </span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='text-indent:.5in'><span style='font-family:"Arial","sans-serif"'>Enter
+the Super user password when requested. A window like that shown below should
+appear: </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><img border=0 width=396 height=164
+src="../images/Libusb%20Linux%20GUI%20screen%20shot.JPG"></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>In
+order to begin sending/receiving packets to the device, you must first find and
+“connect” to the device.&nbsp; As configured by default, the application is looking
+for USB devices with VID = 0x04D8 and PID = 0x0204.&nbsp; The device descriptor
+in the firmware project meant to be used with this demo uses the same
+VID/PID.&nbsp; To run the demo program the USB device with the correct
+precompiled .hex file.&nbsp; If you are connecting the device for the first
+time, Windows pops up a window asking you to install the driver for the
+device.&nbsp; When asked for the driver point it to the inf file provided along
+with the demo.&nbsp; Windows takes while to install the driver for the USB
+device that is just plugged in.&nbsp; Open the Device manager and ensure that
+the USB device is listed under the ‘Libusb Demo Devices’.&nbsp; Once the driver
+is installed hit the “Connect” button, the other pushbuttons should become
+enabled.&nbsp; If hitting the connect button has no effect, it is likely the
+USB device is either not connected, or has not been programmed with the correct
+firmware.</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Hitting
+the Toggle LED(s) should send a single packet of general purpose generic data
+to the Custom class USB peripheral device.&nbsp; The data will arrive on the
+Bulk OUT endpoint.&nbsp; The firmware has been configured to receive this
+generic data packet, parse the packet looking for the “Toggle LED(s)” command,
+and should respond appropriately by controlling the LED(s) on the demo board.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+“Get Pushbutton State” button will send one packet of data over the USB to the
+peripheral device (to the Bulk OUT endpoint) requesting the current <a
+href="#_Push_Button">pushbutton</a> state.&nbsp;&nbsp; The firmware will
+process the received Get Pushbutton State command, and will prepare an
+appropriate response packet depending upon the pushbutton state.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 1 (PICDEM FS USB Demo Board), the firmware will check
+pushbutton “S2” (RB4).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 2 (PIC18F87J50 PIM), the firmware will check pushbutton
+“S4” (RB4).&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 3 (Explorer 16), the firmware will check pushbutton “S3”
+(RD6).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 4 (Low Pin Count USB Development Kit), the firmware will
+check pushbutton “S1” (RA3).</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>For
+hardware configuration 5 (PIC24F Starter Kit 1), the pushbutton functionality
+is not implemented in this demo at this point of time.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>The
+PC then requests a packet of data from the device (which will be taken from the
+Bulk IN endpoint).&nbsp; Once the PC application receives the response packet,
+it will update the pushbutton state label.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Try
+experimenting with the application by holding down the appropriate pushbutton
+on the demo board, and then simultaneously clicking on the “Get Pushbutton State”
+button.&nbsp; Then try to repeat the process, but this time without holding
+down the pushbutton on the demo board.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>To
+make for a more fluid and gratifying end user experience, a real USB
+application would probably want to launch a separate thread to periodically
+poll the pushbutton state, so as to get updates regularly.&nbsp; This is not
+done in this simple demo, so as to avoid cluttering the PC application project
+with source code that is not related to USB communication.</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>In
+order to build the application navigate to the “&lt;Install Directory&gt;\USB
+Device - LibUSB - Generic Driver Demo\Linux Application\Qt3” directory and
+execute the command “make”. </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<h2><a name="_Toc301516017">Running the Demo (Android v3.1+)</a></h2>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
+name="_Toc301516018">Getting the App</a></h3>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+There are two main ways to get the example application on to the target Android
+device: the Android Market and by compiling the source code.</p>
+
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Market</h4>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The demo application can be downloaded from Microchip’s Android Marketplace
+page: <a
+href="https://market.android.com/developer?pub=Microchip+Technology+Inc">https://market.android.com/developer?pub=Microchip+Technology+Inc</a></p>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://market.android.com/developer?pub=Microchip+Technology+Inc"><span
+style='text-decoration:none'><img border=0 width=126 height=126
+src="../images/microchip_android_home.png"></span></a></p>
+
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Source Code</h4>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The source code for this demo is also provided in the demo project
+folder.&nbsp; For more information about how to build and load Android
+applications, please refer to the following pages:</p>
+
+<p class=MsoListParagraph style='margin-left:2.5in;text-indent:-.25in'><span
+style='font-family:Symbol'>·</span><span style='font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><a href="http://developer.android.com/index.html">http://developer.android.com/index.html</a></p>
+
+<p class=MsoListParagraph style='margin-left:2.5in;text-indent:-.25in'><span
+style='font-family:Symbol'>·</span><span style='font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><a href="http://developer.android.com/sdk/index.html">http://developer.android.com/sdk/index.html</a></p>
+
+<p class=MsoListParagraph style='margin-left:2.5in;text-indent:-.25in'><span
+style='font-family:Symbol'>·</span><span style='font-size:7.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><a href="http://developer.android.com/sdk/installing.html">http://developer.android.com/sdk/installing.html</a></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a
+name="_Toc301516019">Running the Demo</a></h3>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+While there are no devices attached, the Android application will indicate that
+no devices are attached.</p>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border=0 width=640 height=384 src="../images/android_no_device.png"></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+When the LibUSB device is attached, the screen will change to give the option
+to toggle the LEDs or to view the pushbutton status of the attached board.</p>
+
+<p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border=0 width=640 height=384 src="../images/android_winusb_libusb.png"></p>
+
+<h2><a name="_Toc301516020"></a><a name="_Push_Button"></a>Push Button</h2>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>PICDEM
+FS USB:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=523 height=224 src="../images/FSUSBsw2.jpg"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>PIC18F87J50
+PIM:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=229 height=200
+src="../images/PIC18F87J50%20PIM%20(Push%20Button).JPG"></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>Explorer
+16:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=566 height=364
+src="../images/Explorer%2016%20+%20PIM%20+%20USB%20PICtail+%20(sw6).jpg"></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>Low pin count USB development kit:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=473 height=332 src="../images/LPCDK-SW1.jpg"></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>PIC24F Starter Kit 1:</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The PIC24F Starter Kit 1 does not implement the pushbutton for these
+demos.&nbsp; This functionality is not present in this demo.&nbsp; </span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-indent:.5in'><span style='font-size:10.0pt;
+font-family:"Arial","sans-serif"'>PIC18F46J50 Full Speed USB Demo Board:</span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=214 height=233 src="../images/PIC18F46J50%20PIM%20(S2).jpg"></span></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoNormal style='margin-left:.5in'>PIC32 USB Starter Kit</p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'><img
+border=0 width=207 height=209 src="../images/pic32_starter_kit_top_sw1.jpg"></span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+PIC18 Starter kit</span></p>
+
+<p class=MsoPlainText><span style='font-family:"Arial","sans-serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='font-family:"Arial","sans-serif"'><img border=0 width=286
+height=421 src="../images/pic18f_starter_kit_switch.jpg"></span></p>
+
+<h2><a name="_Toc301516021">Trademarks:</a></h2>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>The Microchip name and logo, the Microchip logo, MPLAB, and PIC
+are registered trademarks of Microchip Technology Incorporated in the U.S.A.
+and other countries.</span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>PICDEM and PICTail are trademarks of Microchip Technology
+Incorporated in the U.S.A. and other countries.</span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;font-family:"Arial","sans-serif";
+color:black'>Microsoft, Windows, Visual Studio, Visual C++, and Windows Vista
+are either registered trademarks or trademarks of Microsoft Corporation in the
+United States and/or other countries.</span></i></p>
+
+<p class=MsoPlainText style='margin-left:.5in'><span style='font-family:"Arial","sans-serif"'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,3473 @@
+Archive member included because of file (symbol)
+
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+                              Objects\AutoIP.o (__udivdi3)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+                              Objects\HTTP2.o (memcmp)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+                              Objects\Announce.o (memcpy)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+                              Objects\BerkeleyAPI.o (memset)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+                              Objects\HTTP2.o (strcmp)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+                              Objects\HTTP2.o (strlen)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o (_general_exception_context)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+                              Objects\SMTP.o (atoi)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+                              Objects\HTTP2.o (atol)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o) (_ctype)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+                              Objects\SMTP.o (strchr)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+                              Objects\SMTP.o (strstr)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o (_bootstrap_exception_handler)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o (_on_reset)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o (_on_bootstrap)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o (_nmi_handler)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o) (strncmp)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+                              Objects\ENC28J60.o (SoftReset)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                              Objects\MainDemo.o (CheKseg0CacheOn)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+                              Objects\MainDemo.o (INTDisableInterrupts)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+                              Objects\MainDemo.o (INTRestoreInterrupts)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+                              Objects\MainDemo.o (INTEnableSystemMultiVectoredInt)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                              Objects\MainDemo.o (UARTEnable)
+c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                              c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+
+Allocating common symbols
+Common symbol       size              file
+
+UDPTxCount          0x2               Objects\UDP.o
+curHTTP             0x8c              Objects\HTTP2.o
+activeUDPSocket     0x1               Objects\UDP.o
+curHTTPID           0x1               Objects\HTTP2.o
+remoteNode          0xa               Objects\StackTsk.o
+SMTPClient          0x2c              Objects\SMTP.o
+lastBlock           0x40              Objects\Hashes.o
+AppConfig           0x33              Objects\MainDemo.o
+UDPRxCount          0x2               Objects\UDP.o
+UDPSocketInfo       0x70              Objects\UDP.o
+httpStubs           0x10              Objects\HTTP2.o
+AN0String           0x8               Objects\MainDemo.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text                   0x9d007e08         0x8470       33904  App's exec code 
+.rodata                 0x9d010278         0x7aa8       31400  Read-only const 
+.text                   0x9d017d20        0x1917c      102780  App's exec code 
+.rodata                 0x9d030e9c          0x548        1352  Read-only const 
+.text                   0x9d0313e4          0xd20        3360  App's exec code 
+.dinit                  0x9d032104          0x414        1044   
+.rodata                 0x9d032518          0x3bc         956  Read-only const 
+.text                   0x9d0328d4         0x1ae8        6888  App's exec code 
+.rodata                 0x9d0343bc          0x434        1076  Read-only const 
+.text                   0x9d0347f0          0x57c        1404  App's exec code 
+.rodata                 0x9d034d6c          0x270         624  Read-only const 
+.text                   0x9d034fdc          0x120         288  App's exec code 
+.rodata                 0x9d0350fc          0x104         260  Read-only const 
+.text                   0x9d035200           0xf0         240  App's exec code 
+.text.general_exception 0x9d0352f0           0xd0         208   
+.text                   0x9d0353c0           0xa8         168  App's exec code 
+.rodata                 0x9d035468           0x98         152  Read-only const 
+.text                   0x9d035500           0x98         152  App's exec code 
+.rodata                 0x9d035598           0x94         148  Read-only const 
+.text.atol              0x9d03562c           0x90         144   
+.text.atoi              0x9d0356bc           0x84         132   
+.text.strstr            0x9d035740           0x78         120   
+.text.SoftReset         0x9d0357b8           0x78         120   
+.text.UARTEnable        0x9d035830           0x78         120   
+.rodata                 0x9d0358a8           0x5c          92  Read-only const 
+.text.UARTSetDataRate   0x9d035904           0x5c          92   
+.rodata                 0x9d035960           0x50          80  Read-only const 
+.text.strncmp           0x9d0359b0           0x44          68   
+.text.UARTGetDataRate   0x9d0359f4           0x40          64   
+.text.UARTConfigure     0x9d035a34           0x3c          60   
+.text.UARTSetAddress    0x9d035a70           0x3c          60   
+.rodata                 0x9d035aac           0x38          56  Read-only const 
+.text.UARTWatchForAddre 0x9d035ae4           0x38          56   
+.text.INTEnableSystemMu 0x9d035b1c           0x34          52   
+.rodata                 0x9d035b50           0x2c          44  Read-only const 
+.text.strchr            0x9d035b7c           0x2c          44   
+.text.UARTSetFifoMode   0x9d035ba8           0x28          40   
+.text.UARTSetLineContro 0x9d035bd0           0x28          40   
+.rodata                 0x9d035bf8           0x1c          28  Read-only const 
+.text.INTRestoreInterru 0x9d035c14           0x1c          28   
+.text                   0x9d035c30           0x18          24  App's exec code 
+.text.CheKseg0CacheOff  0x9d035c48           0x18          24   
+.text.CheKseg0CacheOn   0x9d035c60           0x18          24   
+.rodata                 0x9d035c78           0x14          20  Read-only const 
+.text                   0x9d035c8c           0x10          16  App's exec code 
+.rodata                 0x9d035c9c           0x20          32  Read-only const 
+.text._bootstrap_except 0x9d035cbc            0xc          12   
+.rodata                 0x9d035cc8            0x8           8  Read-only const 
+.text._on_reset         0x9d035cd0            0x8           8   
+.text._on_bootstrap     0x9d035cd8            0x8           8   
+.text.INTDisableInterru 0x9d035ce0            0x8           8   
+.rodata                 0x9d035ce8            0x8           8  Read-only const 
+.text.INTEnableInterrup 0x9d035cf0            0x8           8   
+      Total kseg0_program_mem used  :     0x2def0      188144  38.2% of 0x78200
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+         Total kseg0_boot_mem used  :           0           0  <1% of 0x970
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9d006180           0x10          16  General-Exception 
+.vector_4               0x9d006280            0x8           8  Interrupt Vector 4 
+          Total exception_mem used  :        0x18          24  0.6% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0x9d007970          0x1f4         500  Reset handler 
+.bev_excpt              0x9d007cf0           0x10          16  BEV-Exception 
+         Total kseg1_boot_mem used  :       0x204         516  44.2% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :     0x2e10c      188684  37.8% of 0x7a000
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.eh_frame               0xa0000000           0x28          40   
+.sdata                  0xa0000028           0x2c          44  Small init data 
+.sbss                   0xa0000054          0x164         356  Small uninit data 
+.bss                    0xa00001b8          0x1b8         440  Uninitialized data 
+.bss                    0xa0000370          0x328         808  Uninitialized data 
+.data                   0xa0000698           0x70         112  Initialized data 
+.bss                    0xa0000708           0x5c          92  Uninitialized data 
+.data                   0xa0000764           0x48          72  Initialized data 
+.bss                    0xa00007ac           0x9c         156  Uninitialized data 
+.data                   0xa0000848           0x10          16  Initialized data 
+.bss                    0xa0000858           0x30          48  Uninitialized data 
+         Total kseg1_data_mem used  :       0x888        2184  6.7% of 0x8000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0x888        2184  6.7% of 0x8000
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                    0xa0000890              0           0  Reserved for heap 
+stack                   0xa00008a8         0x7750       30544  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Discarded input sections
+
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+ .pdr           0x00000000       0xa0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+ .reginfo       0x00000000       0x18 Objects\Announce.o
+ .pdr           0x00000000       0x40 Objects\Announce.o
+ .reginfo       0x00000000       0x18 Objects\ARCFOUR.o
+ .pdr           0x00000000        0x0 Objects\ARCFOUR.o
+ .reginfo       0x00000000       0x18 Objects\ARP.o
+ .pdr           0x00000000       0xc0 Objects\ARP.o
+ .reginfo       0x00000000       0x18 Objects\AutoIP.o
+ .pdr           0x00000000      0x140 Objects\AutoIP.o
+ .reginfo       0x00000000       0x18 Objects\BerkeleyAPI.o
+ .pdr           0x00000000      0x1a0 Objects\BerkeleyAPI.o
+ .reginfo       0x00000000       0x18 Objects\BigInt.o
+ .pdr           0x00000000        0x0 Objects\BigInt.o
+ .reginfo       0x00000000       0x18 Objects\Delay.o
+ .pdr           0x00000000       0x40 Objects\Delay.o
+ .reginfo       0x00000000       0x18 Objects\DHCP.o
+ .pdr           0x00000000      0x140 Objects\DHCP.o
+ .reginfo       0x00000000       0x18 Objects\DHCPs.o
+ .pdr           0x00000000       0x60 Objects\DHCPs.o
+ .reginfo       0x00000000       0x18 Objects\DNS.o
+ .pdr           0x00000000       0xc0 Objects\DNS.o
+ .reginfo       0x00000000       0x18 Objects\DNSs.o
+ .pdr           0x00000000        0x0 Objects\DNSs.o
+ .reginfo       0x00000000       0x18 Objects\DynDNS.o
+ .pdr           0x00000000        0x0 Objects\DynDNS.o
+ .reginfo       0x00000000       0x18 Objects\ENC28J60.o
+ .pdr           0x00000000      0x400 Objects\ENC28J60.o
+ .reginfo       0x00000000       0x18 Objects\ENCX24J600.o
+ .pdr           0x00000000        0x0 Objects\ENCX24J600.o
+ .reginfo       0x00000000       0x18 Objects\FileSystem.o
+ .pdr           0x00000000        0x0 Objects\FileSystem.o
+ .reginfo       0x00000000       0x18 Objects\FTP.o
+ .pdr           0x00000000        0x0 Objects\FTP.o
+ .reginfo       0x00000000       0x18 Objects\Hashes.o
+ .pdr           0x00000000       0xa0 Objects\Hashes.o
+ .reginfo       0x00000000       0x18 Objects\Helpers.o
+ .pdr           0x00000000      0x240 Objects\Helpers.o
+ .reginfo       0x00000000       0x18 Objects\HTTP2.o
+ .pdr           0x00000000      0x220 Objects\HTTP2.o
+ .reginfo       0x00000000       0x18 Objects\ICMP.o
+ .pdr           0x00000000       0xc0 Objects\ICMP.o
+ .reginfo       0x00000000       0x18 Objects\IP.o
+ .pdr           0x00000000       0x80 Objects\IP.o
+ .reginfo       0x00000000       0x18 Objects\LCDBlocking.o
+ .pdr           0x00000000        0x0 Objects\LCDBlocking.o
+ .reginfo       0x00000000       0x18 Objects\MPFS2.o
+ .pdr           0x00000000      0x280 Objects\MPFS2.o
+ .reginfo       0x00000000       0x18 Objects\NBNS.o
+ .pdr           0x00000000       0x60 Objects\NBNS.o
+ .reginfo       0x00000000       0x18 Objects\Random.o
+ .pdr           0x00000000        0x0 Objects\Random.o
+ .reginfo       0x00000000       0x18 Objects\Reboot.o
+ .pdr           0x00000000       0x20 Objects\Reboot.o
+ .reginfo       0x00000000       0x18 Objects\RSA.o
+ .pdr           0x00000000        0x0 Objects\RSA.o
+ .reginfo       0x00000000       0x18 Objects\SMTP.o
+ .pdr           0x00000000      0x1a0 Objects\SMTP.o
+ .reginfo       0x00000000       0x18 Objects\SNMP.o
+ .pdr           0x00000000        0x0 Objects\SNMP.o
+ .reginfo       0x00000000       0x18 Objects\SNMPv3.o
+ .pdr           0x00000000        0x0 Objects\SNMPv3.o
+ .reginfo       0x00000000       0x18 Objects\SNMPv3USM.o
+ .pdr           0x00000000        0x0 Objects\SNMPv3USM.o
+ .reginfo       0x00000000       0x18 Objects\SNTP.o
+ .pdr           0x00000000       0x40 Objects\SNTP.o
+ .reginfo       0x00000000       0x18 Objects\SPIEEPROM.o
+ .pdr           0x00000000        0x0 Objects\SPIEEPROM.o
+ .reginfo       0x00000000       0x18 Objects\SPIFlash.o
+ .pdr           0x00000000        0x0 Objects\SPIFlash.o
+ .reginfo       0x00000000       0x18 Objects\SPIRAM.o
+ .pdr           0x00000000        0x0 Objects\SPIRAM.o
+ .reginfo       0x00000000       0x18 Objects\SSL.o
+ .pdr           0x00000000        0x0 Objects\SSL.o
+ .reginfo       0x00000000       0x18 Objects\StackTsk.o
+ .pdr           0x00000000       0x60 Objects\StackTsk.o
+ .reginfo       0x00000000       0x18 Objects\TCP.o
+ .pdr           0x00000000      0x420 Objects\TCP.o
+ .reginfo       0x00000000       0x18 Objects\TCPPerformanceTest.o
+ .pdr           0x00000000       0x60 Objects\TCPPerformanceTest.o
+ .reginfo       0x00000000       0x18 Objects\Telnet.o
+ .pdr           0x00000000       0x20 Objects\Telnet.o
+ .reginfo       0x00000000       0x18 Objects\TFTPc.o
+ .pdr           0x00000000        0x0 Objects\TFTPc.o
+ .reginfo       0x00000000       0x18 Objects\Tick.o
+ .pdr           0x00000000      0x100 Objects\Tick.o
+ .reginfo       0x00000000       0x18 Objects\UART2TCPBridge.o
+ .pdr           0x00000000        0x0 Objects\UART2TCPBridge.o
+ .reginfo       0x00000000       0x18 Objects\UART.o
+ .pdr           0x00000000       0x60 Objects\UART.o
+ .reginfo       0x00000000       0x18 Objects\UDP.o
+ .pdr           0x00000000      0x220 Objects\UDP.o
+ .reginfo       0x00000000       0x18 Objects\UDPPerformanceTest.o
+ .pdr           0x00000000        0x0 Objects\UDPPerformanceTest.o
+ .reginfo       0x00000000       0x18 Objects\ZeroconfHelper.o
+ .pdr           0x00000000        0x0 Objects\ZeroconfHelper.o
+ .reginfo       0x00000000       0x18 Objects\ZeroconfLinkLocal.o
+ .pdr           0x00000000        0x0 Objects\ZeroconfLinkLocal.o
+ .reginfo       0x00000000       0x18 Objects\ZeroconfMulticastDNS.o
+ .pdr           0x00000000        0x0 Objects\ZeroconfMulticastDNS.o
+ .reginfo       0x00000000       0x18 Objects\CustomHTTPApp.o
+ .pdr           0x00000000      0x500 Objects\CustomHTTPApp.o
+ .reginfo       0x00000000       0x18 Objects\CustomSNMPApp.o
+ .pdr           0x00000000        0x0 Objects\CustomSNMPApp.o
+ .reginfo       0x00000000       0x18 Objects\CustomSSLCert.o
+ .pdr           0x00000000        0x0 Objects\CustomSSLCert.o
+ .reginfo       0x00000000       0x18 Objects\MainDemo.o
+ .pdr           0x00000000       0xc0 Objects\MainDemo.o
+ .reginfo       0x00000000       0x18 Objects\BerkeleyTCPClientDemo.o
+ .pdr           0x00000000       0x20 Objects\BerkeleyTCPClientDemo.o
+ .reginfo       0x00000000       0x18 Objects\BerkeleyTCPServerDemo.o
+ .pdr           0x00000000       0x20 Objects\BerkeleyTCPServerDemo.o
+ .reginfo       0x00000000       0x18 Objects\BerkeleyUDPClientDemo.o
+ .pdr           0x00000000       0x40 Objects\BerkeleyUDPClientDemo.o
+ .reginfo       0x00000000       0x18 Objects\GenericTCPClient.o
+ .pdr           0x00000000       0x20 Objects\GenericTCPClient.o
+ .reginfo       0x00000000       0x18 Objects\GenericTCPServer.o
+ .pdr           0x00000000       0x20 Objects\GenericTCPServer.o
+ .reginfo       0x00000000       0x18 Objects\PingDemo.o
+ .pdr           0x00000000       0x20 Objects\PingDemo.o
+ .reginfo       0x00000000       0x18 Objects\SMTPDemo.o
+ .pdr           0x00000000       0x20 Objects\SMTPDemo.o
+ .reginfo       0x00000000       0x18 Objects\UARTConfig.o
+ .pdr           0x00000000       0x20 Objects\UARTConfig.o
+ .reginfo       0x00000000       0x18 Objects\MPFSImg2.o
+ .pdr           0x00000000        0x0 Objects\MPFSImg2.o
+ .reginfo       0x00000000       0x18 Objects\BigInt_helper_C32.o
+ .pdr           0x00000000        0x0 Objects\BigInt_helper_C32.o
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+ .pdr           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .pdr           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .pdr           0x00000000       0x40 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .pdr           0x00000000      0x100 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .reginfo       0x00000000       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+ .pdr           0x00000000       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+exception_mem    0x9d006000         0x00001000
+kseg0_boot_mem   0x9d007000         0x00000970
+kseg1_boot_mem   0x9d007970         0x00000490
+kseg0_program_mem 0x9d007e00         0x00078200         xr
+debug_exec_mem   0xbfc02000         0x00000ff0
+config3          0xbfc02ff0         0x00000004
+config2          0xbfc02ff4         0x00000004
+config1          0xbfc02ff8         0x00000004
+config0          0xbfc02ffc         0x00000004
+kseg1_data_mem   0xa0000000         0x00008000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc02ff0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+LOAD Objects\Announce.o
+LOAD Objects\ARCFOUR.o
+LOAD Objects\ARP.o
+LOAD Objects\AutoIP.o
+LOAD Objects\BerkeleyAPI.o
+LOAD Objects\BigInt.o
+LOAD Objects\Delay.o
+LOAD Objects\DHCP.o
+LOAD Objects\DHCPs.o
+LOAD Objects\DNS.o
+LOAD Objects\DNSs.o
+LOAD Objects\DynDNS.o
+LOAD Objects\ENC28J60.o
+LOAD Objects\ENCX24J600.o
+LOAD Objects\FileSystem.o
+LOAD Objects\FTP.o
+LOAD Objects\Hashes.o
+LOAD Objects\Helpers.o
+LOAD Objects\HTTP2.o
+LOAD Objects\ICMP.o
+LOAD Objects\IP.o
+LOAD Objects\LCDBlocking.o
+LOAD Objects\MPFS2.o
+LOAD Objects\NBNS.o
+LOAD Objects\Random.o
+LOAD Objects\Reboot.o
+LOAD Objects\RSA.o
+LOAD Objects\SMTP.o
+LOAD Objects\SNMP.o
+LOAD Objects\SNMPv3.o
+LOAD Objects\SNMPv3USM.o
+LOAD Objects\SNTP.o
+LOAD Objects\SPIEEPROM.o
+LOAD Objects\SPIFlash.o
+LOAD Objects\SPIRAM.o
+LOAD Objects\SSL.o
+LOAD Objects\StackTsk.o
+LOAD Objects\TCP.o
+LOAD Objects\TCPPerformanceTest.o
+LOAD Objects\Telnet.o
+LOAD Objects\TFTPc.o
+LOAD Objects\Tick.o
+LOAD Objects\UART2TCPBridge.o
+LOAD Objects\UART.o
+LOAD Objects\UDP.o
+LOAD Objects\UDPPerformanceTest.o
+LOAD Objects\ZeroconfHelper.o
+LOAD Objects\ZeroconfLinkLocal.o
+LOAD Objects\ZeroconfMulticastDNS.o
+LOAD Objects\CustomHTTPApp.o
+LOAD Objects\CustomSNMPApp.o
+LOAD Objects\CustomSSLCert.o
+LOAD Objects\MainDemo.o
+LOAD Objects\BerkeleyTCPClientDemo.o
+LOAD Objects\BerkeleyTCPServerDemo.o
+LOAD Objects\BerkeleyUDPClientDemo.o
+LOAD Objects\GenericTCPClient.o
+LOAD Objects\GenericTCPServer.o
+LOAD Objects\PingDemo.o
+LOAD Objects\SMTPDemo.o
+LOAD Objects\UARTConfig.o
+LOAD Objects\MPFSImg2.o
+LOAD Objects\BigInt_helper_C32.o
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9d006000                _ebase_address = 0x9d006000
+                0x9d007970                _RESET_ADDR = 0x9d007970
+                0x9d007cf0                _BEV_EXCPT_ADDR = 0x9d007cf0
+                0x9d007df0                _DBG_EXCPT_ADDR = 0x9d007df0
+                0xbfc02000                _DBG_CODE_ADDR = 0xbfc02000
+                0x00000ff0                _DBG_CODE_SIZE = 0xff0
+                0x9d006180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC02FF0
+ *(.config_BFC02FF0)
+
+.config_BFC02FF4
+                0xbfc02ff4        0x4
+ *(.config_BFC02FF4)
+ .config_BFC02FF4
+                0xbfc02ff4        0x4 Objects\MainDemo.o
+
+.config_BFC02FF8
+                0xbfc02ff8        0x4
+ *(.config_BFC02FF8)
+ .config_BFC02FF8
+                0xbfc02ff8        0x4 Objects\MainDemo.o
+
+.config_BFC02FFC
+                0xbfc02ffc        0x4
+ *(.config_BFC02FFC)
+ .config_BFC02FFC
+                0xbfc02ffc        0x4 Objects\MainDemo.o
+                0xbfc02000                PROVIDE (_DBG_CODE_ADDR, 0xbfc02000)
+                0x00000ff0                PROVIDE (_DBG_CODE_SIZE, 0xff0)
+
+.reset          0x9d007970      0x1f4
+ *(.reset)
+ .reset         0x9d007970       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+                0x9d007970                _reset
+ *(.reset.startup)
+ .reset.startup
+                0x9d007980      0x1e4 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+
+.bev_excpt      0x9d007cf0       0x10
+ *(.bev_handler)
+ .bev_handler   0x9d007cf0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+
+.dbg_excpt      0x9d007df0        0x0
+                0x9d007df0                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0xbfc02000        0x0
+                0xbfc02000                . = (. + DEFINED (_DEBUGGER)?_DBG_CODE_SIZE:0x0)
+
+.app_excpt      0x9d006180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9d006180       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+
+.vector_0       0x9d006200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9d006220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9d006240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9d006260        0x0
+ *(.vector_3)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9d006280        0x8
+ *(.vector_4)
+ .vector_4      0x9d006280        0x8 Objects\Tick.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9d0062a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9d0062c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9d0062e0        0x0
+ *(.vector_7)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9d006300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9d006320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9d006340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9d006360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9d006380        0x0
+ *(.vector_12)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9d0063a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9d0063c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9d0063e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9d006400        0x0
+ *(.vector_16)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9d006420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9d006440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9d006460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9d006480        0x0
+ *(.vector_20)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9d0064a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9d0064c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9d0064e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9d006500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9d006520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9d006540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9d006560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9d006580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9d0065a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9d0065c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9d0065e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9d006600        0x0
+ *(.vector_32)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9d006620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9d006640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9d006660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9d006680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9d0066a0        0x0
+ *(.vector_37)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9d0066c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9d0066e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9d006700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9d006720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9d006740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9d006760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9d006780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9d0067a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9d0067c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9d0067e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9d006800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9d006820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9d006840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9d006860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9d006880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9d0068a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9d0068c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9d0068e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9d006900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9d006920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9d006940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9d006960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9d006980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9d0069a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9d0069c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9d0069e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup
+ *(.startup)
+
+.text
+ *(.stub .gnu.linkonce.t.*)
+ *(.text.*personality*)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+ *(.gnu.warning)
+
+.rodata         0x9d007e00        0x0
+ *(.rodata.* .gnu.linkonce.r.*)
+ *(.rodata1)
+                0x9d007e00                . = ALIGN (0x4)
+
+.sdata2         0x9d007000        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d007000                . = ALIGN (0x4)
+
+.sbss2          0x9d007000        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d007000                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.persist        0xa0000000        0x0
+                0xa0000000                _persist_begin = .
+ *(.persist .persist.*)
+                0xa0000000                . = ALIGN (0x4)
+                0xa0000000                _persist_end = .
+
+.eh_frame       0xa0000000       0x28
+ *(.eh_frame)
+ .eh_frame      0xa0000000       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+                0xa0000028                . = .
+                0xa0008020                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa0000028       0x2c
+                0xa0000028                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa0000028        0x2 Objects\BerkeleyAPI.o
+ *fill*         0xa000002a        0x2 00
+ .sdata         0xa000002c        0x4 Objects\DHCPs.o
+                0xa000002c                bDHCPServerEnabled
+ .sdata         0xa0000030        0x8 Objects\DNS.o
+ .sdata         0xa0000038        0x4 Objects\Helpers.o
+ .sdata         0xa000003c        0x1 Objects\Reboot.o
+ .sdata         0xa000003d        0x1 Objects\SMTP.o
+ .sdata         0xa000003e        0x2 Objects\TCP.o
+ .sdata         0xa0000040        0x2 Objects\TCPPerformanceTest.o
+ .sdata         0xa0000042        0x2 Objects\UDP.o
+ .sdata         0xa0000044        0x4 Objects\BerkeleyTCPClientDemo.o
+ .sdata         0xa0000048        0xc Objects\GenericTCPClient.o
+                0xa0000054                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa0000054                . = ALIGN (0x4)
+                0xa0000054                _data_end = .
+                0xa0000054                _bss_begin = .
+
+.sbss           0xa0000054      0x164
+                0xa0000054                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa0000054        0x8 Objects\Announce.o
+ .sbss          0xa000005c        0x4 Objects\ARP.o
+ .sbss          0xa0000060        0x4 Objects\BerkeleyAPI.o
+ .sbss          0xa0000064        0x4 Objects\DHCP.o
+                0xa0000064                DHCPClientInitializedOnce
+ .sbss          0xa0000068        0xc Objects\DHCPs.o
+ .sbss          0xa0000074       0x18 Objects\DNS.o
+ .sbss          0xa000008c       0x10 Objects\ENC28J60.o
+ .sbss          0xa000009c       0x10 Objects\ICMP.o
+ .sbss          0xa00000ac        0x4 Objects\IP.o
+ .sbss          0xa00000b0        0x8 Objects\MPFS2.o
+ .sbss          0xa00000b8        0x8 Objects\NBNS.o
+ .sbss          0xa00000c0       0x34 Objects\SMTP.o
+ .sbss          0xa00000f4       0x14 Objects\SNTP.o
+ .sbss          0xa0000108        0x8 Objects\StackTsk.o
+ .sbss          0xa0000110        0x2 Objects\TCP.o
+ *fill*         0xa0000112        0x2 00
+ .sbss          0xa0000114       0x14 Objects\TCPPerformanceTest.o
+ .sbss          0xa0000128       0x10 Objects\Telnet.o
+ .sbss          0xa0000138        0xc Objects\Tick.o
+ .sbss          0xa0000144        0x8 Objects\UDP.o
+ .sbss          0xa000014c       0x10 Objects\CustomHTTPApp.o
+ .sbss          0xa000015c        0xc Objects\MainDemo.o
+ .sbss          0xa0000168        0x1 Objects\BerkeleyTCPClientDemo.o
+ *fill*         0xa0000169        0x3 00
+ .sbss          0xa000016c        0x8 Objects\BerkeleyTCPServerDemo.o
+ .sbss          0xa0000174       0x18 Objects\BerkeleyUDPClientDemo.o
+ .sbss          0xa000018c        0x4 Objects\GenericTCPClient.o
+ .sbss          0xa0000190        0x8 Objects\GenericTCPServer.o
+ .sbss          0xa0000198        0x8 Objects\PingDemo.o
+ .sbss          0xa00001a0        0x8 Objects\SMTPDemo.o
+ *(.scommon)
+ .scommon       0xa00001a8        0x1 Objects\HTTP2.o
+                0xa00001a8                curHTTPID
+ *fill*         0xa00001a9        0x1 00
+ .scommon       0xa00001aa        0x6 Objects\UDP.o
+                0xa00001aa                UDPTxCount
+                0xa00001ac                activeUDPSocket
+                0xa00001ae                UDPRxCount
+ .scommon       0xa00001b0        0x8 Objects\MainDemo.o
+                0xa00001b0                AN0String
+                0xa00001b8                _sbss_end = .
+
+.bss            0xa00001b8      0x1b8
+ *(.dynbss)
+ *(COMMON)
+ COMMON         0xa00001b8       0x40 Objects\Hashes.o
+                0xa00001b8                lastBlock
+ COMMON         0xa00001f8       0x9c Objects\HTTP2.o
+                0xa00001f8                curHTTP
+                0xa0000284                httpStubs
+ COMMON         0xa0000294       0x2c Objects\SMTP.o
+                0xa0000294                SMTPClient
+ COMMON         0xa00002c0        0xa Objects\StackTsk.o
+                0xa00002c0                remoteNode
+ *fill*         0xa00002ca        0x2 00
+ COMMON         0xa00002cc       0x70 Objects\UDP.o
+                0xa00002cc                UDPSocketInfo
+ COMMON         0xa000033c       0x33 Objects\MainDemo.o
+                0xa000033c                AppConfig
+                0xa0000370                . = ALIGN (0x4)
+ *fill*         0xa000036f        0x1 00
+                0xa0000370                . = ALIGN (0x4)
+                0xa0000370                _end = .
+                0xa0000370                _bss_end = .
+                0x00008000                _bmxdudba_address = 0x8000
+                0x00008000                _bmxdupba_address = 0x8000
+
+/DISCARD/
+ *(.pdr)
+ *(.reginfo)
+ *(.rel.dyn)
+ *(.note.GNU-stack)
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+ *(.discard)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000      0x244
+ *(.comment)
+ .comment       0x00000000       0x51 Objects\Announce.o
+                                 0x52 (size before relaxing)
+ .comment       0x00000000       0x52 Objects\ARCFOUR.o
+ .comment       0x00000000       0x52 Objects\ARP.o
+ .comment       0x00000000       0x52 Objects\AutoIP.o
+ .comment       0x00000000       0x52 Objects\BerkeleyAPI.o
+ .comment       0x00000000       0x52 Objects\BigInt.o
+ .comment       0x00000000       0x52 Objects\Delay.o
+ .comment       0x00000000       0x52 Objects\DHCP.o
+ .comment       0x00000000       0x52 Objects\DHCPs.o
+ .comment       0x00000000       0x52 Objects\DNS.o
+ .comment       0x00000000       0x52 Objects\DNSs.o
+ .comment       0x00000000       0x52 Objects\DynDNS.o
+ .comment       0x00000000       0x52 Objects\ENC28J60.o
+ .comment       0x00000000       0x52 Objects\ENCX24J600.o
+ .comment       0x00000000       0x52 Objects\FileSystem.o
+ .comment       0x00000000       0x52 Objects\FTP.o
+ .comment       0x00000000       0x52 Objects\Hashes.o
+ .comment       0x00000000       0x52 Objects\Helpers.o
+ .comment       0x00000000       0x52 Objects\HTTP2.o
+ .comment       0x00000000       0x52 Objects\ICMP.o
+ .comment       0x00000000       0x52 Objects\IP.o
+ .comment       0x00000000       0x52 Objects\LCDBlocking.o
+ .comment       0x00000000       0x52 Objects\MPFS2.o
+ .comment       0x00000000       0x52 Objects\NBNS.o
+ .comment       0x00000000       0x52 Objects\Random.o
+ .comment       0x00000000       0x52 Objects\Reboot.o
+ .comment       0x00000000       0x52 Objects\RSA.o
+ .comment       0x00000000       0x52 Objects\SMTP.o
+ .comment       0x00000000       0x52 Objects\SNMP.o
+ .comment       0x00000000       0x52 Objects\SNMPv3.o
+ .comment       0x00000000       0x52 Objects\SNMPv3USM.o
+ .comment       0x00000000       0x52 Objects\SNTP.o
+ .comment       0x00000000       0x52 Objects\SPIEEPROM.o
+ .comment       0x00000000       0x52 Objects\SPIFlash.o
+ .comment       0x00000000       0x52 Objects\SPIRAM.o
+ .comment       0x00000000       0x52 Objects\SSL.o
+ .comment       0x00000000       0x52 Objects\StackTsk.o
+ .comment       0x00000000       0x52 Objects\TCP.o
+ .comment       0x00000000       0x52 Objects\TCPPerformanceTest.o
+ .comment       0x00000000       0x52 Objects\Telnet.o
+ .comment       0x00000000       0x52 Objects\TFTPc.o
+ .comment       0x00000000       0x52 Objects\Tick.o
+ .comment       0x00000000       0x52 Objects\UART2TCPBridge.o
+ .comment       0x00000000       0x52 Objects\UART.o
+ .comment       0x00000000       0x52 Objects\UDP.o
+ .comment       0x00000000       0x52 Objects\UDPPerformanceTest.o
+ .comment       0x00000000       0x52 Objects\ZeroconfHelper.o
+ .comment       0x00000000       0x52 Objects\ZeroconfLinkLocal.o
+ .comment       0x00000000       0x52 Objects\ZeroconfMulticastDNS.o
+ .comment       0x00000000       0x52 Objects\CustomHTTPApp.o
+ .comment       0x00000000       0x52 Objects\CustomSNMPApp.o
+ .comment       0x00000000       0x52 Objects\CustomSSLCert.o
+ .comment       0x00000000       0x52 Objects\MainDemo.o
+ .comment       0x00000000       0x52 Objects\BerkeleyTCPClientDemo.o
+ .comment       0x00000000       0x52 Objects\BerkeleyTCPServerDemo.o
+ .comment       0x00000000       0x52 Objects\BerkeleyUDPClientDemo.o
+ .comment       0x00000000       0x52 Objects\GenericTCPClient.o
+ .comment       0x00000000       0x52 Objects\GenericTCPServer.o
+ .comment       0x00000000       0x52 Objects\PingDemo.o
+ .comment       0x00000000       0x52 Objects\SMTPDemo.o
+ .comment       0x00000000       0x52 Objects\UARTConfig.o
+ .comment       0x00000000       0x52 Objects\MPFSImg2.o
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .comment       0x00000051       0x55 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+                                 0x56 (size before relaxing)
+ .comment       0x000000a6       0x55 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+                                 0x56 (size before relaxing)
+ .comment       0x000000fb       0x55 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+                                 0x56 (size before relaxing)
+ .comment       0x00000150       0x55 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+                                 0x56 (size before relaxing)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .comment       0x000001a5       0x4e c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+                                 0xa0 (size before relaxing)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .comment       0x000001f3       0x51 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+                                 0x52 (size before relaxing)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .comment       0x00000000       0x52 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 Objects\Announce.o
+ .debug_aranges
+                0x00000020       0x20 Objects\ARP.o
+ .debug_aranges
+                0x00000040       0x20 Objects\AutoIP.o
+ .debug_aranges
+                0x00000060       0x20 Objects\BerkeleyAPI.o
+ .debug_aranges
+                0x00000080       0x20 Objects\Delay.o
+ .debug_aranges
+                0x000000a0       0x20 Objects\DHCP.o
+ .debug_aranges
+                0x000000c0       0x20 Objects\DHCPs.o
+ .debug_aranges
+                0x000000e0       0x20 Objects\DNS.o
+ .debug_aranges
+                0x00000100       0x20 Objects\ENC28J60.o
+ .debug_aranges
+                0x00000120       0x20 Objects\Hashes.o
+ .debug_aranges
+                0x00000140       0x20 Objects\Helpers.o
+ .debug_aranges
+                0x00000160       0x20 Objects\HTTP2.o
+ .debug_aranges
+                0x00000180       0x20 Objects\ICMP.o
+ .debug_aranges
+                0x000001a0       0x20 Objects\IP.o
+ .debug_aranges
+                0x000001c0       0x20 Objects\MPFS2.o
+ .debug_aranges
+                0x000001e0       0x20 Objects\NBNS.o
+ .debug_aranges
+                0x00000200       0x20 Objects\Reboot.o
+ .debug_aranges
+                0x00000220       0x20 Objects\SMTP.o
+ .debug_aranges
+                0x00000240       0x20 Objects\SNTP.o
+ .debug_aranges
+                0x00000260       0x20 Objects\StackTsk.o
+ .debug_aranges
+                0x00000280       0x20 Objects\TCP.o
+ .debug_aranges
+                0x000002a0       0x20 Objects\TCPPerformanceTest.o
+ .debug_aranges
+                0x000002c0       0x20 Objects\Telnet.o
+ .debug_aranges
+                0x000002e0       0x20 Objects\Tick.o
+ .debug_aranges
+                0x00000300       0x20 Objects\UART.o
+ .debug_aranges
+                0x00000320       0x20 Objects\UDP.o
+ .debug_aranges
+                0x00000340       0x20 Objects\CustomHTTPApp.o
+ .debug_aranges
+                0x00000360       0x20 Objects\MainDemo.o
+ .debug_aranges
+                0x00000380       0x20 Objects\BerkeleyTCPClientDemo.o
+ .debug_aranges
+                0x000003a0       0x20 Objects\BerkeleyTCPServerDemo.o
+ .debug_aranges
+                0x000003c0       0x20 Objects\BerkeleyUDPClientDemo.o
+ .debug_aranges
+                0x000003e0       0x20 Objects\GenericTCPClient.o
+ .debug_aranges
+                0x00000400       0x20 Objects\GenericTCPServer.o
+ .debug_aranges
+                0x00000420       0x20 Objects\PingDemo.o
+ .debug_aranges
+                0x00000440       0x20 Objects\SMTPDemo.o
+ .debug_aranges
+                0x00000460       0x20 Objects\UARTConfig.o
+ .debug_aranges
+                0x00000480       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x000004a0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_aranges
+                0x000004c0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_aranges
+                0x000004e0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_aranges
+                0x00000500       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_aranges
+                0x00000520       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x00000540       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_aranges
+                0x00000560       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x00000580       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_aranges
+                0x000005a0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_aranges
+                0x000005c0       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_aranges
+                0x000005e8       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x00000608       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x00000628       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x00000648       0x58 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_aranges
+                0x000006a0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_pubnames
+                0x00000000     0x17cf
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x33 Objects\Announce.o
+ .debug_pubnames
+                0x00000033       0x60 Objects\ARP.o
+ .debug_pubnames
+                0x00000093       0xd2 Objects\AutoIP.o
+ .debug_pubnames
+                0x00000165       0xa9 Objects\BerkeleyAPI.o
+ .debug_pubnames
+                0x0000020e       0x2c Objects\Delay.o
+ .debug_pubnames
+                0x0000023a       0xb9 Objects\DHCP.o
+ .debug_pubnames
+                0x000002f3       0x3c Objects\DHCPs.o
+ .debug_pubnames
+                0x0000032f       0x55 Objects\DNS.o
+ .debug_pubnames
+                0x00000384      0x1b8 Objects\ENC28J60.o
+ .debug_pubnames
+                0x0000053c       0x62 Objects\Hashes.o
+ .debug_pubnames
+                0x0000059e      0x128 Objects\Helpers.o
+ .debug_pubnames
+                0x000006c6       0xcf Objects\HTTP2.o
+ .debug_pubnames
+                0x00000795       0x7f Objects\ICMP.o
+ .debug_pubnames
+                0x00000814       0x44 Objects\IP.o
+ .debug_pubnames
+                0x00000858      0x140 Objects\MPFS2.o
+ .debug_pubnames
+                0x00000998       0x1f Objects\NBNS.o
+ .debug_pubnames
+                0x000009b7       0x21 Objects\Reboot.o
+ .debug_pubnames
+                0x000009d8       0xd2 Objects\SMTP.o
+ .debug_pubnames
+                0x00000aaa       0x37 Objects\SNTP.o
+ .debug_pubnames
+                0x00000ae1       0x53 Objects\StackTsk.o
+ .debug_pubnames
+                0x00000b34      0x1ba Objects\TCP.o
+ .debug_pubnames
+                0x00000cee       0x5b Objects\TCPPerformanceTest.o
+ .debug_pubnames
+                0x00000d49       0x21 Objects\Telnet.o
+ .debug_pubnames
+                0x00000d6a       0x7e Objects\Tick.o
+ .debug_pubnames
+                0x00000de8       0x40 Objects\UART.o
+ .debug_pubnames
+                0x00000e28      0x143 Objects\UDP.o
+ .debug_pubnames
+                0x00000f6b      0x3a2 Objects\CustomHTTPApp.o
+ .debug_pubnames
+                0x0000130d       0x69 Objects\MainDemo.o
+ .debug_pubnames
+                0x00001376       0x2c Objects\BerkeleyTCPClientDemo.o
+ .debug_pubnames
+                0x000013a2       0x2c Objects\BerkeleyTCPServerDemo.o
+ .debug_pubnames
+                0x000013ce       0x4a Objects\BerkeleyUDPClientDemo.o
+ .debug_pubnames
+                0x00001418       0x27 Objects\GenericTCPClient.o
+ .debug_pubnames
+                0x0000143f       0x27 Objects\GenericTCPServer.o
+ .debug_pubnames
+                0x00001466       0x1f Objects\PingDemo.o
+ .debug_pubnames
+                0x00001485       0x1f Objects\SMTPDemo.o
+ .debug_pubnames
+                0x000014a4       0x23 Objects\UARTConfig.o
+ .debug_pubnames
+                0x000014c7       0x21 Objects\MPFSImg2.o
+ .debug_pubnames
+                0x000014e8       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_pubnames
+                0x00001508       0x1b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_pubnames
+                0x00001523       0x1b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_pubnames
+                0x0000153e       0x1d c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_pubnames
+                0x0000155b       0x1d c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_pubnames
+                0x00001578       0x33 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x000015ab       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_pubnames
+                0x000015cb       0x24 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x000015ef       0x1e c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_pubnames
+                0x0000160d       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_pubnames
+                0x0000162d       0x3b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_pubnames
+                0x00001668       0x2b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x00001693       0x2b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x000016be       0x36 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x000016f4       0xb1 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_pubnames
+                0x000017a5       0x2a c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_info     0x00000000    0x5768d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x180a Objects\Announce.o
+ .debug_info    0x0000180a      0xf5e Objects\ARCFOUR.o
+ .debug_info    0x00002768     0x1913 Objects\ARP.o
+ .debug_info    0x0000407b     0x1c55 Objects\AutoIP.o
+ .debug_info    0x00005cd0     0x2145 Objects\BerkeleyAPI.o
+ .debug_info    0x00007e15      0xf5d Objects\BigInt.o
+ .debug_info    0x00008d72      0xff1 Objects\Delay.o
+ .debug_info    0x00009d63     0x1dc5 Objects\DHCP.o
+ .debug_info    0x0000bb28     0x1a56 Objects\DHCPs.o
+ .debug_info    0x0000d57e     0x1b98 Objects\DNS.o
+ .debug_info    0x0000f116      0xf5b Objects\DNSs.o
+ .debug_info    0x00010071      0xf5d Objects\DynDNS.o
+ .debug_info    0x00010fce     0x3bde Objects\ENC28J60.o
+ .debug_info    0x00014bac      0xf61 Objects\ENCX24J600.o
+ .debug_info    0x00015b0d      0xf61 Objects\FileSystem.o
+ .debug_info    0x00016a6e      0xf5a Objects\FTP.o
+ .debug_info    0x000179c8     0x132d Objects\Hashes.o
+ .debug_info    0x00018cf5     0x1fac Objects\Helpers.o
+ .debug_info    0x0001aca1     0x211d Objects\HTTP2.o
+ .debug_info    0x0001cdbe     0x18ec Objects\ICMP.o
+ .debug_info    0x0001e6aa     0x1929 Objects\IP.o
+ .debug_info    0x0001ffd3      0xf62 Objects\LCDBlocking.o
+ .debug_info    0x00020f35     0x1713 Objects\MPFS2.o
+ .debug_info    0x00022648     0x1941 Objects\NBNS.o
+ .debug_info    0x00023f89      0xf5d Objects\Random.o
+ .debug_info    0x00024ee6     0x1844 Objects\Reboot.o
+ .debug_info    0x0002672a      0xf5a Objects\RSA.o
+ .debug_info    0x00027684     0x225e Objects\SMTP.o
+ .debug_info    0x000298e2      0xf5b Objects\SNMP.o
+ .debug_info    0x0002a83d      0xf5d Objects\SNMPv3.o
+ .debug_info    0x0002b79a      0xf60 Objects\SNMPv3USM.o
+ .debug_info    0x0002c6fa     0x18dd Objects\SNTP.o
+ .debug_info    0x0002dfd7      0xf60 Objects\SPIEEPROM.o
+ .debug_info    0x0002ef37      0xf5f Objects\SPIFlash.o
+ .debug_info    0x0002fe96      0xf5d Objects\SPIRAM.o
+ .debug_info    0x00030df3      0xf5a Objects\SSL.o
+ .debug_info    0x00031d4d     0x181f Objects\StackTsk.o
+ .debug_info    0x0003356c     0x2fb3 Objects\TCP.o
+ .debug_info    0x0003651f     0x167f Objects\TCPPerformanceTest.o
+ .debug_info    0x00037b9e     0x1641 Objects\Telnet.o
+ .debug_info    0x000391df      0xf5c Objects\TFTPc.o
+ .debug_info    0x0003a13b     0x16eb Objects\Tick.o
+ .debug_info    0x0003b826      0xf65 Objects\UART2TCPBridge.o
+ .debug_info    0x0003c78b     0x1229 Objects\UART.o
+ .debug_info    0x0003d9b4     0x1e2a Objects\UDP.o
+ .debug_info    0x0003f7de      0xf69 Objects\UDPPerformanceTest.o
+ .debug_info    0x00040747      0xf65 Objects\ZeroconfHelper.o
+ .debug_info    0x000416ac      0xf68 Objects\ZeroconfLinkLocal.o
+ .debug_info    0x00042614      0xf6b Objects\ZeroconfMulticastDNS.o
+ .debug_info    0x0004357f     0x2bca Objects\CustomHTTPApp.o
+ .debug_info    0x00046149      0xf48 Objects\CustomSNMPApp.o
+ .debug_info    0x00047091      0xf48 Objects\CustomSSLCert.o
+ .debug_info    0x00047fd9     0x2b9f Objects\MainDemo.o
+ .debug_info    0x0004ab78     0x1792 Objects\BerkeleyTCPClientDemo.o
+ .debug_info    0x0004c30a     0x124b Objects\BerkeleyTCPServerDemo.o
+ .debug_info    0x0004d555     0x199a Objects\BerkeleyUDPClientDemo.o
+ .debug_info    0x0004eeef     0x12be Objects\GenericTCPClient.o
+ .debug_info    0x000501ad     0x1092 Objects\GenericTCPServer.o
+ .debug_info    0x0005123f     0x119b Objects\PingDemo.o
+ .debug_info    0x000523da     0x16bf Objects\SMTPDemo.o
+ .debug_info    0x00053a99     0x17b7 Objects\UARTConfig.o
+ .debug_info    0x00055250      0xf80 Objects\MPFSImg2.o
+ .debug_info    0x000561d0      0x78b c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_info    0x0005695b       0xcd c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_info    0x00056a28       0xcd c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_info    0x00056af5        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .debug_info    0x00056af5       0xd1 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_info    0x00056bc6       0xd1 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_info    0x00056c97      0x106 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x00056d9d       0xe0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_info    0x00056e7d       0xe8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_info    0x00056f65       0xd3 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_info    0x00057038       0xc7 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_info    0x000570ff       0xd4 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_info    0x000571d3       0xcb c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_info    0x0005729e       0xcb c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_info    0x00057369       0xd1 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_info    0x0005743a      0x18a c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_info    0x000575c4       0xc9 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_abbrev   0x00000000     0x7978
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1e5 Objects\Announce.o
+ .debug_abbrev  0x000001e5      0x166 Objects\ARCFOUR.o
+ .debug_abbrev  0x0000034b      0x266 Objects\ARP.o
+ .debug_abbrev  0x000005b1      0x25b Objects\AutoIP.o
+ .debug_abbrev  0x0000080c      0x2cc Objects\BerkeleyAPI.o
+ .debug_abbrev  0x00000ad8      0x166 Objects\BigInt.o
+ .debug_abbrev  0x00000c3e      0x19b Objects\Delay.o
+ .debug_abbrev  0x00000dd9      0x299 Objects\DHCP.o
+ .debug_abbrev  0x00001072      0x221 Objects\DHCPs.o
+ .debug_abbrev  0x00001293      0x262 Objects\DNS.o
+ .debug_abbrev  0x000014f5      0x166 Objects\DNSs.o
+ .debug_abbrev  0x0000165b      0x166 Objects\DynDNS.o
+ .debug_abbrev  0x000017c1      0x308 Objects\ENC28J60.o
+ .debug_abbrev  0x00001ac9      0x166 Objects\ENCX24J600.o
+ .debug_abbrev  0x00001c2f      0x166 Objects\FileSystem.o
+ .debug_abbrev  0x00001d95      0x166 Objects\FTP.o
+ .debug_abbrev  0x00001efb      0x233 Objects\Hashes.o
+ .debug_abbrev  0x0000212e      0x24d Objects\Helpers.o
+ .debug_abbrev  0x0000237b      0x2c3 Objects\HTTP2.o
+ .debug_abbrev  0x0000263e      0x246 Objects\ICMP.o
+ .debug_abbrev  0x00002884      0x242 Objects\IP.o
+ .debug_abbrev  0x00002ac6      0x166 Objects\LCDBlocking.o
+ .debug_abbrev  0x00002c2c      0x28e Objects\MPFS2.o
+ .debug_abbrev  0x00002eba      0x23c Objects\NBNS.o
+ .debug_abbrev  0x000030f6      0x166 Objects\Random.o
+ .debug_abbrev  0x0000325c      0x1b1 Objects\Reboot.o
+ .debug_abbrev  0x0000340d      0x166 Objects\RSA.o
+ .debug_abbrev  0x00003573      0x2da Objects\SMTP.o
+ .debug_abbrev  0x0000384d      0x166 Objects\SNMP.o
+ .debug_abbrev  0x000039b3      0x166 Objects\SNMPv3.o
+ .debug_abbrev  0x00003b19      0x166 Objects\SNMPv3USM.o
+ .debug_abbrev  0x00003c7f      0x1ef Objects\SNTP.o
+ .debug_abbrev  0x00003e6e      0x166 Objects\SPIEEPROM.o
+ .debug_abbrev  0x00003fd4      0x166 Objects\SPIFlash.o
+ .debug_abbrev  0x0000413a      0x166 Objects\SPIRAM.o
+ .debug_abbrev  0x000042a0      0x166 Objects\SSL.o
+ .debug_abbrev  0x00004406      0x21a Objects\StackTsk.o
+ .debug_abbrev  0x00004620      0x2d2 Objects\TCP.o
+ .debug_abbrev  0x000048f2      0x20a Objects\TCPPerformanceTest.o
+ .debug_abbrev  0x00004afc      0x1d2 Objects\Telnet.o
+ .debug_abbrev  0x00004cce      0x166 Objects\TFTPc.o
+ .debug_abbrev  0x00004e34      0x214 Objects\Tick.o
+ .debug_abbrev  0x00005048      0x166 Objects\UART2TCPBridge.o
+ .debug_abbrev  0x000051ae      0x266 Objects\UART.o
+ .debug_abbrev  0x00005414      0x2e1 Objects\UDP.o
+ .debug_abbrev  0x000056f5      0x166 Objects\UDPPerformanceTest.o
+ .debug_abbrev  0x0000585b      0x166 Objects\ZeroconfHelper.o
+ .debug_abbrev  0x000059c1      0x166 Objects\ZeroconfLinkLocal.o
+ .debug_abbrev  0x00005b27      0x166 Objects\ZeroconfMulticastDNS.o
+ .debug_abbrev  0x00005c8d      0x2d7 Objects\CustomHTTPApp.o
+ .debug_abbrev  0x00005f64      0x166 Objects\CustomSNMPApp.o
+ .debug_abbrev  0x000060ca      0x166 Objects\CustomSSLCert.o
+ .debug_abbrev  0x00006230      0x379 Objects\MainDemo.o
+ .debug_abbrev  0x000065a9      0x1e3 Objects\BerkeleyTCPClientDemo.o
+ .debug_abbrev  0x0000678c      0x1c7 Objects\BerkeleyTCPServerDemo.o
+ .debug_abbrev  0x00006953      0x20b Objects\BerkeleyUDPClientDemo.o
+ .debug_abbrev  0x00006b5e      0x1ad Objects\GenericTCPClient.o
+ .debug_abbrev  0x00006d0b      0x1ad Objects\GenericTCPServer.o
+ .debug_abbrev  0x00006eb8      0x1a2 Objects\PingDemo.o
+ .debug_abbrev  0x0000705a      0x1e5 Objects\SMTPDemo.o
+ .debug_abbrev  0x0000723f      0x22e Objects\UARTConfig.o
+ .debug_abbrev  0x0000746d      0x180 Objects\MPFSImg2.o
+ .debug_abbrev  0x000075ed      0x13d c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000772a       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_abbrev  0x0000774f       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_abbrev  0x00007774        0x1 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .debug_abbrev  0x00007775       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_abbrev  0x0000779a       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_abbrev  0x000077bf       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x000077e4       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_abbrev  0x00007809       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_abbrev  0x0000782e       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_abbrev  0x00007853       0x34 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_abbrev  0x00007887       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_abbrev  0x000078ac       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x000078d1       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x000078f6       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x0000791b       0x38 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_abbrev  0x00007953       0x25 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_line     0x00000000     0x95e5
+ *(.debug_line)
+ .debug_line    0x00000000      0x217 Objects\Announce.o
+ .debug_line    0x00000217      0x13d Objects\ARCFOUR.o
+ .debug_line    0x00000354      0x243 Objects\ARP.o
+ .debug_line    0x00000597      0x2f0 Objects\AutoIP.o
+ .debug_line    0x00000887      0x400 Objects\BerkeleyAPI.o
+ .debug_line    0x00000c87      0x13d Objects\BigInt.o
+ .debug_line    0x00000dc4      0x188 Objects\Delay.o
+ .debug_line    0x00000f4c      0x3e4 Objects\DHCP.o
+ .debug_line    0x00001330      0x2d9 Objects\DHCPs.o
+ .debug_line    0x00001609      0x31a Objects\DNS.o
+ .debug_line    0x00001923      0x13d Objects\DNSs.o
+ .debug_line    0x00001a60      0x13d Objects\DynDNS.o
+ .debug_line    0x00001b9d      0x59b Objects\ENC28J60.o
+ .debug_line    0x00002138      0x13d Objects\ENCX24J600.o
+ .debug_line    0x00002275      0x13d Objects\FileSystem.o
+ .debug_line    0x000023b2      0x13d Objects\FTP.o
+ .debug_line    0x000024ef      0x243 Objects\Hashes.o
+ .debug_line    0x00002732      0x41a Objects\Helpers.o
+ .debug_line    0x00002b4c      0x64f Objects\HTTP2.o
+ .debug_line    0x0000319b      0x242 Objects\ICMP.o
+ .debug_line    0x000033dd      0x1f7 Objects\IP.o
+ .debug_line    0x000035d4      0x13d Objects\LCDBlocking.o
+ .debug_line    0x00003711      0x372 Objects\MPFS2.o
+ .debug_line    0x00003a83      0x24e Objects\NBNS.o
+ .debug_line    0x00003cd1      0x13d Objects\Random.o
+ .debug_line    0x00003e0e      0x1d0 Objects\Reboot.o
+ .debug_line    0x00003fde      0x13d Objects\RSA.o
+ .debug_line    0x0000411b      0x586 Objects\SMTP.o
+ .debug_line    0x000046a1      0x13d Objects\SNMP.o
+ .debug_line    0x000047de      0x13d Objects\SNMPv3.o
+ .debug_line    0x0000491b      0x13d Objects\SNMPv3USM.o
+ .debug_line    0x00004a58      0x231 Objects\SNTP.o
+ .debug_line    0x00004c89      0x13d Objects\SPIEEPROM.o
+ .debug_line    0x00004dc6      0x13d Objects\SPIFlash.o
+ .debug_line    0x00004f03      0x13d Objects\SPIRAM.o
+ .debug_line    0x00005040      0x13d Objects\SSL.o
+ .debug_line    0x0000517d      0x220 Objects\StackTsk.o
+ .debug_line    0x0000539d      0xb3e Objects\TCP.o
+ .debug_line    0x00005edb      0x245 Objects\TCPPerformanceTest.o
+ .debug_line    0x00006120      0x28f Objects\Telnet.o
+ .debug_line    0x000063af      0x13d Objects\TFTPc.o
+ .debug_line    0x000064ec      0x1c7 Objects\Tick.o
+ .debug_line    0x000066b3      0x13d Objects\UART2TCPBridge.o
+ .debug_line    0x000067f0      0x1e7 Objects\UART.o
+ .debug_line    0x000069d7      0x2ef Objects\UDP.o
+ .debug_line    0x00006cc6      0x13d Objects\UDPPerformanceTest.o
+ .debug_line    0x00006e03      0x13d Objects\ZeroconfHelper.o
+ .debug_line    0x00006f40      0x13d Objects\ZeroconfLinkLocal.o
+ .debug_line    0x0000707d      0x13d Objects\ZeroconfMulticastDNS.o
+ .debug_line    0x000071ba      0x5a1 Objects\CustomHTTPApp.o
+ .debug_line    0x0000775b      0x13d Objects\CustomSNMPApp.o
+ .debug_line    0x00007898      0x13d Objects\CustomSSLCert.o
+ .debug_line    0x000079d5      0x30e Objects\MainDemo.o
+ .debug_line    0x00007ce3      0x1e6 Objects\BerkeleyTCPClientDemo.o
+ .debug_line    0x00007ec9      0x1e2 Objects\BerkeleyTCPServerDemo.o
+ .debug_line    0x000080ab      0x20e Objects\BerkeleyUDPClientDemo.o
+ .debug_line    0x000082b9      0x1e8 Objects\GenericTCPClient.o
+ .debug_line    0x000084a1      0x1cd Objects\GenericTCPServer.o
+ .debug_line    0x0000866e      0x182 Objects\PingDemo.o
+ .debug_line    0x000087f0      0x1c8 Objects\SMTPDemo.o
+ .debug_line    0x000089b8      0x215 Objects\UARTConfig.o
+ .debug_line    0x00008bcd      0x14b Objects\MPFSImg2.o
+ .debug_line    0x00008d18      0x118 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_line    0x00008e30       0x85 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_line    0x00008eb5       0x85 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_line    0x00008f3a        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .debug_line    0x00008f3a       0x87 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_line    0x00008fc1       0x87 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_line    0x00009048       0xa6 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x000090ee       0x93 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_line    0x00009181       0x97 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_line    0x00009218       0x88 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_line    0x000092a0       0xbb c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_line    0x0000935b       0x62 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_line    0x000093bd       0x73 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_line    0x00009430       0x73 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_line    0x000094a3       0x6e c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_line    0x00009511       0x62 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_line    0x00009573       0x72 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_frame    0x00000000     0x240c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x48 Objects\Announce.o
+ .debug_frame   0x00000048       0xb0 Objects\ARP.o
+ .debug_frame   0x000000f8      0x118 Objects\AutoIP.o
+ .debug_frame   0x00000210      0x174 Objects\BerkeleyAPI.o
+ .debug_frame   0x00000384       0x44 Objects\Delay.o
+ .debug_frame   0x000003c8      0x114 Objects\DHCP.o
+ .debug_frame   0x000004dc       0x64 Objects\DHCPs.o
+ .debug_frame   0x00000540       0xb4 Objects\DNS.o
+ .debug_frame   0x000005f4      0x36c Objects\ENC28J60.o
+ .debug_frame   0x00000960       0x94 Objects\Hashes.o
+ .debug_frame   0x000009f4      0x1cc Objects\Helpers.o
+ .debug_frame   0x00000bc0      0x1ec Objects\HTTP2.o
+ .debug_frame   0x00000dac       0xb0 Objects\ICMP.o
+ .debug_frame   0x00000e5c       0x80 Objects\IP.o
+ .debug_frame   0x00000edc      0x230 Objects\MPFS2.o
+ .debug_frame   0x0000110c       0x64 Objects\NBNS.o
+ .debug_frame   0x00001170       0x2c Objects\Reboot.o
+ .debug_frame   0x0000119c      0x168 Objects\SMTP.o
+ .debug_frame   0x00001304       0x48 Objects\SNTP.o
+ .debug_frame   0x0000134c       0x64 Objects\StackTsk.o
+ .debug_frame   0x000013b0      0x39c Objects\TCP.o
+ .debug_frame   0x0000174c       0x80 Objects\TCPPerformanceTest.o
+ .debug_frame   0x000017cc       0x2c Objects\Telnet.o
+ .debug_frame   0x000017f8       0xcc Objects\Tick.o
+ .debug_frame   0x000018c4       0x58 Objects\UART.o
+ .debug_frame   0x0000191c      0x1e4 Objects\UDP.o
+ .debug_frame   0x00001b00      0x45c Objects\CustomHTTPApp.o
+ .debug_frame   0x00001f5c       0xb4 Objects\MainDemo.o
+ .debug_frame   0x00002010       0x30 Objects\BerkeleyTCPClientDemo.o
+ .debug_frame   0x00002040       0x2c Objects\BerkeleyTCPServerDemo.o
+ .debug_frame   0x0000206c       0x48 Objects\BerkeleyUDPClientDemo.o
+ .debug_frame   0x000020b4       0x2c Objects\GenericTCPClient.o
+ .debug_frame   0x000020e0       0x2c Objects\GenericTCPServer.o
+ .debug_frame   0x0000210c       0x2c Objects\PingDemo.o
+ .debug_frame   0x00002138       0x2c Objects\SMTPDemo.o
+ .debug_frame   0x00002164       0x2c Objects\UARTConfig.o
+ .debug_frame   0x00002190       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_frame   0x000021b0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_frame   0x000021d0       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_frame   0x000021f0       0x2c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_frame   0x0000221c       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x0000223c       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_frame   0x0000225c       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_frame   0x0000227c       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_frame   0x0000229c       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_frame   0x000022c4       0x30 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_frame   0x000022f4       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x00002314       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x00002334       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x0000235c       0x90 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_frame   0x000023ec       0x20 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_str      0x00000000     0x3d2b
+ *(.debug_str)
+ .debug_str     0x00000000      0x10e Objects\Announce.o
+ .debug_str     0x0000010e       0xe2 Objects\ARCFOUR.o
+ .debug_str     0x000001f0       0xfa Objects\ARP.o
+ .debug_str     0x000002ea       0xf7 Objects\AutoIP.o
+ .debug_str     0x000003e1      0x13c Objects\BerkeleyAPI.o
+ .debug_str     0x0000051d       0xe2 Objects\BigInt.o
+ .debug_str     0x000005ff       0xe2 Objects\Delay.o
+ .debug_str     0x000006e1      0x12a Objects\DHCP.o
+ .debug_str     0x0000080b      0x118 Objects\DHCPs.o
+ .debug_str     0x00000923       0xec Objects\DNS.o
+ .debug_str     0x00000a0f       0xe2 Objects\DNSs.o
+ .debug_str     0x00000af1       0xe2 Objects\DynDNS.o
+ .debug_str     0x00000bd3      0x199 Objects\ENC28J60.o
+ .debug_str     0x00000d6c       0xe2 Objects\ENCX24J600.o
+ .debug_str     0x00000e4e       0xe2 Objects\FileSystem.o
+ .debug_str     0x00000f30       0xe2 Objects\FTP.o
+ .debug_str     0x00001012       0xf3 Objects\Hashes.o
+ .debug_str     0x00001105      0x11f Objects\Helpers.o
+ .debug_str     0x00001224      0x10e Objects\HTTP2.o
+ .debug_str     0x00001332       0xe2 Objects\ICMP.o
+ .debug_str     0x00001414       0xf5 Objects\IP.o
+ .debug_str     0x00001509       0xe2 Objects\LCDBlocking.o
+ .debug_str     0x000015eb      0x106 Objects\MPFS2.o
+ .debug_str     0x000016f1      0x105 Objects\NBNS.o
+ .debug_str     0x000017f6       0xe2 Objects\Random.o
+ .debug_str     0x000018d8      0x100 Objects\Reboot.o
+ .debug_str     0x000019d8       0xe2 Objects\RSA.o
+ .debug_str     0x00001aba      0x135 Objects\SMTP.o
+ .debug_str     0x00001bef       0xe2 Objects\SNMP.o
+ .debug_str     0x00001cd1       0xe2 Objects\SNMPv3.o
+ .debug_str     0x00001db3       0xe2 Objects\SNMPv3USM.o
+ .debug_str     0x00001e95       0xe2 Objects\SNTP.o
+ .debug_str     0x00001f77       0xe2 Objects\SPIEEPROM.o
+ .debug_str     0x00002059       0xe2 Objects\SPIFlash.o
+ .debug_str     0x0000213b       0xe2 Objects\SPIRAM.o
+ .debug_str     0x0000221d       0xe2 Objects\SSL.o
+ .debug_str     0x000022ff       0xf7 Objects\StackTsk.o
+ .debug_str     0x000023f6      0x1ad Objects\TCP.o
+ .debug_str     0x000025a3       0xf7 Objects\TCPPerformanceTest.o
+ .debug_str     0x0000269a       0xff Objects\Telnet.o
+ .debug_str     0x00002799       0xe2 Objects\TFTPc.o
+ .debug_str     0x0000287b       0xfe Objects\Tick.o
+ .debug_str     0x00002979       0xe2 Objects\UART2TCPBridge.o
+ .debug_str     0x00002a5b       0xe2 Objects\UART.o
+ .debug_str     0x00002b3d      0x156 Objects\UDP.o
+ .debug_str     0x00002c93       0xe2 Objects\UDPPerformanceTest.o
+ .debug_str     0x00002d75       0xe2 Objects\ZeroconfHelper.o
+ .debug_str     0x00002e57       0xe2 Objects\ZeroconfLinkLocal.o
+ .debug_str     0x00002f39       0xe2 Objects\ZeroconfMulticastDNS.o
+ .debug_str     0x0000301b      0x179 Objects\CustomHTTPApp.o
+ .debug_str     0x00003194       0xe2 Objects\CustomSNMPApp.o
+ .debug_str     0x00003276       0xe2 Objects\CustomSSLCert.o
+ .debug_str     0x00003358      0x17a Objects\MainDemo.o
+ .debug_str     0x000034d2       0xe2 Objects\BerkeleyTCPClientDemo.o
+ .debug_str     0x000035b4       0xe2 Objects\BerkeleyTCPServerDemo.o
+ .debug_str     0x00003696       0xe2 Objects\BerkeleyUDPClientDemo.o
+ .debug_str     0x00003778       0xec Objects\GenericTCPClient.o
+ .debug_str     0x00003864       0xe2 Objects\GenericTCPServer.o
+ .debug_str     0x00003946       0xec Objects\PingDemo.o
+ .debug_str     0x00003a32      0x12b Objects\SMTPDemo.o
+ .debug_str     0x00003b5d       0xec Objects\UARTConfig.o
+ .debug_str     0x00003c49       0xe2 Objects\MPFSImg2.o
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_str     0x00003d2b        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.debug_loc      0x00000000      0xa47
+ *(.debug_loc)
+ .debug_loc     0x00000000      0xa47 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+                0x00000000     0x4238
+ *(.debug_pubtypes)
+ .debug_pubtypes
+                0x00000000      0x14e Objects\Announce.o
+ .debug_pubtypes
+                0x0000014e       0xbd Objects\ARCFOUR.o
+ .debug_pubtypes
+                0x0000020b      0x140 Objects\ARP.o
+ .debug_pubtypes
+                0x0000034b      0x170 Objects\AutoIP.o
+ .debug_pubtypes
+                0x000004bb      0x1cf Objects\BerkeleyAPI.o
+ .debug_pubtypes
+                0x0000068a       0xbd Objects\BigInt.o
+ .debug_pubtypes
+                0x00000747       0xd0 Objects\Delay.o
+ .debug_pubtypes
+                0x00000817      0x18c Objects\DHCP.o
+ .debug_pubtypes
+                0x000009a3      0x172 Objects\DHCPs.o
+ .debug_pubtypes
+                0x00000b15      0x16f Objects\DNS.o
+ .debug_pubtypes
+                0x00000c84       0xbd Objects\DNSs.o
+ .debug_pubtypes
+                0x00000d41       0xbd Objects\DynDNS.o
+ .debug_pubtypes
+                0x00000dfe      0x1c4 Objects\ENC28J60.o
+ .debug_pubtypes
+                0x00000fc2       0xbd Objects\ENCX24J600.o
+ .debug_pubtypes
+                0x0000107f       0xbd Objects\FileSystem.o
+ .debug_pubtypes
+                0x0000113c       0xbd Objects\FTP.o
+ .debug_pubtypes
+                0x000011f9       0xf4 Objects\Hashes.o
+ .debug_pubtypes
+                0x000012ed      0x123 Objects\Helpers.o
+ .debug_pubtypes
+                0x00001410      0x19a Objects\HTTP2.o
+ .debug_pubtypes
+                0x000015aa      0x145 Objects\ICMP.o
+ .debug_pubtypes
+                0x000016ef      0x14e Objects\IP.o
+ .debug_pubtypes
+                0x0000183d       0xbd Objects\LCDBlocking.o
+ .debug_pubtypes
+                0x000018fa      0x13e Objects\MPFS2.o
+ .debug_pubtypes
+                0x00001a38      0x16f Objects\NBNS.o
+ .debug_pubtypes
+                0x00001ba7       0xbd Objects\Random.o
+ .debug_pubtypes
+                0x00001c64      0x13e Objects\Reboot.o
+ .debug_pubtypes
+                0x00001da2       0xbd Objects\RSA.o
+ .debug_pubtypes
+                0x00001e5f      0x13b Objects\SMTP.o
+ .debug_pubtypes
+                0x00001f9a       0xbd Objects\SNMP.o
+ .debug_pubtypes
+                0x00002057       0xbd Objects\SNMPv3.o
+ .debug_pubtypes
+                0x00002114       0xbd Objects\SNMPv3USM.o
+ .debug_pubtypes
+                0x000021d1      0x140 Objects\SNTP.o
+ .debug_pubtypes
+                0x00002311       0xbd Objects\SPIEEPROM.o
+ .debug_pubtypes
+                0x000023ce       0xbd Objects\SPIFlash.o
+ .debug_pubtypes
+                0x0000248b       0xbd Objects\SPIRAM.o
+ .debug_pubtypes
+                0x00002548       0xbd Objects\SSL.o
+ .debug_pubtypes
+                0x00002605      0x13e Objects\StackTsk.o
+ .debug_pubtypes
+                0x00002743      0x1e6 Objects\TCP.o
+ .debug_pubtypes
+                0x00002929      0x10d Objects\TCPPerformanceTest.o
+ .debug_pubtypes
+                0x00002a36      0x11e Objects\Telnet.o
+ .debug_pubtypes
+                0x00002b54       0xbd Objects\TFTPc.o
+ .debug_pubtypes
+                0x00002c11      0x10d Objects\Tick.o
+ .debug_pubtypes
+                0x00002d1e       0xbd Objects\UART2TCPBridge.o
+ .debug_pubtypes
+                0x00002ddb       0xe9 Objects\UART.o
+ .debug_pubtypes
+                0x00002ec4      0x195 Objects\UDP.o
+ .debug_pubtypes
+                0x00003059       0xbd Objects\UDPPerformanceTest.o
+ .debug_pubtypes
+                0x00003116       0xbd Objects\ZeroconfHelper.o
+ .debug_pubtypes
+                0x000031d3       0xbd Objects\ZeroconfLinkLocal.o
+ .debug_pubtypes
+                0x00003290       0xbd Objects\ZeroconfMulticastDNS.o
+ .debug_pubtypes
+                0x0000334d      0x1f1 Objects\CustomHTTPApp.o
+ .debug_pubtypes
+                0x0000353e       0xbd Objects\CustomSNMPApp.o
+ .debug_pubtypes
+                0x000035fb       0xbd Objects\CustomSSLCert.o
+ .debug_pubtypes
+                0x000036b8      0x1c0 Objects\MainDemo.o
+ .debug_pubtypes
+                0x00003878      0x128 Objects\BerkeleyTCPClientDemo.o
+ .debug_pubtypes
+                0x000039a0      0x10d Objects\BerkeleyTCPServerDemo.o
+ .debug_pubtypes
+                0x00003aad      0x14a Objects\BerkeleyUDPClientDemo.o
+ .debug_pubtypes
+                0x00003bf7      0x104 Objects\GenericTCPClient.o
+ .debug_pubtypes
+                0x00003cfb       0xde Objects\GenericTCPServer.o
+ .debug_pubtypes
+                0x00003dd9       0xf5 Objects\PingDemo.o
+ .debug_pubtypes
+                0x00003ece      0x118 Objects\SMTPDemo.o
+ .debug_pubtypes
+                0x00003fe6      0x133 Objects\UARTConfig.o
+ .debug_pubtypes
+                0x00004119       0xc6 Objects\MPFSImg2.o
+ .debug_pubtypes
+                0x000041df       0x59 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000      0x268
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 Objects\DHCPs.o
+ .debug_ranges  0x00000018       0x18 Objects\ENC28J60.o
+ .debug_ranges  0x00000030       0x18 Objects\TCP.o
+ .debug_ranges  0x00000048       0x30 Objects\MainDemo.o
+ .debug_ranges  0x00000078       0xc0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .debug_ranges  0x00000138       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .debug_ranges  0x00000148       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .debug_ranges  0x00000158       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .debug_ranges  0x00000168       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .debug_ranges  0x00000178       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .debug_ranges  0x00000188       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .debug_ranges  0x00000198       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .debug_ranges  0x000001a8       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .debug_ranges  0x000001b8       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .debug_ranges  0x000001c8       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .debug_ranges  0x000001e0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .debug_ranges  0x000001f0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .debug_ranges  0x00000200       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .debug_ranges  0x00000210       0x48 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .debug_ranges  0x00000258       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ *(.gnu.attributes)
+ .gnu.attributes
+                0x00000000       0x10 Objects\Announce.o
+ .gnu.attributes
+                0x00000010       0x10 Objects\ARCFOUR.o
+ .gnu.attributes
+                0x00000020       0x10 Objects\ARP.o
+ .gnu.attributes
+                0x00000030       0x10 Objects\AutoIP.o
+ .gnu.attributes
+                0x00000040       0x10 Objects\BerkeleyAPI.o
+ .gnu.attributes
+                0x00000050       0x10 Objects\BigInt.o
+ .gnu.attributes
+                0x00000060       0x10 Objects\Delay.o
+ .gnu.attributes
+                0x00000070       0x10 Objects\DHCP.o
+ .gnu.attributes
+                0x00000080       0x10 Objects\DHCPs.o
+ .gnu.attributes
+                0x00000090       0x10 Objects\DNS.o
+ .gnu.attributes
+                0x000000a0       0x10 Objects\DNSs.o
+ .gnu.attributes
+                0x000000b0       0x10 Objects\DynDNS.o
+ .gnu.attributes
+                0x000000c0       0x10 Objects\ENC28J60.o
+ .gnu.attributes
+                0x000000d0       0x10 Objects\ENCX24J600.o
+ .gnu.attributes
+                0x000000e0       0x10 Objects\FileSystem.o
+ .gnu.attributes
+                0x000000f0       0x10 Objects\FTP.o
+ .gnu.attributes
+                0x00000100       0x10 Objects\Hashes.o
+ .gnu.attributes
+                0x00000110       0x10 Objects\Helpers.o
+ .gnu.attributes
+                0x00000120       0x10 Objects\HTTP2.o
+ .gnu.attributes
+                0x00000130       0x10 Objects\ICMP.o
+ .gnu.attributes
+                0x00000140       0x10 Objects\IP.o
+ .gnu.attributes
+                0x00000150       0x10 Objects\LCDBlocking.o
+ .gnu.attributes
+                0x00000160       0x10 Objects\MPFS2.o
+ .gnu.attributes
+                0x00000170       0x10 Objects\NBNS.o
+ .gnu.attributes
+                0x00000180       0x10 Objects\Random.o
+ .gnu.attributes
+                0x00000190       0x10 Objects\Reboot.o
+ .gnu.attributes
+                0x000001a0       0x10 Objects\RSA.o
+ .gnu.attributes
+                0x000001b0       0x10 Objects\SMTP.o
+ .gnu.attributes
+                0x000001c0       0x10 Objects\SNMP.o
+ .gnu.attributes
+                0x000001d0       0x10 Objects\SNMPv3.o
+ .gnu.attributes
+                0x000001e0       0x10 Objects\SNMPv3USM.o
+ .gnu.attributes
+                0x000001f0       0x10 Objects\SNTP.o
+ .gnu.attributes
+                0x00000200       0x10 Objects\SPIEEPROM.o
+ .gnu.attributes
+                0x00000210       0x10 Objects\SPIFlash.o
+ .gnu.attributes
+                0x00000220       0x10 Objects\SPIRAM.o
+ .gnu.attributes
+                0x00000230       0x10 Objects\SSL.o
+ .gnu.attributes
+                0x00000240       0x10 Objects\StackTsk.o
+ .gnu.attributes
+                0x00000250       0x10 Objects\TCP.o
+ .gnu.attributes
+                0x00000260       0x10 Objects\TCPPerformanceTest.o
+ .gnu.attributes
+                0x00000270       0x10 Objects\Telnet.o
+ .gnu.attributes
+                0x00000280       0x10 Objects\TFTPc.o
+ .gnu.attributes
+                0x00000290       0x10 Objects\Tick.o
+ .gnu.attributes
+                0x000002a0       0x10 Objects\UART2TCPBridge.o
+ .gnu.attributes
+                0x000002b0       0x10 Objects\UART.o
+ .gnu.attributes
+                0x000002c0       0x10 Objects\UDP.o
+ .gnu.attributes
+                0x000002d0       0x10 Objects\UDPPerformanceTest.o
+ .gnu.attributes
+                0x000002e0       0x10 Objects\ZeroconfHelper.o
+ .gnu.attributes
+                0x000002f0       0x10 Objects\ZeroconfLinkLocal.o
+ .gnu.attributes
+                0x00000300       0x10 Objects\ZeroconfMulticastDNS.o
+ .gnu.attributes
+                0x00000310       0x10 Objects\CustomHTTPApp.o
+ .gnu.attributes
+                0x00000320       0x10 Objects\CustomSNMPApp.o
+ .gnu.attributes
+                0x00000330       0x10 Objects\CustomSSLCert.o
+ .gnu.attributes
+                0x00000340       0x10 Objects\MainDemo.o
+ .gnu.attributes
+                0x00000350       0x10 Objects\BerkeleyTCPClientDemo.o
+ .gnu.attributes
+                0x00000360       0x10 Objects\BerkeleyTCPServerDemo.o
+ .gnu.attributes
+                0x00000370       0x10 Objects\BerkeleyUDPClientDemo.o
+ .gnu.attributes
+                0x00000380       0x10 Objects\GenericTCPClient.o
+ .gnu.attributes
+                0x00000390       0x10 Objects\GenericTCPServer.o
+ .gnu.attributes
+                0x000003a0       0x10 Objects\PingDemo.o
+ .gnu.attributes
+                0x000003b0       0x10 Objects\SMTPDemo.o
+ .gnu.attributes
+                0x000003c0       0x10 Objects\UARTConfig.o
+ .gnu.attributes
+                0x000003d0       0x10 Objects\MPFSImg2.o
+ .gnu.attributes
+                0x000003e0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+ .gnu.attributes
+                0x000003f0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+ .gnu.attributes
+                0x00000400       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+ .gnu.attributes
+                0x00000410       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+ .gnu.attributes
+                0x00000420       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+ .gnu.attributes
+                0x00000430       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+ .gnu.attributes
+                0x00000440       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+ .gnu.attributes
+                0x00000450       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+ .gnu.attributes
+                0x00000460       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+ .gnu.attributes
+                0x00000470       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+ .gnu.attributes
+                0x00000480       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+ .gnu.attributes
+                0x00000490       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+ .gnu.attributes
+                0x000004a0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+ .gnu.attributes
+                0x000004b0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+ .gnu.attributes
+                0x000004c0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+ .gnu.attributes
+                0x000004d0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+ .gnu.attributes
+                0x000004e0       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000001                __MPLAB_DEBUG = 0x1
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a
+START GROUP
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libdebug.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libm.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libe.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libdsp.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral.a
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a
+END GROUP
+LOAD c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a
+OUTPUT(Hex\SkP32_ENC28.elf elf32-tradlittlemips)
+LOAD stack
+LOAD data_init
+
+.stack          0xa00008a8      0x400
+ .stack         0xa00008a8      0x400 stack
+
+.bss            0xa0000370      0x328
+ .bss           0xa0000370      0x224 Objects\TCP.o
+ .bss           0xa0000594       0x8c Objects\BerkeleyAPI.o
+ .bss           0xa0000620       0x78 Objects\MPFS2.o
+
+.data           0xa0000698       0x70
+ .data          0xa0000698       0x70 Objects\BerkeleyTCPClientDemo.o
+
+.bss            0xa0000708       0x5c
+ .bss           0xa0000708       0x5c Objects\CustomHTTPApp.o
+
+.data           0xa0000764       0x48
+ .data          0xa0000764       0x48 Objects\SMTPDemo.o
+
+.bss            0xa00007ac       0x9c
+ .bss           0xa00007ac       0x34 Objects\AutoIP.o
+ .bss           0xa00007e0       0x30 Objects\DHCP.o
+ .bss           0xa0000810       0x18 Objects\ARP.o
+ .bss           0xa0000828       0x10 Objects\BerkeleyTCPClientDemo.o
+ .bss           0xa0000838       0x10 Objects\BerkeleyUDPClientDemo.o
+
+.data           0xa0000848       0x10
+ .data          0xa0000848       0x10 Objects\GenericTCPClient.o
+
+.bss            0xa0000858       0x30
+ .bss           0xa0000858        0xc Objects\DNS.o
+ .bss           0xa0000864        0xc Objects\ICMP.o
+ .bss           0xa0000870        0xc Objects\SNTP.o
+ .bss           0xa000087c        0xc Objects\TCPPerformanceTest.o
+
+.mdebug.abi32%z1
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.bss%z2         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.data%z3        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.mdebug.abi32%z4
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+
+.bss%z5         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+
+.data%z6        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+
+.mdebug.abi32%z7
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+
+.bss%z8         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+
+.data%z9        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+
+.mdebug.abi32%z10
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+
+.bss%z11        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+
+.data%z12       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+
+.mdebug.abi32%z13
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+
+.bss%z14        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+
+.data%z15       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+
+.mdebug.abi32%z16
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+
+.bss%z17        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+
+.data%z18       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+
+.mdebug.abi32%z19
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+
+.bss%z20        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+
+.data%z21       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+
+.mdebug.abi32%z22
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+
+.bss%z23        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+
+.data%z24       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+
+.bss%z25        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+
+.data%z26       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+
+.mdebug.abi32%z27
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+
+.bss%z28        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+
+.data%z29       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+
+.mdebug.abi32%z30
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+
+.bss%z31        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+
+.data%z32       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+
+.mdebug.abi32%z33
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+
+.bss%z34        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+
+.data%z35       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+
+.mdebug.abi32%z36
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+
+.bss%z37        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+
+.data%z38       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+
+.mdebug.abi32%z39
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+
+.bss%z40        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+
+.data%z41       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+
+.mdebug.abi32%z42
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+
+.bss%z43        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+
+.data%z44       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+
+.mdebug.abi32%z45
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+
+.bss%z46        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+
+.data%z47       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+
+.mdebug.abi32%z48
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+
+.bss%z49        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+
+.data%z50       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+
+.bss%z51        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+
+.data%z52       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+
+.bss%z53        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+
+.data%z54       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+
+.bss%z55        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+
+.data%z56       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+
+.bss%z57        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+
+.data%z58       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+
+.bss%z59        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+
+.data%z60       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+
+.bss%z61        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+
+.data%z62       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+
+.mdebug.abi32%z63
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+
+.bss%z64        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+
+.data%z65       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+
+.bss%z66        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+
+.data%z67       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+
+.bss%z68        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\BigInt_helper_C32.o
+
+.data%z69       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\BigInt_helper_C32.o
+
+.mdebug.abi32%z70
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\MPFSImg2.o
+
+.bss%z71        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\MPFSImg2.o
+
+.data%z72       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\MPFSImg2.o
+
+.mdebug.abi32%z73
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\UARTConfig.o
+
+.bss%z74        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\UARTConfig.o
+
+.data%z75       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\UARTConfig.o
+
+.mdebug.abi32%z76
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SMTPDemo.o
+
+.bss%z77        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SMTPDemo.o
+
+.mdebug.abi32%z78
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\PingDemo.o
+
+.bss%z79        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\PingDemo.o
+
+.data%z80       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\PingDemo.o
+
+.mdebug.abi32%z81
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\GenericTCPServer.o
+
+.bss%z82        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\GenericTCPServer.o
+
+.data%z83       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\GenericTCPServer.o
+
+.mdebug.abi32%z84
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\GenericTCPClient.o
+
+.bss%z85        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\GenericTCPClient.o
+
+.mdebug.abi32%z86
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\BerkeleyUDPClientDemo.o
+
+.data%z87       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\BerkeleyUDPClientDemo.o
+
+.mdebug.abi32%z88
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\BerkeleyTCPServerDemo.o
+
+.bss%z89        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\BerkeleyTCPServerDemo.o
+
+.data%z90       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\BerkeleyTCPServerDemo.o
+
+.mdebug.abi32%z91
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\BerkeleyTCPClientDemo.o
+
+.mdebug.abi32%z92
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\MainDemo.o
+
+.bss%z93        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\MainDemo.o
+
+.data%z94       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\MainDemo.o
+
+.mdebug.abi32%z95
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\CustomSSLCert.o
+
+.bss%z96        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\CustomSSLCert.o
+
+.data%z97       0x00000000        0x0
+ .data          0x00000000        0x0 Objects\CustomSSLCert.o
+
+.mdebug.abi32%z98
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\CustomSNMPApp.o
+
+.bss%z99        0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\CustomSNMPApp.o
+
+.data%z100      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\CustomSNMPApp.o
+
+.mdebug.abi32%z101
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\CustomHTTPApp.o
+
+.data%z102      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\CustomHTTPApp.o
+
+.mdebug.abi32%z103
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ZeroconfMulticastDNS.o
+
+.bss%z104       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ZeroconfMulticastDNS.o
+
+.data%z105      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ZeroconfMulticastDNS.o
+
+.mdebug.abi32%z106
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ZeroconfLinkLocal.o
+
+.bss%z107       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ZeroconfLinkLocal.o
+
+.data%z108      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ZeroconfLinkLocal.o
+
+.mdebug.abi32%z109
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ZeroconfHelper.o
+
+.bss%z110       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ZeroconfHelper.o
+
+.data%z111      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ZeroconfHelper.o
+
+.mdebug.abi32%z112
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\UDPPerformanceTest.o
+
+.bss%z113       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\UDPPerformanceTest.o
+
+.data%z114      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\UDPPerformanceTest.o
+
+.mdebug.abi32%z115
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\UDP.o
+
+.bss%z116       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\UDP.o
+
+.data%z117      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\UDP.o
+
+.mdebug.abi32%z118
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\UART.o
+
+.bss%z119       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\UART.o
+
+.data%z120      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\UART.o
+
+.mdebug.abi32%z121
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\UART2TCPBridge.o
+
+.bss%z122       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\UART2TCPBridge.o
+
+.data%z123      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\UART2TCPBridge.o
+
+.mdebug.abi32%z124
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Tick.o
+
+.bss%z125       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Tick.o
+
+.data%z126      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Tick.o
+
+.mdebug.abi32%z127
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\TFTPc.o
+
+.bss%z128       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\TFTPc.o
+
+.data%z129      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\TFTPc.o
+
+.mdebug.abi32%z130
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Telnet.o
+
+.bss%z131       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Telnet.o
+
+.data%z132      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Telnet.o
+
+.mdebug.abi32%z133
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\TCPPerformanceTest.o
+
+.data%z134      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\TCPPerformanceTest.o
+
+.mdebug.abi32%z135
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\TCP.o
+
+.data%z136      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\TCP.o
+
+.mdebug.abi32%z137
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\StackTsk.o
+
+.bss%z138       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\StackTsk.o
+
+.data%z139      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\StackTsk.o
+
+.mdebug.abi32%z140
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SSL.o
+
+.bss%z141       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SSL.o
+
+.data%z142      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SSL.o
+
+.mdebug.abi32%z143
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SPIRAM.o
+
+.bss%z144       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SPIRAM.o
+
+.data%z145      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SPIRAM.o
+
+.mdebug.abi32%z146
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SPIFlash.o
+
+.bss%z147       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SPIFlash.o
+
+.data%z148      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SPIFlash.o
+
+.mdebug.abi32%z149
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SPIEEPROM.o
+
+.bss%z150       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SPIEEPROM.o
+
+.data%z151      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SPIEEPROM.o
+
+.mdebug.abi32%z152
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SNTP.o
+
+.data%z153      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SNTP.o
+
+.mdebug.abi32%z154
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SNMPv3USM.o
+
+.bss%z155       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SNMPv3USM.o
+
+.data%z156      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SNMPv3USM.o
+
+.mdebug.abi32%z157
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SNMPv3.o
+
+.bss%z158       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SNMPv3.o
+
+.data%z159      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SNMPv3.o
+
+.mdebug.abi32%z160
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SNMP.o
+
+.bss%z161       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SNMP.o
+
+.data%z162      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SNMP.o
+
+.mdebug.abi32%z163
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\SMTP.o
+
+.bss%z164       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\SMTP.o
+
+.data%z165      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\SMTP.o
+
+.mdebug.abi32%z166
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\RSA.o
+
+.bss%z167       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\RSA.o
+
+.data%z168      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\RSA.o
+
+.mdebug.abi32%z169
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Reboot.o
+
+.bss%z170       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Reboot.o
+
+.data%z171      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Reboot.o
+
+.mdebug.abi32%z172
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Random.o
+
+.bss%z173       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Random.o
+
+.data%z174      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Random.o
+
+.mdebug.abi32%z175
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\NBNS.o
+
+.bss%z176       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\NBNS.o
+
+.data%z177      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\NBNS.o
+
+.mdebug.abi32%z178
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\MPFS2.o
+
+.data%z179      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\MPFS2.o
+
+.mdebug.abi32%z180
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\LCDBlocking.o
+
+.bss%z181       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\LCDBlocking.o
+
+.data%z182      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\LCDBlocking.o
+
+.mdebug.abi32%z183
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\IP.o
+
+.bss%z184       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\IP.o
+
+.data%z185      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\IP.o
+
+.mdebug.abi32%z186
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ICMP.o
+
+.data%z187      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ICMP.o
+
+.mdebug.abi32%z188
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\HTTP2.o
+
+.bss%z189       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\HTTP2.o
+
+.data%z190      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\HTTP2.o
+
+.mdebug.abi32%z191
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Helpers.o
+
+.bss%z192       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Helpers.o
+
+.data%z193      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Helpers.o
+
+.mdebug.abi32%z194
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Hashes.o
+
+.bss%z195       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Hashes.o
+
+.data%z196      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Hashes.o
+
+.mdebug.abi32%z197
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\FTP.o
+
+.bss%z198       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\FTP.o
+
+.data%z199      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\FTP.o
+
+.mdebug.abi32%z200
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\FileSystem.o
+
+.bss%z201       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\FileSystem.o
+
+.data%z202      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\FileSystem.o
+
+.mdebug.abi32%z203
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ENCX24J600.o
+
+.bss%z204       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ENCX24J600.o
+
+.data%z205      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ENCX24J600.o
+
+.mdebug.abi32%z206
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ENC28J60.o
+
+.bss%z207       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ENC28J60.o
+
+.data%z208      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ENC28J60.o
+
+.mdebug.abi32%z209
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\DynDNS.o
+
+.bss%z210       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\DynDNS.o
+
+.data%z211      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\DynDNS.o
+
+.mdebug.abi32%z212
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\DNSs.o
+
+.bss%z213       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\DNSs.o
+
+.data%z214      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\DNSs.o
+
+.mdebug.abi32%z215
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\DNS.o
+
+.data%z216      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\DNS.o
+
+.mdebug.abi32%z217
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\DHCPs.o
+
+.bss%z218       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\DHCPs.o
+
+.data%z219      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\DHCPs.o
+
+.mdebug.abi32%z220
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\DHCP.o
+
+.data%z221      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\DHCP.o
+
+.mdebug.abi32%z222
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Delay.o
+
+.bss%z223       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Delay.o
+
+.data%z224      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Delay.o
+
+.mdebug.abi32%z225
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\BigInt.o
+
+.bss%z226       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\BigInt.o
+
+.data%z227      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\BigInt.o
+
+.mdebug.abi32%z228
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\BerkeleyAPI.o
+
+.data%z229      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\BerkeleyAPI.o
+
+.mdebug.abi32%z230
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\AutoIP.o
+
+.data%z231      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\AutoIP.o
+
+.mdebug.abi32%z232
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ARP.o
+
+.data%z233      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ARP.o
+
+.mdebug.abi32%z234
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\ARCFOUR.o
+
+.bss%z235       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\ARCFOUR.o
+
+.data%z236      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\ARCFOUR.o
+
+.mdebug.abi32%z237
+                0x00000000        0x0
+ .mdebug.abi32  0x00000000        0x0 Objects\Announce.o
+
+.bss%z238       0x00000000        0x0
+ .bss           0x00000000        0x0 Objects\Announce.o
+
+.data%z239      0x00000000        0x0
+ .data          0x00000000        0x0 Objects\Announce.o
+
+.bss%z240       0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+
+.data%z241      0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+
+.text           0x9d007e08     0x8470
+ .text          0x9d007e08     0x8470 Objects\TCP.o
+                0x9d007f34                TCPInit
+                0x9d008220                TCPOpen
+                0x9d00869c                TCPWasReset
+                0x9d008734                TCPIsConnected
+                0x9d00878c                TCPDisconnect
+                0x9d008a20                TCPClose
+                0x9d008a90                TCPGetRemoteInfo
+                0x9d008b0c                TCPFlush
+                0x9d008b90                TCPIsPutReady
+                0x9d008d6c                TCPPut
+                0x9d0090c4                TCPPutArray
+                0x9d009530                TCPPutString
+                0x9d0095a0                TCPGetTxFIFOFull
+                0x9d009654                TCPDiscard
+                0x9d0096fc                TCPIsGetReady
+                0x9d009880                TCPGet
+                0x9d009b10                TCPGetArray
+                0x9d009ed8                TCPGetRxFIFOFree
+                0x9d009f84                TCPPeekArray
+                0x9d00a220                TCPPeek
+                0x9d00a280                TCPFindArrayEx
+                0x9d00a898                TCPFindEx
+                0x9d00a910                TCPTick
+                0x9d00ba00                TCPProcess
+                0x9d00f9b8                TCPAdjustFIFOSize
+
+.rodata         0x9d010278     0x7aa8
+ .rodata        0x9d010278     0x7aa8 Objects\MPFSImg2.o
+                0x9d010278                MPFS_Start
+
+.text           0x9d017d20    0x1917c
+ .text          0x9d017d20     0x3b38 Objects\HTTP2.o
+                0x9d017d20                HTTPPrint
+                0x9d01832c                HTTPPrint_
+                0x9d018380                HTTPInit
+                0x9d0184a4                HTTPServer
+                0x9d01aed0                HTTPURLDecode
+                0x9d01b0ac                HTTPGetArg
+                0x9d01b17c                HTTPReadPostName
+                0x9d01b1f8                HTTPReadPostValue
+                0x9d01b640                HTTPIncFile
+ .text          0x9d01b858     0x30f8 Objects\CustomHTTPApp.o
+                0x9d01b858                HTTPNeedsAuth
+                0x9d01b8e0                HTTPCheckAuth
+                0x9d01b960                HTTPExecuteGet
+                0x9d01bd74                HTTPExecutePost
+                0x9d01d590                HTTPPrint_builddate
+                0x9d01d64c                HTTPPrint_version
+                0x9d01d6ac                HTTPPrint_btn
+                0x9d01d7d8                HTTPPrint_led
+                0x9d01d984                HTTPPrint_ledSelected
+                0x9d01db54                HTTPPrint_pot
+                0x9d01dbd4                HTTPPrint_lcdtext
+                0x9d01dc60                HTTPPrint_hellomsg
+                0x9d01dd18                HTTPPrint_cookiename
+                0x9d01ddd8                HTTPPrint_uploadedmd5
+                0x9d01e00c                HTTPPrintIP
+                0x9d01e0f4                HTTPPrint_config_hostname
+                0x9d01e14c                HTTPPrint_config_dhcpchecked
+                0x9d01e1c8                HTTPPrint_config_ip
+                0x9d01e214                HTTPPrint_config_gw
+                0x9d01e260                HTTPPrint_config_subnet
+                0x9d01e2ac                HTTPPrint_config_dns1
+                0x9d01e2f8                HTTPPrint_config_dns2
+                0x9d01e344                HTTPPrint_config_mac
+                0x9d01e4d0                HTTPPrint_read_comm
+                0x9d01e4f8                HTTPPrint_write_comm
+                0x9d01e520                HTTPPrint_reboot
+                0x9d01e538                HTTPPrint_rebootaddr
+                0x9d01e590                HTTPPrint_ddns_user
+                0x9d01e5b0                HTTPPrint_ddns_pass
+                0x9d01e5d0                HTTPPrint_ddns_host
+                0x9d01e5f0                HTTPPrint_ddns_service
+                0x9d01e618                HTTPPrint_ddns_status
+                0x9d01e678                HTTPPrint_ddns_status_msg
+                0x9d01e730                HTTPPrint_smtps_en
+                0x9d01e790                HTTPPrint_snmp_en
+                0x9d01e7f0                HTTPPrint_status_ok
+                0x9d01e8a0                HTTPPrint_status_fail
+ .text          0x9d01e950     0x29a0 Objects\SMTP.o
+                0x9d01e950                SMTPBeginUsage
+                0x9d01e9e8                SMTPEndUsage
+                0x9d01eaa4                SMTPTask
+                0x9d020b6c                SMTPSendMail
+                0x9d020b9c                SMTPIsBusy
+                0x9d020bc4                SMTPIsPutReady
+                0x9d020c18                SMTPPut
+                0x9d020dc0                SMTPPutArray
+                0x9d020e74                SMTPPutString
+                0x9d020f10                SMTPFlush
+                0x9d020f48                SMTPPutDone
+ .text          0x9d0212f0     0x2588 Objects\ENC28J60.o
+                0x9d0212f0                MACInit
+                0x9d02165c                MACIsLinked
+                0x9d0216a4                MACIsTxReady
+                0x9d0216f0                MACDiscardRx
+                0x9d021798                MACGetFreeRxSize
+                0x9d021908                MACGetHeader
+                0x9d021af0                MACPutHeader
+                0x9d021be8                MACFlush
+                0x9d021efc                MACSetReadPtrInRx
+                0x9d021f90                MACSetWritePtr
+                0x9d022028                MACSetReadPtr
+                0x9d0220c0                MACCalcRxChecksum
+                0x9d0221d4                CalcIPBufferChecksum
+                0x9d02237c                MACMemCopyAsync
+                0x9d022824                MACIsMemCopyDone
+                0x9d022870                MACGet
+                0x9d02291c                MACGetArray
+                0x9d022ba0                MACPut
+                0x9d022c5c                MACPutArray
+                0x9d0231b4                ReadPHYReg
+                0x9d023584                WritePHYReg
+                0x9d0236a8                MACPowerDown
+                0x9d023748                MACPowerUp
+                0x9d0237bc                SetCLKOUT
+                0x9d023818                GetCLKOUT
+ .text          0x9d023878     0x1920 Objects\BerkeleyAPI.o
+                0x9d023878                BerkeleySocketInit
+                0x9d0238e8                socket
+                0x9d023a14                bind
+                0x9d023b90                listen
+                0x9d023e4c                accept
+                0x9d02411c                connect
+                0x9d024444                send
+                0x9d0244a4                sendto
+                0x9d024854                recv
+                0x9d0249cc                recvfrom
+                0x9d024c2c                gethostname
+                0x9d024d20                closesocket
+ .text          0x9d025198     0x1754 Objects\DHCP.o
+                0x9d025198                DHCPInit
+                0x9d02528c                DHCPDisable
+                0x9d0252fc                DHCPEnable
+                0x9d02535c                DHCPIsEnabled
+                0x9d025394                DHCPIsBound
+                0x9d0253d0                DHCPStateChanged
+                0x9d025434                DHCPIsServerDetected
+                0x9d025470                DHCPTask
+ .text          0x9d0268ec     0x16c8 Objects\MPFS2.o
+                0x9d0268ec                MPFSInit
+                0x9d026970                MPFSOpen
+                0x9d026c8c                MPFSOpenID
+                0x9d026dfc                MPFSClose
+                0x9d026e64                MPFSGet
+                0x9d027088                MPFSGetArray
+                0x9d027314                MPFSGetLong
+                0x9d02736c                MPFSSeek
+                0x9d027840                MPFSGetTimestamp
+                0x9d0278fc                MPFSGetMicrotime
+                0x9d0279b8                MPFSGetFlags
+                0x9d027a74                MPFSGetSize
+                0x9d027b30                MPFSGetBytesRem
+                0x9d027bcc                MPFSGetStartAddr
+                0x9d027c88                MPFSGetEndAddr
+                0x9d027d54                MPFSGetFilename
+                0x9d027e54                MPFSGetPosition
+                0x9d027ec0                MPFSGetID
+ .text          0x9d027fb4     0x168c Objects\Helpers.o
+                0x9d027fb4                LFSRSeedRand
+                0x9d028038                LFSRRand
+                0x9d0280b0                GenerateRandomDWORD
+                0x9d02830c                StringToIPAddress
+                0x9d0286ac                Base64Decode
+                0x9d0289d8                Base64Encode
+                0x9d028c90                uitoa
+                0x9d028dbc                ultoa
+                0x9d028ee4                hexatob
+                0x9d028fd8                btohexa_high
+                0x9d02903c                btohexa_low
+                0x9d0290a0                stricmppgm2ram
+                0x9d02920c                swaps
+                0x9d029258                swapl
+                0x9d029340                CalcIPChecksum
+                0x9d029428                strupr
+                0x9d0294c4                FormatNetBIOSName
+                0x9d02958c                strnchr
+ .text          0x9d029640      0xf2c Objects\DNS.o
+                0x9d029640                DNSBeginUsage
+                0x9d029694                DNSEndUsage
+                0x9d029704                DNSResolve
+                0x9d029798                DNSIsResolved
+ .text          0x9d02a56c      0xe5c Objects\AutoIP.o
+                0x9d02a56c                AutoIPInit
+                0x9d02a604                AutoIPIsConfigured
+                0x9d02a63c                AutoIPConfigIsInProgress
+                0x9d02a678                AutoIPTasks
+                0x9d02b08c                AutoIPConflict
+                0x9d02b204                AutoIPDisable
+                0x9d02b2a4                AutoIPEnable
+                0x9d02b2ec                AutoIPIsDisabled
+                0x9d02b320                AutoIPRandSeed
+                0x9d02b35c                AutoIPRand
+ .text          0x9d02b3c8      0xc5c Objects\UDP.o
+                0x9d02b3c8                UDPInit
+                0x9d02b438                UDPTask
+                0x9d02b460                UDPOpen
+                0x9d02b5ac                UDPClose
+                0x9d02b634                UDPSetTxBuffer
+                0x9d02b680                UDPSetRxBuffer
+                0x9d02b6d0                UDPIsPutReady
+                0x9d02b75c                UDPPut
+                0x9d02b7e8                UDPPutArray
+                0x9d02b890                UDPPutString
+                0x9d02b8e8                UDPFlush
+                0x9d02bab4                UDPIsGetReady
+                0x9d02bb44                UDPGet
+                0x9d02bbc8                UDPGetArray
+                0x9d02bc88                UDPDiscard
+                0x9d02bce8                UDPProcess
+ .text          0x9d02c024      0xc04 Objects\DHCPs.o
+                0x9d02c024                DHCPServerTask
+ .text          0x9d02cc28      0xb28 Objects\Telnet.o
+                0x9d02cc28                TelnetTask
+ .text          0x9d02d750      0x9ec Objects\MainDemo.o
+                0x9d02d750                _general_exception_handler
+                0x9d02d77c                main
+                0x9d02d8f0                DisplayIPValue
+ .text          0x9d02e13c      0x7ac Objects\Hashes.o
+                0x9d02e13c                HashAddData
+                0x9d02e19c                MD5Initialize
+                0x9d02e210                MD5AddData
+                0x9d02e5e8                MD5Calculate
+ .text          0x9d02e8e8      0x720 Objects\NBNS.o
+                0x9d02e8e8                NBNSTask
+ .text          0x9d02f008      0x6c4 Objects\TCPPerformanceTest.o
+                0x9d02f008                TCPPerformanceTask
+                0x9d02f040                TCPTXPerformanceTask
+                0x9d02f414                TCPRXPerformanceTask
+ .text          0x9d02f6cc      0x6c0 Objects\ARP.o
+                0x9d02f7d4                ARPInit
+                0x9d02f85c                ARPProcess
+                0x9d02fb3c                ARPResolve
+                0x9d02fc20                ARPIsResolved
+                0x9d02fd00                SwapARPPacket
+ .text          0x9d02fd8c      0x638 Objects\ICMP.o
+                0x9d02fd8c                ICMPProcess
+                0x9d02ffac                ICMPSendPing
+                0x9d030004                ICMPSendPingToHost
+                0x9d030068                ICMPGetReply
+                0x9d030344                ICMPBeginUsage
+                0x9d030398                ICMPEndUsage
+ .text          0x9d0303c4      0x574 Objects\UARTConfig.o
+                0x9d0303c4                DoUARTConfig
+ .text          0x9d030938      0x564 Objects\SNTP.o
+                0x9d030938                SNTPClient
+                0x9d030e04                SNTPGetUTCSeconds
+
+.rodata         0x9d030e9c      0x548
+ .rodata        0x9d030e9c      0x548 Objects\HTTP2.o
+
+.text           0x9d0313e4      0xd20
+ .text          0x9d0313e4      0x4b4 Objects\BerkeleyUDPClientDemo.o
+                0x9d0313e4                BerkeleyUDPClientDemo
+                0x9d031800                BerkeleySNTPGetUTCSeconds
+ .text          0x9d031898      0x448 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/size\libgcc.a(_udivdi3.o)
+                0x9d031898                __udivdi3
+ .text          0x9d031ce0      0x424 Objects\StackTsk.o
+                0x9d031ce0                StackInit
+                0x9d031d9c                StackTask
+                0x9d032094                StackApplications
+
+.dinit          0x9d032104      0x414
+ .dinit         0x9d032104      0x414 data_init
+
+.rodata         0x9d032518      0x3bc
+ .rodata        0x9d032518      0x3bc Objects\CustomHTTPApp.o
+                0x9d032810                HTML_UP_ARROW
+                0x9d032814                HTML_DOWN_ARROW
+
+.text           0x9d0328d4     0x1ae8
+ .text          0x9d0328d4      0x39c Objects\Announce.o
+                0x9d0328d4                AnnounceIP
+                0x9d032a30                DiscoveryTask
+ .text          0x9d032c70      0x378 Objects\GenericTCPClient.o
+                0x9d032c70                GenericTCPClient
+ .text          0x9d032fe8      0x358 Objects\Tick.o
+                0x9d032fe8                TickInit
+                0x9d033140                TickGet
+                0x9d033178                TickGetDiv256
+                0x9d0331e8                TickGetDiv64K
+                0x9d033258                TickConvertToMilliseconds
+                0x9d0332c0                _T1Interrupt
+ .text          0x9d033340      0x348 Objects\IP.o
+                0x9d033340                IPGetHeader
+                0x9d033480                IPPutHeader
+                0x9d0335ac                IPSetRxBuffer
+ .text          0x9d033688      0x2f4 Objects\BerkeleyTCPClientDemo.o
+                0x9d033688                BerkeleyTCPClientDemo
+ .text          0x9d03397c      0x2ec Objects\BerkeleyTCPServerDemo.o
+                0x9d03397c                BerkeleyTCPServerDemo
+ .text          0x9d033c68      0x294 Objects\UART.o
+                0x9d033c68                ReadStringUART
+                0x9d033d6c                putrsUART
+                0x9d033e34                putsUART
+ .text          0x9d033efc      0x264 Objects\GenericTCPServer.o
+                0x9d033efc                GenericTCPServer
+ .text          0x9d034160      0x25c Objects\SMTPDemo.o
+                0x9d034160                SMTPDemo
+
+.rodata         0x9d0343bc      0x434
+ .rodata        0x9d0343bc      0x250 Objects\UARTConfig.o
+ .rodata        0x9d03460c      0x1e4 Objects\Telnet.o
+
+.text           0x9d0347f0      0x57c
+ .text          0x9d0347f0      0x168 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcpy.o)
+                0x9d0347f0                memcpy
+ .text          0x9d034958      0x168 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strlen.o)
+                0x9d034958                strlen
+ .text          0x9d034ac0      0x158 Objects\PingDemo.o
+                0x9d034ac0                PingDemo
+ .text          0x9d034c18      0x154 Objects\Reboot.o
+                0x9d034c18                RebootTask
+
+.rodata         0x9d034d6c      0x270
+ .rodata        0x9d034d6c      0x140 Objects\Hashes.o
+ .rodata        0x9d034eac      0x130 Objects\BerkeleyTCPClientDemo.o
+
+.text           0x9d034fdc      0x120
+ .text          0x9d034fdc      0x120 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strcmp.o)
+                0x9d034fdc                strcmp
+
+.rodata         0x9d0350fc      0x104
+ .rodata        0x9d0350fc      0x104 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+                0x9d0350fc                _ctype
+
+.text           0x9d035200       0xf0
+ .text          0x9d035200       0xf0 Objects\Delay.o
+                0x9d035200                DelayMs
+                0x9d035294                Delay10us
+
+.text.general_exception
+                0x9d0352f0       0xd0
+ .text.general_exception
+                0x9d0352f0       0xd0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+                0x9d0352f0                _general_exception_context
+
+.text           0x9d0353c0       0xa8
+ .text          0x9d0353c0       0xa8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memset.o)
+                0x9d0353c0                memset
+
+.rodata         0x9d035468       0x98
+ .rodata        0x9d035468       0x98 Objects\SMTP.o
+
+.text           0x9d035500       0x98
+ .text          0x9d035500       0x98 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(memcmp.o)
+                0x9d035500                memcmp
+
+.rodata         0x9d035598       0x94
+ .rodata        0x9d035598       0x94 Objects\GenericTCPClient.o
+
+.text.atol      0x9d03562c       0x90
+ .text.atol     0x9d03562c       0x90 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+                0x9d03562c                atol
+
+.text.atoi      0x9d0356bc       0x84
+ .text.atoi     0x9d0356bc       0x84 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+                0x9d0356bc                atoi
+
+.text.strstr    0x9d035740       0x78
+ .text.strstr   0x9d035740       0x78 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+                0x9d035740                strstr
+
+.text.SoftReset
+                0x9d0357b8       0x78
+ .text.SoftReset
+                0x9d0357b8       0x78 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+                0x9d0357b8                SoftReset
+
+.text.UARTEnable
+                0x9d035830       0x78
+ .text.UARTEnable
+                0x9d035830       0x78 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035830                UARTEnable
+
+.rodata         0x9d0358a8       0x5c
+ .rodata        0x9d0358a8       0x5c Objects\TCPPerformanceTest.o
+
+.text.UARTSetDataRate
+                0x9d035904       0x5c
+ .text.UARTSetDataRate
+                0x9d035904       0x5c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035904                UARTSetDataRate
+
+.rodata         0x9d035960       0x50
+ .rodata        0x9d035960       0x50 Objects\SMTPDemo.o
+
+.text.strncmp   0x9d0359b0       0x44
+ .text.strncmp  0x9d0359b0       0x44 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+                0x9d0359b0                strncmp
+
+.text.UARTGetDataRate
+                0x9d0359f4       0x40
+ .text.UARTGetDataRate
+                0x9d0359f4       0x40 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d0359f4                UARTGetDataRate
+
+.text.UARTConfigure
+                0x9d035a34       0x3c
+ .text.UARTConfigure
+                0x9d035a34       0x3c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035a34                UARTConfigure
+
+.text.UARTSetAddress
+                0x9d035a70       0x3c
+ .text.UARTSetAddress
+                0x9d035a70       0x3c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035a70                UARTSetAddress
+
+.rodata         0x9d035aac       0x38
+ .rodata        0x9d035aac       0x38 Objects\TCP.o
+                0x9d035aac                TCPSocketInitializer
+
+.text.UARTWatchForAddress
+                0x9d035ae4       0x38
+ .text.UARTWatchForAddress
+                0x9d035ae4       0x38 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035ae4                UARTWatchForAddress
+
+.text.INTEnableSystemMultiVectoredInt
+                0x9d035b1c       0x34
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d035b1c       0x34 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+                0x9d035b1c                INTEnableSystemMultiVectoredInt
+
+.rodata         0x9d035b50       0x2c
+ .rodata        0x9d035b50       0x2c Objects\MainDemo.o
+
+.text.strchr    0x9d035b7c       0x2c
+ .text.strchr   0x9d035b7c       0x2c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+                0x9d035b7c                strchr
+
+.text.UARTSetFifoMode
+                0x9d035ba8       0x28
+ .text.UARTSetFifoMode
+                0x9d035ba8       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035ba8                UARTSetFifoMode
+
+.text.UARTSetLineControl
+                0x9d035bd0       0x28
+ .text.UARTSetLineControl
+                0x9d035bd0       0x28 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035bd0                UARTSetLineControl
+
+.rodata         0x9d035bf8       0x1c
+ .rodata        0x9d035bf8       0x1c Objects\Announce.o
+
+.text.INTRestoreInterrupts
+                0x9d035c14       0x1c
+ .text.INTRestoreInterrupts
+                0x9d035c14       0x1c c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+                0x9d035c14                INTRestoreInterrupts
+
+.text           0x9d035c30       0x18
+ .text          0x9d035c30       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-nmi-handler.o)
+                0x9d035c30                _nmi_handler
+
+.text.CheKseg0CacheOff
+                0x9d035c48       0x18
+ .text.CheKseg0CacheOff
+                0x9d035c48       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                0x9d035c48                CheKseg0CacheOff
+
+.text.CheKseg0CacheOn
+                0x9d035c60       0x18
+ .text.CheKseg0CacheOn
+                0x9d035c60       0x18 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+                0x9d035c60                CheKseg0CacheOn
+
+.rodata         0x9d035c78       0x14
+ .rodata        0x9d035c78       0x14 Objects\PingDemo.o
+
+.text           0x9d035c8c       0x10
+ .text          0x9d035c8c       0x10 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size/crt0.o
+                0x9d035c94                __crt0_exit
+
+.rodata         0x9d035c9c       0x20
+ .rodata        0x9d035c9c       0x10 Objects\SNTP.o
+ .rodata        0x9d035cac       0x10 Objects\BerkeleyUDPClientDemo.o
+
+.text._bootstrap_exception_handler
+                0x9d035cbc        0xc
+ .text._bootstrap_exception_handler
+                0x9d035cbc        0xc c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+                0x9d035cbc                _bootstrap_exception_handler
+
+.rodata         0x9d035cc8        0x8
+ .rodata        0x9d035cc8        0x8 Objects\MPFS2.o
+
+.text._on_reset
+                0x9d035cd0        0x8
+ .text._on_reset
+                0x9d035cd0        0x8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+                0x9d035cd0                _on_reset
+
+.text._on_bootstrap
+                0x9d035cd8        0x8
+ .text._on_bootstrap
+                0x9d035cd8        0x8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+                0x9d035cd8                _on_bootstrap
+
+.text.INTDisableInterrupts
+                0x9d035ce0        0x8
+ .text.INTDisableInterrupts
+                0x9d035ce0        0x8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+                0x9d035ce0                INTDisableInterrupts
+
+.rodata         0x9d035ce8        0x8
+ .rodata        0x9d035ce8        0x8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+                0x9d035ce8                uartReg
+
+.text.INTEnableInterrupts
+                0x9d035cf0        0x8
+ .text.INTEnableInterrupts
+                0x9d035cf0        0x8 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+                0x9d035cf0                INTEnableInterrupts
+
+.text%z242      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_interrupts_lib.o)
+
+.text%z243      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(uart_lib.o)
+
+.text%z244      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_enable_mv_int_lib.o)
+
+.text%z245      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_restore_interrupts_lib.o)
+
+.text%z246      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(int_disable_interrupts_lib.o)
+
+.text%z247      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(pcache.o)
+
+.text%z248      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libmchp_peripheral_32MX460F512L.a(soft_reset_lib.o)
+
+.text%z249      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strncmp.o)
+
+.text%z250      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-bootstrap.o)
+
+.text%z251      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-on-reset.o)
+
+.text%z252      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(default-bootstrap-exception-handler.o)
+
+.text%z253      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strstr.o)
+
+.text%z254      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(strchr.o)
+
+.text%z255      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(ctype.o)
+
+.text%z256      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atol.o)
+
+.text%z257      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(atoi.o)
+
+.text%z258      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/size\libc.a(general-exception.o)
+
+.text%z259      0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files/microchip/mplabc32/v2.02/bin/../lib/gcc/pic32mx/4.5.1/../../../../pic32mx/lib/./proc/32MX460F512L\processor.o
+
+.text%z260      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\BigInt_helper_C32.o
+
+.text%z261      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\MPFSImg2.o
+
+.text%z262      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\CustomSSLCert.o
+
+.text%z263      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\CustomSNMPApp.o
+
+.text%z264      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\ZeroconfMulticastDNS.o
+
+.text%z265      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\ZeroconfLinkLocal.o
+
+.text%z266      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\ZeroconfHelper.o
+
+.text%z267      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\UDPPerformanceTest.o
+
+.text%z268      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\UART2TCPBridge.o
+
+.text%z269      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\TFTPc.o
+
+.text%z270      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SSL.o
+
+.text%z271      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SPIRAM.o
+
+.text%z272      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SPIFlash.o
+
+.text%z273      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SPIEEPROM.o
+
+.text%z274      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SNMPv3USM.o
+
+.text%z275      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SNMPv3.o
+
+.text%z276      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\SNMP.o
+
+.text%z277      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\RSA.o
+
+.text%z278      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\Random.o
+
+.text%z279      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\LCDBlocking.o
+
+.text%z280      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\FTP.o
+
+.text%z281      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\FileSystem.o
+
+.text%z282      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\ENCX24J600.o
+
+.text%z283      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\DynDNS.o
+
+.text%z284      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\DNSs.o
+
+.text%z285      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\BigInt.o
+
+.text%z286      0x00000000        0x0
+ .text          0x00000000        0x0 Objects\ARCFOUR.o

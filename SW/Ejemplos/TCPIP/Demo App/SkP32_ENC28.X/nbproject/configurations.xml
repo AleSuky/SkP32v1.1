@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="Common" displayName="Common" projectFiles="true">
+        <itemPath>../../../Microchip/Include/Compiler.h</itemPath>
+        <itemPath>../../../Microchip/Include/GenericTypeDefs.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="TCPIP Stack" displayName="TCPIP Stack" projectFiles="true">
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Announce.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ARCFOUR.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ARP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/AutoIP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/BerkeleyAPI.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/BigInt.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Delay.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/DHCP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/DNS.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/DynDNS.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ENC28J60.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ENCX24J600.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/FileSystem.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/FTP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Hashes.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Helpers.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/HTTP2.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ICMP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/IP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/LCDBlocking.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/MAC.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/MPFS2.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/NBNS.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Random.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Reboot.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/regdef.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/RSA.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SMTP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SNMP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SNMPv3.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SNTP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SPIFlash.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SPIRAM.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/SSL.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/StackTsk.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/TCP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/TCPIP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/TCPPerformanceTest.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Telnet.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/TFTPc.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/Tick.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/UART2TCPBridge.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/UART.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/UDP.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/UDPPerformanceTest.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/XEEPROM.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ZeroconfHelper.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ZeroconfLinkLocal.h</itemPath>
+        <itemPath>../../../Microchip/Include/TCPIP Stack/ZeroconfMulticastDNS.h</itemPath>
+        <itemPath>../mib.h</itemPath>
+        <itemPath>../HTTPPrint.h</itemPath>
+      </logicalFolder>
+      <itemPath>../MainDemo.h</itemPath>
+      <itemPath>../TCPIPConfig.h</itemPath>
+      <itemPath>../HardwareProfile.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="LinkerScript"
+                   displayName="Linker Files"
+                   projectFiles="true">
+      <itemPath>../app.ld</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="Examples" displayName="Examples" projectFiles="true">
+        <itemPath>../BerkeleyTCPClientDemo.c</itemPath>
+        <itemPath>../BerkeleyTCPServerDemo.c</itemPath>
+        <itemPath>../BerkeleyUDPClientDemo.c</itemPath>
+        <itemPath>../GenericTCPClient.c</itemPath>
+        <itemPath>../GenericTCPServer.c</itemPath>
+        <itemPath>../PingDemo.c</itemPath>
+        <itemPath>../SMTPDemo.c</itemPath>
+        <itemPath>../UARTConfig.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="TCPIP Stack" displayName="TCPIP Stack" projectFiles="true">
+        <itemPath>../../../Microchip/TCPIP Stack/Announce.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ARCFOUR.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ARP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/AutoIP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/BerkeleyAPI.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/BigInt.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Delay.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/DHCP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/DHCPs.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/DNS.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/DNSs.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/DynDNS.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ENC28J60.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ENCX24J600.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/FileSystem.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/FTP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Hashes.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Helpers.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/HTTP2.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ICMP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/IP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/LCDBlocking.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/MPFS2.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/NBNS.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Random.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Reboot.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/RSA.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SMTP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SNMP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SNMPv3.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SNMPv3USM.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SNTP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SPIEEPROM.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SPIFlash.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SPIRAM.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/SSL.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/StackTsk.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/TCP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/TCPPerformanceTest.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Telnet.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/TFTPc.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/Tick.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/UART2TCPBridge.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/UART.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/UDP.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/UDPPerformanceTest.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ZeroconfHelper.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ZeroconfLinkLocal.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/ZeroconfMulticastDNS.c</itemPath>
+        <itemPath>../MPFSImg2.c</itemPath>
+        <itemPath>../../../Microchip/TCPIP Stack/BigInt_helper_C32.S</itemPath>
+      </logicalFolder>
+      <itemPath>../CustomHTTPApp.c</itemPath>
+      <itemPath>../CustomSNMPApp.c</itemPath>
+      <itemPath>../CustomSSLCert.c</itemPath>
+      <itemPath>../MainDemo.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <logicalFolder name="OtherFiles" displayName="Other Files" projectFiles="false">
+      <itemPath>../../../Microchip/TCPIP Stack/TCPIP Stack Version.txt</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="default" type="2">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>PIC32MX460F512L</targetDevice>
+        <targetHeader></targetHeader>
+        <platformTool>Simulator</platformTool>
+        <languageToolchain>C32</languageToolchain>
+        <languageToolchainVersion>2.02</languageToolchainVersion>
+        <platform>3</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <alternateLoadableFile></alternateLoadableFile>
+        </loading>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeCustomizationPreStep>..\Microchip\TCPIP Stack\Utilities\Timer -s</makeCustomizationPreStep>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep>..\Microchip\TCPIP Stack\Utilities\Timer -d</makeCustomizationPostStep>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+      <C32>
+        <property key="additional-warnings" value="true"/>
+        <property key="enable-app-io" value="false"/>
+        <property key="enable-omit-frame-pointer" value="false"/>
+        <property key="enable-symbols" value="true"/>
+        <property key="enable-unroll-loops" value="false"/>
+        <property key="exclude-floating-point" value="false"/>
+        <property key="extra-include-directories"
+                  value="..;../../Microchip/Include;../../../Microchip/Include;../../../Microchip/Include/TCPIP Stack;"/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="isolate-each-function" value="false"/>
+        <property key="make-warnings-into-errors" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="place-data-into-section" value="false"/>
+        <property key="post-instruction-scheduling" value="default"/>
+        <property key="pre-instruction-scheduling" value="default"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="strict-ansi" value="false"/>
+        <property key="support-ansi" value="false"/>
+        <property key="use-indirect-calls" value="false"/>
+      </C32>
+      <C32-AS>
+        <property key="assembler-symbols" value=""/>
+        <property key="enable-symbols" value="true"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="expand-macros" value="false"/>
+        <property key="extra-include-directories-for-assembler" value="..;"/>
+        <property key="extra-include-directories-for-preprocessor"
+                  value="..;../../Microchip/Include;../../../Microchip/Include;../../../Microchip/Include/TCPIP Stack;"/>
+        <property key="false-conditionals" value="false"/>
+        <property key="keep-locals" value="false"/>
+        <property key="list-assembly" value="false"/>
+        <property key="list-file" value=""/>
+        <property key="list-section-info" value="false"/>
+        <property key="list-source" value="false"/>
+        <property key="list-symbols" value="false"/>
+        <property key="omit-debug-dirs" value="false"/>
+        <property key="omit-forms" value="false"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="warning-level" value=""/>
+      </C32-AS>
+      <C32-LD>
+        <property key="enable-check-sections" value="false"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="exclude-standard-libraries" value="false"/>
+        <property key="extra-lib-directories" value="..;"/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="generate-cross-reference-file" value="false"/>
+        <property key="heap-size" value=""/>
+        <property key="input-libraries" value=""/>
+        <property key="linker-symbols" value=""/>
+        <property key="map-file" value="&quot;${DISTDIR}/SkP32_ENC28.X.${IMAGE_TYPE}.map&quot;"/>
+        <property key="no-startup-files" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="remove-unused-sections" value="false"/>
+        <property key="report-memory-usage" value="false"/>
+        <property key="stack-size" value=""/>
+        <property key="symbol-stripping" value=""/>
+        <property key="trace-symbols" value=""/>
+        <property key="warn-section-align" value="false"/>
+        <appendMe value="-Os"/>
+      </C32-LD>
+      <C32Global>
+        <property key="legacy-libc" value="false"/>
+      </C32Global>
+      <Simulator>
+        <property key="tracecontrol.medium" value="1"/>
+        <property key="tracecontrol.portselect" value="0"/>
+        <property key="tracecontrol.select" value="0"/>
+      </Simulator>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,1236 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+A_BLOCK_LINK	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	101;"	s	line:101	file:
+BIT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BOOL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
+BYTE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	434;"	t	line:434
+BYTE_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
+BYTE_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
+CHAR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	440;"	t	line:440
+CHAR8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	431;"	t	line:431
+CLEAR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+CONFIG_INPUT::1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	66;"	d	line:66
+CONFIG_OUTPUT::0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	67;"	d	line:67
+DWORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	436;"	t	line:436
+DWORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	550;"	t	line:550
+Direccion	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	251;"	l	line:251
+Direccion	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	320;"	l	line:320
+FALSE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+FLOAT_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	424;"	t	line:424
+FREERTOS_CONFIG_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	68;"	d	line:68
+GetSystemClock	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	26;"	p	line:26	file:
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	185;"	m	line:185
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	470;"	m	line:470	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	340;"	m	line:340	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	562;"	m	line:562	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226
+HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278
+HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	345;"	m	line:345	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	567;"	m	line:567	struct:<anonymous>::__PACKED
+INCLUDE_pcTaskGetTaskName::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	153;"	d	line:153
+INCLUDE_uxTaskGetStackHighWaterMark::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	161;"	d	line:161
+INCLUDE_uxTaskGetStackHighWaterMark::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	116;"	d	line:116
+INCLUDE_uxTaskPriorityGet::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	110;"	d	line:110
+INCLUDE_vTaskCleanUpResources::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	112;"	d	line:112
+INCLUDE_vTaskDelay::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	115;"	d	line:115
+INCLUDE_vTaskDelayUntil::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	114;"	d	line:114
+INCLUDE_vTaskDelete::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	111;"	d	line:111
+INCLUDE_vTaskPrioritySet::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	109;"	d	line:109
+INCLUDE_vTaskSuspend::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	113;"	d	line:113
+INCLUDE_xTaskGetCurrentTaskHandle::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	234;"	d	line:234
+INCLUDE_xTaskGetIdleTaskHandle::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	145;"	d	line:145
+INCLUDE_xTaskGetSchedulerState::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	230;"	d	line:230
+INCLUDE_xTaskResumeFromISR::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	201;"	d	line:201
+INCLUDE_xTimerGetTimerDaemonTaskHandle::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	149;"	d	line:149
+INC_FREERTOS_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	68;"	d	line:68
+INT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
+INT16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+INT32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT64	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
+INT8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	184;"	m	line:184
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+LCD_4LINES	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	46;"	d	line:46
+LCD_CLOCK_PIN::LATDbits.LATD1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	101;"	d	line:101
+LCD_COMMAND::0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	55;"	d	line:55
+LCD_DATA::1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	56;"	d	line:56
+LCD_DATA_PIN::LATDbits.LATD0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	100;"	d	line:100
+LCD_DATA_PIN_4::LATBbits.LATB4	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	74;"	d	line:74
+LCD_DATA_PIN_5::LATBbits.LATB5	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	73;"	d	line:73
+LCD_DATA_PIN_6::LATBbits.LATB6	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	72;"	d	line:72
+LCD_DATA_PIN_7::LATBbits.LATB7	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	71;"	d	line:71
+LCD_E_PIN::LATBbits.LATB2	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	88;"	d	line:88
+LCD_E_PIN::LATDbits.LATD2	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	102;"	d	line:102
+LCD_LINE_1_ADDRESS::0x00	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	48;"	d	line:48
+LCD_LINE_2_ADDRESS::0x40	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	49;"	d	line:49
+LCD_LINE_3_ADDRESS::0x14	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	51;"	d	line:51
+LCD_LINE_4_ADDRESS::0x54	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	52;"	d	line:52
+LCD_READ_PIN_4::PORTBbits.RB4	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	79;"	d	line:79
+LCD_READ_PIN_5::PORTBbits.RB5	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	78;"	d	line:78
+LCD_READ_PIN_6::PORTBbits.RB6	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	77;"	d	line:77
+LCD_READ_PIN_7::PORTBbits.RB7	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	76;"	d	line:76
+LCD_RS_PIN::LATBbits.LATB0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	89;"	d	line:89
+LCD_RW_PIN::LATBbits.LATB1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	91;"	d	line:91
+LCD_TRIS_CLOCK::TRISDbits.TRISD1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	105;"	d	line:105
+LCD_TRIS_DATA::TRISDbits.TRISD0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	104;"	d	line:104
+LCD_TRIS_DATA_PIN_4::TRISBbits.TRISB4	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	85;"	d	line:85
+LCD_TRIS_DATA_PIN_5::TRISBbits.TRISB5	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	84;"	d	line:84
+LCD_TRIS_DATA_PIN_6::TRISBbits.TRISB6	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	83;"	d	line:83
+LCD_TRIS_DATA_PIN_7::TRISBbits.TRISB7	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	82;"	d	line:82
+LCD_TRIS_E::TRISBbits.TRISB2	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	94;"	d	line:94
+LCD_TRIS_E::TRISDbits.TRISD2	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	106;"	d	line:106
+LCD_TRIS_RS::TRISBbits.TRISB0	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	95;"	d	line:95
+LCD_TRIS_RW::TRISBbits.TRISB1	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	97;"	d	line:97
+LCD_USE_RW	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	39;"	d	line:39
+LCD_USE_RW	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	59;"	d	line:59
+LD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	339;"	m	line:339	struct:<anonymous>::__PACKED
+LD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	561;"	m	line:561	struct:<anonymous>::__PACKED
+LIST_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	97;"	d	line:97
+LONG	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	442;"	t	line:442
+LONGLONG	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	445;"	t	line:445
+LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225
+LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277
+LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	344;"	m	line:344	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	566;"	m	line:566	struct:<anonymous>::__PACKED
+LcdType::2	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	44;"	d	line:44
+MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233
+MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285
+MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+MPU_WRAPPERS_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	68;"	d	line:68
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	80;"	d	line:80	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	85;"	d	line:85	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	73;"	d	line:73	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	82;"	d	line:82	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	75;"	d	line:75	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	82;"	d	line:82	file:
+MW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	347;"	m	line:347	struct:<anonymous>::__PACKED
+MW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	569;"	m	line:569	struct:<anonymous>::__PACKED
+NLinea	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	29;"	v	line:29
+PORTABLE_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	72;"	d	line:72
+PRIORITY_TASK0::(tskIDLE_PRIORITY+1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	17;"	d	line:17	file:
+PRIORITY_TASK1::(tskIDLE_PRIORITY+2)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	18;"	d	line:18	file:
+PRIVATE::static	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PRIVILEGED_DATA	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	141;"	d	line:141
+PRIVILEGED_DATA::__attribute__((section("privil	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	133;"	d	line:133
+PRIVILEGED_FUNCTION	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	127;"	d	line:127
+PRIVILEGED_FUNCTION	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	140;"	d	line:140
+PRIVILEGED_FUNCTION::__attribute__((section("privil	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	132;"	d	line:132
+PROJDEFS_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	68;"	d	line:68
+PROTECTED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+PUBLIC::	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	67;"	d	line:67
+QUEUE_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	69;"	d	line:69
+QUEUE_REGISTRY_ITEM	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	202;"	s	line:202	file:
+QWORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	439;"	t	line:439
+QWORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	638;"	t	line:638
+QueueDefinition	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	121;"	s	line:121	file:
+SEMAPHORE_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	68;"	d	line:68
+SET	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
+SHORT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	441;"	t	line:441
+STACK_MACROS_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	68;"	d	line:68
+TASK_H	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	70;"	d	line:70
+TRUE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
+UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186
+UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232
+UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284
+UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+UCHAR8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	432;"	t	line:432
+UINT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
+UINT16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT16_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
+UINT16_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
+UINT24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
+UINT24_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
+UINT24_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
+UINT32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
+UINT32_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	327;"	t	line:327
+UINT64	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
+UINT64_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	416;"	t	line:416
+UINT8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT8_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
+UINT8_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
+UW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	346;"	m	line:346	struct:<anonymous>::__PACKED
+UW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	568;"	m	line:568	struct:<anonymous>::__PACKED
+VOID	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	429;"	t	line:429
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	333;"	m	line:333
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	421;"	m	line:421
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	465;"	m	line:465
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	555;"	m	line:555
+Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98
+WORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	435;"	t	line:435
+WORD_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
+WORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
+_BIT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+_BOOL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	g	line:64
+__EXTENSION	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
+__EXTENSION	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	640;"	d	line:640
+__EXTENSION::__extension__	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
+__GENERIC_TYPE_DEFS_H_	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	48;"	d	line:48
+__LCD_GENERIC_H_	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	29;"	d	line:29
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	334;"	m	line:334
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	335;"	m	line:335
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	336;"	m	line:336
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	337;"	s	line:337
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	342;"	s	line:342
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	349;"	s	line:349
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	450;"	s	line:450
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	466;"	m	line:466
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	467;"	s	line:467
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	472;"	s	line:472
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	498;"	s	line:498
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	503;"	s	line:503
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	510;"	s	line:510
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	515;"	s	line:515
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	556;"	m	line:556
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	557;"	m	line:557
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	558;"	m	line:558
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	559;"	s	line:559
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	564;"	s	line:564
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	571;"	s	line:571
+__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
+__delay_1Cycle::{Nop;}	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	63;"	d	line:63
+__delay_1us::{chark;for(k=0;k<10;k++){}}	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	64;"	d	line:64
+_general_exception_handler	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	61;"	f	line:61	signature:( unsigned portLONG ulCause, unsigned portLONG ulStatus )
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	112;"	m	line:112
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	190;"	m	line:190
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	242;"	m	line:242
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	351;"	m	line:351	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	573;"	m	line:573	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	113;"	m	line:113
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	243;"	m	line:243
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	352;"	m	line:352	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	574;"	m	line:574	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	144;"	m	line:144
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	252;"	m	line:252
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	583;"	m	line:583	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	145;"	m	line:145
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	584;"	m	line:584	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	202;"	m	line:202
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	585;"	m	line:585	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	586;"	m	line:586	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	587;"	m	line:587	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	149;"	m	line:149
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	257;"	m	line:257
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	588;"	m	line:588	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	367;"	m	line:367	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	589;"	m	line:589	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	207;"	m	line:207
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	368;"	m	line:368	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	590;"	m	line:590	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	369;"	m	line:369	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	591;"	m	line:591	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	370;"	m	line:370	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	592;"	m	line:592	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	244;"	m	line:244
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	353;"	m	line:353	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	575;"	m	line:575	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	371;"	m	line:371	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	593;"	m	line:593	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	594;"	m	line:594	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	264;"	m	line:264
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	373;"	m	line:373	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	595;"	m	line:595	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	374;"	m	line:374	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	596;"	m	line:596	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266
+b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318
+b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	375;"	m	line:375	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	597;"	m	line:597	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267
+b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319
+b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	598;"	m	line:598	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268
+b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320
+b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	599;"	m	line:599	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269
+b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321
+b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	378;"	m	line:378	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	544;"	m	line:544	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	600;"	m	line:600	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270
+b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322
+b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	379;"	m	line:379	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	545;"	m	line:545	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	601;"	m	line:601	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271
+b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323
+b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	380;"	m	line:380	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	546;"	m	line:546	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	602;"	m	line:602	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	245;"	m	line:245
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	354;"	m	line:354	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	477;"	m	line:477	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	576;"	m	line:576	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272
+b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324
+b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	547;"	m	line:547	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	603;"	m	line:603	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273
+b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325
+b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	548;"	m	line:548	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	604;"	m	line:604	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	605;"	m	line:605	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	606;"	m	line:606	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	607;"	m	line:607	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	608;"	m	line:608	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	609;"	m	line:609	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	610;"	m	line:610	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	611;"	m	line:611	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	612;"	m	line:612	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	246;"	m	line:246
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	355;"	m	line:355	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	456;"	m	line:456	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	478;"	m	line:478	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	577;"	m	line:577	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	613;"	m	line:613	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	614;"	m	line:614	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	615;"	m	line:615	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	616;"	m	line:616	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	617;"	m	line:617	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	618;"	m	line:618	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	397;"	m	line:397	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	619;"	m	line:619	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	398;"	m	line:398	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	620;"	m	line:620	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	399;"	m	line:399	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	621;"	m	line:621	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	400;"	m	line:400	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	622;"	m	line:622	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	117;"	m	line:117
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	195;"	m	line:195
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	356;"	m	line:356	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	457;"	m	line:457	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	479;"	m	line:479	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	578;"	m	line:578	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	401;"	m	line:401	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	623;"	m	line:623	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	624;"	m	line:624	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	625;"	m	line:625	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	404;"	m	line:404	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	626;"	m	line:626	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	405;"	m	line:405	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	627;"	m	line:627	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	406;"	m	line:406	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	628;"	m	line:628	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	629;"	m	line:629	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	630;"	m	line:630	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	409;"	m	line:409	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	631;"	m	line:631	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	410;"	m	line:410	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	632;"	m	line:632	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	357;"	m	line:357	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	458;"	m	line:458	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	579;"	m	line:579	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	411;"	m	line:411	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	633;"	m	line:633	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	634;"	m	line:634	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	635;"	m	line:635	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	636;"	m	line:636	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	141;"	m	line:141
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	358;"	m	line:358	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	459;"	m	line:459	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	580;"	m	line:580	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	142;"	m	line:142
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	581;"	m	line:581	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	143;"	m	line:143
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	582;"	m	line:582	struct:<anonymous>::__PACKED
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	460;"	m	line:460
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	549;"	m	line:549
+bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	637;"	m	line:637
+byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	155;"	m	line:155
+byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286
+byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	471;"	m	line:471
+byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509
+cGotoxyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	119;"	p	line:119	signature:(UINT8 x,UINT8 y)
+cGotoxyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	319;"	f	line:319	signature:(UINT8 x,UINT8 y)
+cLCDPutc	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	116;"	p	line:116	signature:(UINT8 Data)
+cLCDPutc	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	267;"	f	line:267	signature:(UINT8 Data)
+cLCDPutrs	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	117;"	p	line:117	signature:(UINT8 x, UINT8 y, const UINT8 *Data)
+cLCDPutrs	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	288;"	f	line:288	signature:(UINT8 x, UINT8 y, const UINT8 *Data)
+cLCDPuts	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	118;"	p	line:118	signature:(UINT8 x, UINT8 y, UINT8 *Data)
+cLCDPuts	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	304;"	f	line:304	signature:(UINT8 x, UINT8 y, UINT8 *Data)
+cStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2185;"	l	line:2185
+configASSERT::(x)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	205;"	d	line:205
+configCHECK_FOR_STACK_OVERFLOW::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	326;"	d	line:326
+configCHECK_FOR_STACK_OVERFLOW::2	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	99;"	d	line:99
+configCPU_CLOCK_HZ::((unsignedlong)80000000UL)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	88;"	d	line:88
+configGENERATE_RUN_TIME_STATS::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	476;"	d	line:476
+configIDLE_SHOULD_YIELD::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	97;"	d	line:97
+configIDLE_SHOULD_YIELD::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	193;"	d	line:193
+configISR_STACK_SIZE::(400)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	92;"	d	line:92
+configKERNEL_INTERRUPT_PRIORITY::0x01	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	120;"	d	line:120
+configMAX_CO_ROUTINE_PRIORITIES::(2)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	104;"	d	line:104
+configMAX_PRIORITIES::((unsignedportBASE_TYPE)5)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	90;"	d	line:90
+configMAX_SYSCALL_INTERRUPT_PRIORITY::0x03	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	125;"	d	line:125
+configMAX_TASK_NAME_LEN::(8)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	94;"	d	line:94
+configMAX_TASK_NAME_LEN::16	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	189;"	d	line:189
+configMINIMAL_STACK_SIZE::(190)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	91;"	d	line:91
+configPERIPHERAL_CLOCK_HZ::((unsignedlong)80000000UL)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	89;"	d	line:89
+configQUEUE_REGISTRY_SIZE::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	100;"	d	line:100
+configQUEUE_REGISTRY_SIZE::0U	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	255;"	d	line:255
+configTICK_RATE_HZ::((portTickType)1000)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	87;"	d	line:87
+configTOTAL_HEAP_SIZE::((size_t)28000)	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	93;"	d	line:93
+configUSE_16_BIT_TICKS::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	96;"	d	line:96
+configUSE_ALTERNATIVE_API::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	181;"	d	line:181
+configUSE_APPLICATION_TASK_TAG::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	157;"	d	line:157
+configUSE_COUNTING_SEMAPHORES::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	177;"	d	line:177
+configUSE_CO_ROUTINES::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	103;"	d	line:103
+configUSE_IDLE_HOOK::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	85;"	d	line:85
+configUSE_MALLOC_FAILED_HOOK::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	498;"	d	line:498
+configUSE_MUTEXES::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	169;"	d	line:169
+configUSE_MUTEXES::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	98;"	d	line:98
+configUSE_PREEMPTION::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	84;"	d	line:84
+configUSE_RECURSIVE_MUTEXES::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	165;"	d	line:165
+configUSE_TICK_HOOK::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	86;"	d	line:86
+configUSE_TIMERS::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	173;"	d	line:173
+configUSE_TRACE_FACILITY::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\FreeRTOSConfig.h	95;"	d	line:95
+dDummy	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	92;"	m	line:92	union:xRTOS_HEAP	file:
+data_temp	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	77;"	l	line:77
+dword	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	341;"	m	line:341
+dword	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	563;"	m	line:563
+errCOULD_NOT_ALLOCATE_REQUIRED_MEMORY::(-1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	82;"	d	line:82
+errNO_TASK_TO_RUN::(-2)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	83;"	d	line:83
+errQUEUE_BLOCKED::(-4)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	84;"	d	line:84
+errQUEUE_EMPTY::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	78;"	d	line:78
+errQUEUE_FULL::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	79;"	d	line:79
+errQUEUE_YIELD::(-5)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	85;"	d	line:85
+heapMINIMUM_BLOCK_SIZE::((size_t)(heapSTRUCT_SIZE*2))	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	109;"	d	line:109	file:
+heapSTRUCT_SIZE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	108;"	v	line:108	file:
+high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238
+high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290
+high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+i	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	142;"	l	line:142
+i	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	77;"	l	line:77
+listCURRENT_LIST_LENGTH::(pxList)((pxList)->uxNumberOfI	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	182;"	d	line:182
+listGET_ITEM_VALUE_OF_HEAD_ENTRY::(pxList)((&((pxList)->xListEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	168;"	d	line:168
+listGET_LIST_ITEM_VALUE::(pxListItem)((pxListItem)->xIt	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	159;"	d	line:159
+listGET_OWNER_OF_HEAD_ENTRY::(pxList)((&((pxList)->xListEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	233;"	d	line:233
+listGET_OWNER_OF_NEXT_ENTRY::(pxTCB,pxList)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	214;"	d	line:214
+listIS_CONTAINED_WITHIN::(pxList,pxListItem)((pxListIte	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	245;"	d	line:245
+listLIST_IS_EMPTY::(pxList)((pxList)->uxNumberOfI	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	177;"	d	line:177
+listSET_LIST_ITEM_OWNER::(pxListItem,pxOwner)(pxListIte	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	140;"	d	line:140
+listSET_LIST_ITEM_VALUE::(pxListItem,xValue)(pxListItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	149;"	d	line:149
+low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237
+low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289
+low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+main	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	23;"	f	line:23	signature:( void )
+pcEndOfStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2290;"	l	line:2290
+pcHead	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	123;"	m	line:123	struct:QueueDefinition	file:
+pcName	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	126;"	m	line:126	struct:xTASK_PARAMTERS
+pcOriginalReadPosition	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	775;"	l	line:775
+pcOriginalReadPosition	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	959;"	l	line:959
+pcQueueName	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	204;"	m	line:204	struct:QUEUE_REGISTRY_ITEM	file:
+pcReadFrom	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	127;"	m	line:127	struct:QueueDefinition	file:
+pcStatsString	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	189;"	v	line:189	file:
+pcStatusString	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2168;"	l	line:2168	file:
+pcTail	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	124;"	m	line:124	struct:QueueDefinition	file:
+pcTaskGetTaskName	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	1028;"	p	line:1028	signature:( xTaskHandle xTaskToQuery )
+pcTaskGetTaskName	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1266;"	f	line:1266	signature:( xTaskHandle xTaskToQuery )
+pcTaskName	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	105;"	m	line:105	struct:tskTaskControlBlock	file:
+pcWriteTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	126;"	m	line:126	struct:QueueDefinition	file:
+pdFAIL::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	77;"	d	line:77
+pdFALSE::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	74;"	d	line:74
+pdPASS::(1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	76;"	d	line:76
+pdTASK_CODE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	71;"	t	line:71
+pdTASK_HOOK_CODE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	88;"	t	line:88
+pdTRUE::(1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\projdefs.h	73;"	d	line:73
+portALIGNMENT_ASSERT_pxCurrentTCB::configASSERT	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	209;"	d	line:209
+portBYTE_ALIGNMENT_MASK::(0x0000)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	336;"	d	line:336
+portBYTE_ALIGNMENT_MASK::(0x0001)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	332;"	d	line:332
+portBYTE_ALIGNMENT_MASK::(0x0003)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	328;"	d	line:328
+portBYTE_ALIGNMENT_MASK::(0x0007)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	324;"	d	line:324
+portCLEAN_UP_TCB::(pxTCB)(void)pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	247;"	d	line:247
+portCLEAR_INTERRUPT_MASK_FROM_ISR::(uxSavedStatusValue)(void)uxSa	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	243;"	d	line:243
+portCONFIGURE_TIMER_FOR_RUN_TIME_STATS::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	494;"	d	line:494
+portCRITICAL_NESTING_IN_TCB::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	185;"	d	line:185
+portEXL_BIT::(0x00000002)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	80;"	d	line:80	file:
+portIE_BIT::(0x00000001)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	79;"	d	line:79	file:
+portINITIAL_SR::(portIE_BIT|portEXL_BIT)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	84;"	d	line:84	file:
+portNUM_CONFIGURABLE_REGIONS::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	344;"	d	line:344
+portPOINTER_SIZE_TYPE::unsignedlong	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	264;"	d	line:264
+portPRIVILEGE_BIT::((unsignedportBASE_TYPE)0x00)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	502;"	d	line:502
+portSETUP_TCB::(pxTCB)(void)pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	251;"	d	line:251
+portSET_INTERRUPT_MASK_FROM_ISR::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	239;"	d	line:239
+portTASK_FUNCTION	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1886;"	f	line:1886	file:
+portTASK_FUNCTION_PROTO	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	327;"	p	line:327	file:
+portTIMER_PRESCALE::8	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	76;"	d	line:76	file:
+portUSING_MPU_WRAPPERS::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	142;"	d	line:142
+portYIELD_WITHIN_API::portYIELD	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	506;"	d	line:506
+prvAddCurrentTaskToDelayedList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2104;"	f	line:2104	file:	signature:( portTickType xTimeToWake )
+prvAddTaskToReadyQueue::(pxTCB)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	226;"	d	line:226	file:
+prvAllocateTCBAndStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2130;"	f	line:2130	file:	signature:( unsigned short usStackDepth, portSTACK_TYPE *puxStackBuffer )
+prvCheckDelayedTasks::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	287;"	d	line:287	file:
+prvCheckTasksWaitingTermination	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2069;"	f	line:2069	file:	signature:( void )
+prvCopyDataFromQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1265;"	f	line:1265	file:	signature:( xQUEUE * const pxQueue, const void *pvBuffer )
+prvCopyDataToQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1227;"	f	line:1227	file:	signature:( xQUEUE *pxQueue, const void *pvItemToQueue, portBASE_TYPE xPosition )
+prvDeleteTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2315;"	f	line:2315	file:	signature:( tskTCB *pxTCB )
+prvGenerateRunTimeStatsForTasksInList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2196;"	f	line:2196	file:	signature:( const signed char *pcWriteBuffer, xList *pxList, unsigned long ulTotalRunTime )
+prvGetTCBFromHandle::(pxHandle)(((pxHandle)==NULL)?	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	296;"	d	line:296	file:
+prvHeapInit::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	164;"	d	line:164	file:
+prvInitialiseTCBVariables	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1951;"	f	line:1951	file:	signature:( tskTCB *pxTCB, const signed char * const pcName, unsigned portBASE_TYPE uxPriority, const xMemoryRegion * const xRegions, unsigned short usStackDepth )
+prvInitialiseTaskLists	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2037;"	f	line:2037	file:	signature:( void )
+prvInsertBlockIntoFreeList::(pxBlockToInsert)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	143;"	d	line:143	file:
+prvIsQueueEmpty	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1343;"	f	line:1343	file:	signature:( const xQueueHandle pxQueue )
+prvIsQueueFull	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1366;"	f	line:1366	file:	signature:( const xQueueHandle pxQueue )
+prvListTaskWithinSingleList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2164;"	f	line:2164	file:	signature:( const signed char *pcWriteBuffer, xList *pxList, signed char cStatus )
+prvLockQueue::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	271;"	d	line:271	file:
+prvSetupTimerInterrupt	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	157;"	f	line:157	signature:( void )
+prvUnlockQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1279;"	f	line:1279	file:	signature:( xQueueHandle pxQueue )
+puc	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	259;"	l	line:259
+puxStackBuffer	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	130;"	m	line:130	struct:xTASK_PARAMTERS
+pvBaseAddress	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	115;"	m	line:115	struct:xMEMORY_REGION
+pvContainer	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	111;"	m	line:111	struct:xLIST_ITEM
+pvOwner	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	110;"	m	line:110	struct:xLIST_ITEM
+pvParameters	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	128;"	m	line:128	struct:xTASK_PARAMTERS
+pvPortMalloc	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	167;"	f	line:167	signature:( size_t xWantedSize )
+pvPortMalloc::MPU_pvPortMalloc	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	116;"	d	line:116
+pvPortMallocAligned::(x,puxStackBuffer)(((puxStackB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	510;"	d	line:510
+pvReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	171;"	l	line:171
+pvTaskCode	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	125;"	m	line:125	struct:xTASK_PARAMTERS
+pxBlock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	169;"	l	line:169
+pxCurrentTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	144;"	v	line:144
+pxDelayedTaskList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	151;"	v	line:151	file:
+pxEndOfStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	108;"	m	line:108	struct:tskTaskControlBlock	file:
+pxFirstTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2166;"	l	line:2166
+pxFirstTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2198;"	l	line:2198
+pxHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	551;"	l	line:551
+pxISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	251;"	t	line:251
+pxISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	259;"	t	line:259
+pxISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	78;"	t	line:78
+pxISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	83;"	t	line:83
+pxIndex	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	129;"	m	line:129	struct:xLIST
+pxIndex	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	105;"	l	line:105
+pxIterator	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	128;"	l	line:128
+pxLink	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	260;"	l	line:260
+pxList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	185;"	l	line:185
+pxMutexHolder::pcTail	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	99;"	d	line:99	file:
+pxNewBlockLink	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	169;"	l	line:169
+pxNewQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	320;"	l	line:320
+pxNewQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	373;"	l	line:373
+pxNewTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2132;"	l	line:2132
+pxNewTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	399;"	l	line:399
+pxNext	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	108;"	m	line:108	struct:xLIST_ITEM
+pxNext	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	118;"	m	line:118	struct:xMINI_LIST_ITEM
+pxNextFreeBlock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	103;"	m	line:103	struct:A_BLOCK_LINK	file:
+pxNextTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2166;"	l	line:2166
+pxNextTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2198;"	l	line:2198
+pxOverflowDelayedTaskList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	152;"	v	line:152	file:
+pxPortInitialiseStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\portable.h	362;"	p	line:362	signature:( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )
+pxPortInitialiseStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	121;"	f	line:121	signature:( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )
+pxPrevious	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	109;"	m	line:109	struct:xLIST_ITEM
+pxPrevious	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	119;"	m	line:119	struct:xMINI_LIST_ITEM
+pxPreviousBlock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	169;"	l	line:169
+pxReadyTasksLists	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	148;"	v	line:148	file:
+pxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	432;"	l	line:432
+pxStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	104;"	m	line:104	struct:tskTaskControlBlock	file:
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1014;"	l	line:1014
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1143;"	l	line:1143
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1268;"	l	line:1268
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1436;"	l	line:1436
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1844;"	l	line:1844
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1864;"	l	line:1864
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2022;"	l	line:2022
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2085;"	l	line:2085
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2289;"	l	line:2289
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2383;"	l	line:2383
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2419;"	l	line:2419
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	563;"	l	line:563
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	740;"	l	line:740
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	762;"	l	line:762
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	870;"	l	line:870
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	935;"	l	line:935
+pxTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	968;"	l	line:968
+pxTaskTag	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	125;"	m	line:125	struct:tskTaskControlBlock	file:
+pxTemp	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1446;"	l	line:1446
+pxTopOfStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	410;"	l	line:410
+pxTopOfStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	95;"	m	line:95	struct:tskTaskControlBlock	file:
+pxUnblockedTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1731;"	l	line:1731
+queueDONT_BLOCK::((portTickType)0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	107;"	d	line:107	file:
+queueERRONEOUS_UNBLOCK::(-1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	92;"	d	line:92	file:
+queueLOCKED_UNMODIFIED::((signedportBASE_TYPE)0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	90;"	d	line:90	file:
+queueMUTEX_GIVE_BLOCK_TIME::((portTickType)0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	108;"	d	line:108	file:
+queueQUEUE_IS_MUTEX::NULL	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	102;"	d	line:102	file:
+queueQUEUE_TYPE_BASE::(0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	95;"	d	line:95
+queueQUEUE_TYPE_BASE::(0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	111;"	d	line:111	file:
+queueQUEUE_TYPE_BINARY_SEMAPHORE::(3U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	98;"	d	line:98
+queueQUEUE_TYPE_BINARY_SEMAPHORE::(3U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	114;"	d	line:114	file:
+queueQUEUE_TYPE_COUNTING_SEMAPHORE::(2U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	97;"	d	line:97
+queueQUEUE_TYPE_COUNTING_SEMAPHORE::(2U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	113;"	d	line:113	file:
+queueQUEUE_TYPE_MUTEX::(1U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	96;"	d	line:96
+queueQUEUE_TYPE_MUTEX::(1U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	112;"	d	line:112	file:
+queueQUEUE_TYPE_RECURSIVE_MUTEX::(4U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	99;"	d	line:99
+queueQUEUE_TYPE_RECURSIVE_MUTEX::(4U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	115;"	d	line:115	file:
+queueSEMAPHORE_QUEUE_ITEM_LENGTH::((unsignedportBASE_TYPE)0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	106;"	d	line:106	file:
+queueSEND_TO_BACK::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	91;"	d	line:91
+queueSEND_TO_BACK::(0)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	95;"	d	line:95	file:
+queueSEND_TO_FRONT::(1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	92;"	d	line:92
+queueSEND_TO_FRONT::(1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	96;"	d	line:96	file:
+queueUNLOCKED::((signedportBASE_TYPE)-1)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	89;"	d	line:89	file:
+semBINARY_SEMAPHORE_QUEUE_LENGTH::((unsignedchar)1U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	78;"	d	line:78
+semGIVE_BLOCK_TIME::((portTickType)0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	80;"	d	line:80
+semSEMAPHORE_QUEUE_ITEM_LENGTH::((unsignedchar)0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	79;"	d	line:79
+static	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	140;"	d	line:140	file:
+taskDISABLE_INTERRUPTS::portDISABLE_INTERRUPTS	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	187;"	d	line:187
+taskENABLE_INTERRUPTS::portENABLE_INTERRUPTS	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	197;"	d	line:197
+taskENTER_CRITICAL::portENTER_CRITICAL	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	163;"	d	line:163
+taskEXIT_CRITICAL::portEXIT_CRITICAL	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	177;"	d	line:177
+taskFIRST_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	114;"	d	line:114
+taskFIRST_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	130;"	d	line:130
+taskFIRST_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	89;"	d	line:89
+taskSCHEDULER_NOT_STARTED::0	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	200;"	d	line:200
+taskSCHEDULER_RUNNING::1	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	201;"	d	line:201
+taskSCHEDULER_SUSPENDED::2	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	202;"	d	line:202
+taskSECOND_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	151;"	d	line:151
+taskSECOND_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	175;"	d	line:175
+taskSECOND_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	90;"	d	line:90
+taskSECOND_CHECK_FOR_STACK_OVERFLOW::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\StackMacros.h	99;"	d	line:99
+taskYIELD::portYIELD	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	149;"	d	line:149
+temp	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	144;"	l	line:144
+traceBLOCKING_ON_QUEUE_RECEIVE::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	314;"	d	line:314
+traceBLOCKING_ON_QUEUE_SEND::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	322;"	d	line:322
+traceCREATE_COUNTING_SEMAPHORE::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	368;"	d	line:368
+traceCREATE_COUNTING_SEMAPHORE_FAILED::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	372;"	d	line:372
+traceCREATE_MUTEX::(pxNewQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	344;"	d	line:344
+traceCREATE_MUTEX_FAILED::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	348;"	d	line:348
+traceEND::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	277;"	d	line:277
+traceGIVE_MUTEX_RECURSIVE::(pxMutex)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	352;"	d	line:352
+traceGIVE_MUTEX_RECURSIVE_FAILED::(pxMutex)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	356;"	d	line:356
+traceMOVED_TASK_TO_READY_STATE::(pxTCB)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	332;"	d	line:332
+traceQUEUE_CREATE::(pxNewQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	336;"	d	line:336
+traceQUEUE_CREATE_FAILED::(ucQueueType)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	340;"	d	line:340
+traceQUEUE_DELETE::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	412;"	d	line:412
+traceQUEUE_PEEK::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	388;"	d	line:388
+traceQUEUE_RECEIVE::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	384;"	d	line:384
+traceQUEUE_RECEIVE_FAILED::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	392;"	d	line:392
+traceQUEUE_RECEIVE_FROM_ISR::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	404;"	d	line:404
+traceQUEUE_RECEIVE_FROM_ISR_FAILED::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	408;"	d	line:408
+traceQUEUE_SEND::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	376;"	d	line:376
+traceQUEUE_SEND_FAILED::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	380;"	d	line:380
+traceQUEUE_SEND_FROM_ISR::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	396;"	d	line:396
+traceQUEUE_SEND_FROM_ISR_FAILED::(pxQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	400;"	d	line:400
+traceSTART::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	271;"	d	line:271
+traceTAKE_MUTEX_RECURSIVE::(pxMutex)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	360;"	d	line:360
+traceTAKE_MUTEX_RECURSIVE_FAILED::(pxMutex)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	364;"	d	line:364
+traceTASK_CREATE::(pxNewTCB)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	416;"	d	line:416
+traceTASK_CREATE_FAILED::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	420;"	d	line:420
+traceTASK_DELAY::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	432;"	d	line:432
+traceTASK_DELAY_UNTIL::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	428;"	d	line:428
+traceTASK_DELETE::(pxTaskToDelete)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	424;"	d	line:424
+traceTASK_INCREMENT_TICK::(xTickCount)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	452;"	d	line:452
+traceTASK_PRIORITY_DISINHERIT::(pxTCBOfMutexHolder,uxOriginal	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	306;"	d	line:306
+traceTASK_PRIORITY_INHERIT::(pxTCBOfMutexHolder,uxInherite	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	298;"	d	line:298
+traceTASK_PRIORITY_SET::(pxTask,uxNewPriority)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	436;"	d	line:436
+traceTASK_RESUME::(pxTaskToResume)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	444;"	d	line:444
+traceTASK_RESUME_FROM_ISR::(pxTaskToResume)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	448;"	d	line:448
+traceTASK_SUSPEND::(pxTaskToSuspend)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	440;"	d	line:440
+traceTASK_SWITCHED_IN::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	283;"	d	line:283
+traceTASK_SWITCHED_OUT::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	289;"	d	line:289
+traceTIMER_COMMAND_RECEIVED::(pxTimer,xMessageID,xMessageVa	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	472;"	d	line:472
+traceTIMER_COMMAND_SEND::(xTimer,xMessageID,xMessageVal	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	464;"	d	line:464
+traceTIMER_CREATE::(pxNewTimer)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	456;"	d	line:456
+traceTIMER_CREATE_FAILED::	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	460;"	d	line:460
+traceTIMER_EXPIRED::(pxTimer)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	468;"	d	line:468
+tskBLOCKED_CHAR::((signedchar)'B')	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	206;"	d	line:206	file:
+tskDELETED_CHAR::((signedchar)'D')	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	208;"	d	line:208	file:
+tskIDLE_PRIORITY::((unsignedportBASE_TYPE)0U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	139;"	d	line:139
+tskIDLE_STACK_SIZE::configMINIMAL_STACK_SIZE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	87;"	d	line:87	file:
+tskKERNEL_VERSION_NUMBER::"V7.1.1"	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	87;"	d	line:87
+tskREADY_CHAR::((signedchar)'R')	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	207;"	d	line:207	file:
+tskSTACK_FILL_BYTE::(0xa5U)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	201;"	d	line:201	file:
+tskSUSPENDED_CHAR::((signedchar)'S')	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	209;"	d	line:209	file:
+tskTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	132;"	t	line:132	file:
+tskTaskControlBlock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	93;"	s	line:93	file:
+ucHeap	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	96;"	m	line:96	union:xRTOS_HEAP	file:
+ucQueueGetQueueNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1199;"	f	line:1199	signature:( xQueueHandle pxQueue )
+ucQueueGetQueueType	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1219;"	f	line:1219	signature:( xQueueHandle pxQueue )
+ucQueueNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	140;"	m	line:140	struct:QueueDefinition	file:
+ucQueueType	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	141;"	m	line:141	struct:QueueDefinition	file:
+ui8BusyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	110;"	p	line:110	signature:(void)
+ui8BusyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	33;"	f	line:33	signature:(void)
+ulCompareMatch	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	159;"	l	line:159
+ulLengthInBytes	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	116;"	m	line:116	struct:xMEMORY_REGION
+ulParameters	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	117;"	m	line:117	struct:xMEMORY_REGION
+ulRunTimeCounter	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	129;"	m	line:129	struct:tskTaskControlBlock	file:
+ulStatsAsPercentage	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2199;"	l	line:2199
+ulStatsAsPercentage	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2228;"	l	line:2228
+ulTaskEndTrace::MPU_ulTaskEndTrace	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	96;"	d	line:96
+ulTaskSwitchedInTime	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	190;"	v	line:190	file:
+ulTempCounter	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1610;"	l	line:1610
+ulTotalRunTime	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1347;"	l	line:1347
+usCount	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2269;"	l	line:2269
+usStackDepth	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	127;"	m	line:127	struct:xTASK_PARAMTERS
+usStackRemaining	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2167;"	l	line:2167
+usStackRemaining	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2185;"	l	line:2185
+usTaskCheckFreeStackSpace	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2267;"	f	line:2267	file:	signature:( const unsigned char * pucStackByte )
+ux	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1605;"	l	line:1605
+ux	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1628;"	l	line:1628
+uxBasePriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	121;"	m	line:121	struct:tskTaskControlBlock	file:
+uxCriticalNesting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	112;"	m	line:112	struct:tskTaskControlBlock	file:
+uxCurrentNumberOfTasks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	175;"	v	line:175	file:
+uxCurrentPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	763;"	l	line:763
+uxInterruptNesting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	88;"	v	line:88
+uxItemSize	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	134;"	m	line:134	struct:QueueDefinition	file:
+uxLength	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	133;"	m	line:133	struct:QueueDefinition	file:
+uxMessagesWaiting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	132;"	m	line:132	struct:QueueDefinition	file:
+uxMissedTicks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	181;"	v	line:181	file:
+uxNumberOfItems	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	128;"	m	line:128	struct:xLIST
+uxPortSetInterruptMaskFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	216;"	f	line:216	signature:( void )
+uxPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	129;"	m	line:129	struct:xTASK_PARAMTERS
+uxPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	103;"	m	line:103	struct:tskTaskControlBlock	file:
+uxPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2039;"	l	line:2039
+uxQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1283;"	l	line:1283
+uxQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1346;"	l	line:1346
+uxQueueMessagesWaiting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	794;"	p	line:794	signature:( const xQueueHandle xQueue )
+uxQueueMessagesWaiting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1160;"	f	line:1160	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaiting::MPU_uxQueueMessagesWaiting	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	113;"	d	line:113
+uxQueueMessagesWaitingFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1198;"	p	line:1198	signature:( const xQueueHandle pxQueue )
+uxQueueMessagesWaitingFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1174;"	f	line:1174	signature:( const xQueueHandle pxQueue )
+uxQueueType::pcHead	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	100;"	d	line:100	file:
+uxRecursiveCallCount::pcReadFrom	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	101;"	d	line:101	file:
+uxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1162;"	l	line:1162
+uxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1176;"	l	line:1176
+uxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1843;"	l	line:1843
+uxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2291;"	l	line:2291
+uxReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	741;"	l	line:741
+uxSavedInterruptStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1108;"	l	line:1108
+uxSavedInterruptStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	901;"	l	line:901
+uxSavedInterruptStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1015;"	l	line:1015
+uxSavedInterruptStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1246;"	l	line:1246
+uxSavedStatus	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	199;"	l	line:199
+uxSavedStatusRegister	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	218;"	l	line:218
+uxSavedTaskStackPointer	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	91;"	v	line:91
+uxSchedulerSuspended	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	180;"	v	line:180	file:
+uxTCBNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	116;"	m	line:116	struct:tskTaskControlBlock	file:
+uxTaskGetNumberOfTasks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1256;"	f	line:1256	signature:( void )
+uxTaskGetNumberOfTasks::MPU_uxTaskGetNumberOfTasks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	92;"	d	line:92
+uxTaskGetStackHighWaterMark	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2287;"	f	line:2287	signature:( xTaskHandle xTask )
+uxTaskGetStackHighWaterMark::MPU_uxTaskGetStackHighWaterMar	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	100;"	d	line:100
+uxTaskGetTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	1321;"	p	line:1321	signature:( xTaskHandle xTask )
+uxTaskGetTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1841;"	f	line:1841	signature:( xTaskHandle xTask )
+uxTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	117;"	m	line:117	struct:tskTaskControlBlock	file:
+uxTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	184;"	v	line:184	file:
+uxTaskPriorityGet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	738;"	f	line:738	signature:( xTaskHandle pxTask )
+uxTaskPriorityGet::MPU_uxTaskPriorityGet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	84;"	d	line:84
+uxTasksDeleted	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	158;"	v	line:158	file:
+uxTopReadyPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	178;"	v	line:178	file:
+uxTopUsedPriority	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	177;"	v	line:177	file:
+v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126
+v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181
+v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222
+v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	423;"	m	line:423
+vApplicationIdleHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1926;"	p	line:1926	file:	signature:( void )
+vApplicationMallocFailedHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	247;"	p	line:247	file:	signature:( void )
+vApplicationStackOverflowHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	55;"	f	line:55	signature:( void )
+vApplicationStackOverflowHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	299;"	p	line:299	file:	signature:( xTaskHandle *pxTask, signed char *pcTaskName )
+vApplicationTickHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	300;"	p	line:300	file:	signature:( void )
+vGotoxyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	113;"	p	line:113	signature:(UINT8 x,UINT8 y)
+vGotoxyLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	250;"	f	line:250	signature:(UINT8 x,UINT8 y)
+vInitLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	112;"	p	line:112	signature:(void)
+vInitLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	141;"	f	line:141
+vLCDPutc	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	114;"	p	line:114	signature:(UINT8 Data)
+vLCDPutc	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	236;"	f	line:236	signature:(UINT8 Data)
+vListInitialise	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	257;"	p	line:257	signature:( xList *pxList )
+vListInitialise	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	76;"	f	line:76	signature:( xList *pxList )
+vListInitialiseItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	268;"	p	line:268	signature:( xListItem *pxItem )
+vListInitialiseItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	96;"	f	line:96	signature:( xListItem *pxItem )
+vListInsert	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	281;"	p	line:281	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsert	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	126;"	f	line:126	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsertEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	302;"	p	line:302	signature:( xList *pxList, xListItem *pxNewListItem )
+vListInsertEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	103;"	f	line:103	signature:( xList *pxList, xListItem *pxNewListItem )
+vListRemove	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	314;"	p	line:314	signature:( xListItem *pxItemToRemove )
+vListRemove	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	183;"	f	line:183	signature:( xListItem *pxItemToRemove )
+vPortClearInterruptMaskFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	234;"	f	line:234	signature:( unsigned portBASE_TYPE uxSavedStatusRegister )
+vPortEndScheduler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	166;"	f	line:166	signature:(void)
+vPortFree	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	257;"	f	line:257	signature:( void *pv )
+vPortFree::MPU_vPortFree	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	117;"	d	line:117
+vPortFreeAligned::(pvBlockToFree)vPortFree(pvBlo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	514;"	d	line:514
+vPortIncrementTick	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	197;"	f	line:197	signature:( void )
+vPortInitialiseBlocks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	288;"	f	line:288	signature:( void )
+vPortInitialiseBlocks::MPU_vPortInitialiseBlocks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	119;"	d	line:119
+vPortStartFirstTask	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	177;"	p	line:177	file:	signature:( void )
+vPortStartFirstTask	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S	108;"	l	line:108
+vPortYieldISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	114;"	p	line:114	file:	signature:( void )
+vPortYieldISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S	124;"	l	line:124
+vQueueAddToRegistry	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1281;"	p	line:1281	signature:( xQueueHandle xQueue, signed char *pcName )
+vQueueAddToRegistry	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1603;"	f	line:1603	signature:( xQueueHandle xQueue, signed char *pcQueueName )
+vQueueAddToRegistry::(xQueue,pcName)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	259;"	d	line:259
+vQueueAddToRegistry::MPU_vQueueAddToRegistry	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	122;"	d	line:122
+vQueueDelete	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	808;"	p	line:808	signature:( xQueueHandle pxQueue )
+vQueueDelete	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1186;"	f	line:1186	signature:( xQueueHandle pxQueue )
+vQueueDelete::MPU_vQueueDelete	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	114;"	d	line:114
+vQueueSetQueueNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1209;"	f	line:1209	signature:( xQueueHandle pxQueue, unsigned char ucQueueNumber )
+vQueueUnregisterQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1626;"	f	line:1626	file:	signature:( xQueueHandle xQueue )
+vQueueUnregisterQueue::(xQueue)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\FreeRTOS.h	260;"	d	line:260
+vQueueUnregisterQueue::MPU_vQueueUnregisterQueue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	123;"	d	line:123
+vQueueWaitForMessageRestricted	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1291;"	p	line:1291	signature:( xQueueHandle pxQueue, portTickType xTicksToWait )
+vQueueWaitForMessageRestricted	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1649;"	f	line:1649	signature:( xQueueHandle pxQueue, portTickType xTicksToWait )
+vSemaphoreCreateBinary::(xSemaphore)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	128;"	d	line:128
+vSemaphoreDelete::(xSemaphore)vQueueDelete((xQue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	734;"	d	line:734
+vT1InterruptHandler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	106;"	p	line:106	file:	signature:( void )
+vT1InterruptHandler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S	91;"	l	line:91
+vTASK0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	20;"	p	line:20	file:	signature:( void *pvParameters )
+vTASK0	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	41;"	f	line:41	file:	signature:( void *pvParameters )
+vTASK1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	21;"	p	line:21	file:	signature:( void *pvParameters )
+vTASK1	C:\Proyectos C32\SkP32v1.1\FreeRTOS LCD\main.c	48;"	f	line:48	file:	signature:( void *pvParameters )
+vTaskAllocateMPURegions	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2020;"	f	line:2020	signature:( xTaskHandle xTaskToModify, const xMemoryRegion * const xRegions )
+vTaskAllocateMPURegions::MPU_vTaskAllocateMPURegions	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	80;"	d	line:80
+vTaskDelay	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	692;"	f	line:692	signature:( portTickType xTicksToDelay )
+vTaskDelay::MPU_vTaskDelay	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	83;"	d	line:83
+vTaskDelayUntil	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	627;"	f	line:627	signature:( portTickType * const pxPreviousWakeTime, portTickType xTimeIncrement )
+vTaskDelayUntil::MPU_vTaskDelayUntil	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	82;"	d	line:82
+vTaskDelete	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	561;"	f	line:561	signature:( xTaskHandle pxTaskToDelete )
+vTaskDelete::MPU_vTaskDelete	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	81;"	d	line:81
+vTaskEndScheduler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1122;"	f	line:1122	signature:( void )
+vTaskEnterCritical	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2444;"	f	line:2444	signature:( void )
+vTaskExitCritical	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2459;"	f	line:2459	signature:( void )
+vTaskGetRunTimeStats	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1344;"	f	line:1344	signature:( signed char *pcWriteBuffer )
+vTaskGetRunTimeStats::MPU_vTaskGetRunTimeStats	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	94;"	d	line:94
+vTaskIncrementTick	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1434;"	f	line:1434	signature:( void )
+vTaskList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1281;"	f	line:1281	signature:( signed char *pcWriteBuffer )
+vTaskList::MPU_vTaskList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	93;"	d	line:93
+vTaskMissedYield	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1834;"	f	line:1834	signature:( void )
+vTaskPlaceOnEventList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1647;"	f	line:1647	signature:( const xList * const pxEventList, portTickType xTicksToWait )
+vTaskPlaceOnEventListRestricted	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1697;"	f	line:1697	signature:( const xList * const pxEventList, portTickType xTicksToWait )
+vTaskPriorityDisinherit	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2417;"	f	line:2417	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPriorityInherit	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2381;"	f	line:2381	signature:( xTaskHandle * const pxMutexHolder )
+vTaskPrioritySet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	760;"	f	line:760	signature:( xTaskHandle pxTask, unsigned portBASE_TYPE uxNewPriority )
+vTaskPrioritySet::MPU_vTaskPrioritySet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	85;"	d	line:85
+vTaskResume	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	966;"	f	line:966	signature:( xTaskHandle pxTaskToResume )
+vTaskResume::MPU_vTaskResume	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	88;"	d	line:88
+vTaskSetApplicationTaskTag	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1511;"	f	line:1511	signature:( xTaskHandle xTask, pdTASK_HOOK_CODE pxHookFunction )
+vTaskSetApplicationTaskTag::MPU_vTaskSetApplicationTaskTag	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	97;"	d	line:97
+vTaskSetTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	1327;"	p	line:1327	signature:( xTaskHandle xTask, unsigned portBASE_TYPE uxHandle )
+vTaskSetTaskNumber	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1862;"	f	line:1862	signature:( xTaskHandle xTask, unsigned portBASE_TYPE uxHandle )
+vTaskSetTimeOutState	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1780;"	f	line:1780	signature:( xTimeOutType * const pxTimeOut )
+vTaskStartScheduler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1057;"	f	line:1057	signature:( void )
+vTaskStartTrace::MPU_vTaskStartTrace	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	95;"	d	line:95
+vTaskSuspend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	868;"	f	line:868	signature:( xTaskHandle pxTaskToSuspend )
+vTaskSuspend::MPU_vTaskSuspend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	86;"	d	line:86
+vTaskSuspendAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1133;"	f	line:1133	signature:( void )
+vTaskSuspendAll::MPU_vTaskSuspendAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	89;"	d	line:89
+vTaskSwitchContext	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1596;"	f	line:1596	signature:( void )
+vWriteLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\include\Driver LCD.h	111;"	p	line:111	signature:(UINT8 Data,UINT8 Type)
+vWriteLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	74;"	f	line:74	signature:(UINT8 Data,UINT8 Type)
+w	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221
+w	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	422;"	m	line:422
+word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279
+word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	348;"	m	line:348
+word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502
+word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	570;"	m	line:570
+wordUnion	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291
+wordUnion	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514
+xAlreadyYielded	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1144;"	l	line:1144
+xAlreadyYielded	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	630;"	l	line:630
+xAlreadyYielded	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	695;"	l	line:695
+xBlockLink	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	105;"	t	line:105	file:
+xBlockSize	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	104;"	m	line:104	struct:A_BLOCK_LINK	file:
+xBlockTimeMutexLCD	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	31;"	v	line:31
+xDelayedTaskList1	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	149;"	v	line:149	file:
+xDelayedTaskList2	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	150;"	v	line:150	file:
+xEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	112;"	v	line:112	file:
+xEntryTimeSet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	575;"	l	line:575
+xEntryTimeSet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	696;"	l	line:696
+xEntryTimeSet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	773;"	l	line:773
+xEntryTimeSet	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	957;"	l	line:957
+xEventListItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	102;"	m	line:102	struct:tskTaskControlBlock	file:
+xFreeBytesRemaining	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	116;"	v	line:116	file:
+xGenericListItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	101;"	m	line:101	struct:tskTaskControlBlock	file:
+xHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	205;"	m	line:205	struct:QUEUE_REGISTRY_ITEM	file:
+xHeap	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	97;"	v	line:97	file:
+xHeapHasBeenInitialised	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	170;"	l	line:170	file:
+xISRStack	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	94;"	v	line:94
+xISRStackTop	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	98;"	v	line:98
+xIdleTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	170;"	v	line:170	file:
+xItemValue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	107;"	m	line:107	struct:xLIST_ITEM
+xItemValue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	117;"	m	line:117	struct:xMINI_LIST_ITEM
+xLCDMutex	C:\Proyectos C32\SkP32v1.1\Drivers FreeRTOS Micros-Designs\source\Driver LCD.c	30;"	v	line:30	file:
+xLIST	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	126;"	s	line:126
+xLIST_ITEM	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	105;"	s	line:105
+xList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	131;"	t	line:131
+xListEnd	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	130;"	m	line:130	struct:xLIST
+xListIsEmpty	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2073;"	l	line:2073
+xListItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	113;"	t	line:113
+xMEMORY_REGION	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	113;"	s	line:113
+xMINI_LIST_ITEM	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	115;"	s	line:115
+xMPUSettings	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	98;"	m	line:98	struct:tskTaskControlBlock	file:
+xMemoryRegion	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	118;"	t	line:118
+xMiniListItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\list.h	121;"	t	line:121
+xMissedYield	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	182;"	v	line:182	file:
+xNextTaskUnblockTime	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	185;"	v	line:185	file:
+xNumOfOverflows	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	183;"	v	line:183	file:
+xOverflowCount	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	106;"	m	line:106	struct:xTIME_OUT
+xPendingReadyList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	153;"	v	line:153	file:
+xPortGetFreeHeapSize	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	282;"	f	line:282	signature:( void )
+xPortGetFreeHeapSize::MPU_xPortGetFreeHeapSize	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	118;"	d	line:118
+xPortStartScheduler	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c	175;"	f	line:175	signature:( void )
+xQUEUE	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	144;"	t	line:144	file:
+xQueueAltGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1216;"	p	line:1216	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	771;"	f	line:771	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueAltGenericReceive::MPU_xQueueAltGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	111;"	d	line:111
+xQueueAltGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1215;"	p	line:1215	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	694;"	f	line:694	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueAltGenericSend::MPU_xQueueAltGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	110;"	d	line:110
+xQueueAltPeek::(xQueue,pvBuffer,xTicksToWait)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1220;"	d	line:1220
+xQueueAltReceive::(xQueue,pvBuffer,xTicksToWait)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1219;"	d	line:1219
+xQueueAltSendToBack::(xQueue,pvItemToQueue,xTicksTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1218;"	d	line:1218
+xQueueAltSendToFront::(xQueue,pvItemToQueue,xTicksTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1217;"	d	line:1217
+xQueueCRReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1234;"	p	line:1234	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1458;"	f	line:1458	signature:( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )
+xQueueCRReceiveFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1232;"	p	line:1232	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueCRReceiveFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1561;"	f	line:1561	signature:( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxCoRoutineWoken )
+xQueueCRSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1233;"	p	line:1233	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1390;"	f	line:1390	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )
+xQueueCRSendFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1231;"	p	line:1231	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCRSendFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1533;"	f	line:1533	signature:( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )
+xQueueCreate::(uxQueueLength,uxItemSize)xQue	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	157;"	d	line:157
+xQueueCreateCountingSemaphore	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1242;"	p	line:1242	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateCountingSemaphore	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	549;"	f	line:549	signature:( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )
+xQueueCreateCountingSemaphore::MPU_xQueueCreateCountingSemaph	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	108;"	d	line:108
+xQueueCreateMutex	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1241;"	p	line:1241	signature:( unsigned char ucQueueType )
+xQueueCreateMutex	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	371;"	f	line:371	signature:( unsigned char ucQueueType )
+xQueueCreateMutex::MPU_xQueueCreateMutex	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	105;"	d	line:105
+xQueueGenericCreate	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1288;"	p	line:1288	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize, unsigned char ucQueueType )
+xQueueGenericCreate	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	318;"	f	line:318	signature:( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize, unsigned char ucQueueType )
+xQueueGenericCreate::MPU_xQueueGenericCreate	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	104;"	d	line:104
+xQueueGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	779;"	p	line:779	signature:( xQueueHandle xQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeek )
+xQueueGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	955;"	f	line:955	signature:( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )
+xQueueGenericReceive::MPU_xQueueGenericReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	112;"	d	line:112
+xQueueGenericReset	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1292;"	p	line:1292	signature:( xQueueHandle pxQueue, portBASE_TYPE xNewQueue )
+xQueueGenericReset	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	279;"	f	line:279	signature:( xQueueHandle pxQueue, portBASE_TYPE xNewQueue )
+xQueueGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	493;"	p	line:493	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	573;"	f	line:573	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )
+xQueueGenericSend::MPU_xQueueGenericSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	109;"	d	line:109
+xQueueGenericSendFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1101;"	p	line:1101	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGenericSendFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	898;"	f	line:898	signature:( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )
+xQueueGetMutexHolder	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1243;"	p	line:1243	signature:( xQueueHandle xSemaphore )
+xQueueGetMutexHolder	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	430;"	f	line:430	signature:( xQueueHandle xSemaphore )
+xQueueGiveMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1250;"	p	line:1250	signature:( xQueueHandle pxMutex )
+xQueueGiveMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	460;"	f	line:460	signature:( xQueueHandle pxMutex )
+xQueueGiveMutexRecursive::MPU_xQueueGiveMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	106;"	d	line:106
+xQueueHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	87;"	t	line:87
+xQueueHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	152;"	t	line:152	file:
+xQueueIsQueueEmptyFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1196;"	p	line:1196	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueEmptyFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1355;"	f	line:1355	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1197;"	p	line:1197	signature:( const xQueueHandle pxQueue )
+xQueueIsQueueFullFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1378;"	f	line:1378	signature:( const xQueueHandle pxQueue )
+xQueuePeek::(xQueue,pvBuffer,xTicksToWait)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	587;"	d	line:587
+xQueueReceive::(xQueue,pvBuffer,xTicksToWait)	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	680;"	d	line:680
+xQueueReceiveFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1190;"	p	line:1190	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueReceiveFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1105;"	f	line:1105	signature:( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )
+xQueueRegistry	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	211;"	v	line:211
+xQueueRegistryItem	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	206;"	t	line:206	file:
+xQueueReset::(pxQueue)xQueueGenericReset(px	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1258;"	d	line:1258
+xQueueSend::(xQueue,pvItemToQueue,xTicksTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	405;"	d	line:405
+xQueueSendFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1023;"	d	line:1023
+xQueueSendToBack::(xQueue,pvItemToQueue,xTicksTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	321;"	d	line:321
+xQueueSendToBackFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	949;"	d	line:949
+xQueueSendToFront::(xQueue,pvItemToQueue,xTicksTo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	239;"	d	line:239
+xQueueSendToFrontFromISR::(pxQueue,pvItemToQueue,pxHighe	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	878;"	d	line:878
+xQueueSizeInBytes	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	321;"	l	line:321
+xQueueTakeMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\queue.h	1249;"	p	line:1249	signature:( xQueueHandle pxMutex, portTickType xBlockTime )
+xQueueTakeMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	509;"	f	line:509	signature:( xQueueHandle pxMutex, portTickType xBlockTime )
+xQueueTakeMutexRecursive::MPU_xQueueTakeMutexRecursive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	107;"	d	line:107
+xRTOS_HEAP	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	89;"	u	line:89	file:
+xRegions	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	131;"	m	line:131	struct:xTASK_PARAMTERS
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1107;"	l	line:1107
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1345;"	l	line:1345
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1357;"	l	line:1357
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1368;"	l	line:1368
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1380;"	l	line:1380
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1392;"	l	line:1392
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1460;"	l	line:1460
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1563;"	l	line:1563
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	281;"	l	line:281
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	322;"	l	line:322
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	462;"	l	line:462
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	511;"	l	line:511
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	900;"	l	line:900
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1059;"	l	line:1059
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1245;"	l	line:1245
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1540;"	l	line:1540
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1569;"	l	line:1569
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1732;"	l	line:1732
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1790;"	l	line:1790
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2337;"	l	line:2337
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2355;"	l	line:2355
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	398;"	l	line:398
+xReturn	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	934;"	l	line:934
+xRunPrivileged	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	414;"	l	line:414
+xRxLock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	136;"	m	line:136	struct:QueueDefinition	file:
+xSchedulerRunning	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	179;"	v	line:179	file:
+xSemaphoreAltGive::(xSemaphore)xQueueAltGenericSe	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	464;"	d	line:464
+xSemaphoreAltTake::(xSemaphore,xBlockTime)xQueueA	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	303;"	d	line:303
+xSemaphoreCreateCounting::(uxMaxCount,uxInitialCount)xQu	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	720;"	d	line:720
+xSemaphoreCreateMutex::xQueueCreateMutex(queueQUEUE_T	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	602;"	d	line:602
+xSemaphoreCreateRecursiveMutex::xQueueCreateMutex(queueQUEUE_T	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	657;"	d	line:657
+xSemaphoreGetMutexHolder::(xSemaphore)xQueueGetMutexHold	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	749;"	d	line:749
+xSemaphoreGive::(xSemaphore)xQueueGenericSend(	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	366;"	d	line:366
+xSemaphoreGiveFromISR::(xSemaphore,pxHigherPriorityTa	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	555;"	d	line:555
+xSemaphoreGiveRecursive::(xMutex)xQueueGiveMutexRecursi	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	450;"	d	line:450
+xSemaphoreHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	76;"	t	line:76
+xSemaphoreTake::(xSemaphore,xBlockTime)xQueueG	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	195;"	d	line:195
+xSemaphoreTakeRecursive::(xMutex,xBlockTime)xQueueTakeM	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\semphr.h	288;"	d	line:288
+xShouldDelay	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	630;"	l	line:630
+xStart	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\portable\MemMang\heap_2.c	112;"	v	line:112	file:
+xSuspendedTaskList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	164;"	v	line:164	file:
+xTASK_PARAMTERS	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	123;"	s	line:123
+xTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1513;"	l	line:1513
+xTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1539;"	l	line:1539
+xTCB	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1568;"	l	line:1568
+xTIME_OUT	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	104;"	s	line:104
+xTaskCallApplicationTaskHook	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1566;"	f	line:1566	signature:( xTaskHandle xTask, void *pvParameter )
+xTaskCallApplicationTaskHook::MPU_xTaskCallApplicationTaskHo	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	99;"	d	line:99
+xTaskCheckForTimeOut	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1788;"	f	line:1788	signature:( xTimeOutType * const pxTimeOut, portTickType * const pxTicksToWait )
+xTaskCreate::(pvTaskCode,pcName,usStackDept	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	284;"	d	line:284
+xTaskCreateRestricted::(x,pxCreatedTask)xTaskGenericC	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	353;"	d	line:353
+xTaskGenericCreate	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	396;"	f	line:396	signature:( pdTASK_CODE pxTaskCode, const signed char * const pcName, unsigned short usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority, xTaskHandle *pxCreatedTask, portSTACK_TYPE *puxStackBuffer, const xMemoryRegion * const xRegions )
+xTaskGenericCreate::MPU_xTaskGenericCreate	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	79;"	d	line:79
+xTaskGetApplicationTaskTag	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1537;"	f	line:1537	signature:( xTaskHandle xTask )
+xTaskGetApplicationTaskTag::MPU_xTaskGetApplicationTaskTag	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	98;"	d	line:98
+xTaskGetCurrentTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2335;"	f	line:2335	signature:( void )
+xTaskGetCurrentTaskHandle::MPU_xTaskGetCurrentTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	101;"	d	line:101
+xTaskGetIdleTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	1189;"	p	line:1189	signature:( void )
+xTaskGetIdleTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1419;"	f	line:1419	signature:( void )
+xTaskGetSchedulerState	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	2353;"	f	line:2353	signature:( void )
+xTaskGetSchedulerState::MPU_xTaskGetSchedulerState	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	102;"	d	line:102
+xTaskGetTickCount	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1228;"	f	line:1228	signature:( void )
+xTaskGetTickCount::MPU_xTaskGetTickCount	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	91;"	d	line:91
+xTaskGetTickCountFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1243;"	f	line:1243	signature:( void )
+xTaskHandle	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	99;"	t	line:99
+xTaskIsTaskSuspended	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	932;"	f	line:932	signature:( xTaskHandle xTask )
+xTaskIsTaskSuspended::MPU_xTaskIsTaskSuspended	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	87;"	d	line:87
+xTaskParameters	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	132;"	t	line:132
+xTaskRemoveFromEventList	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1729;"	f	line:1729	signature:( const xList * const pxEventList )
+xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1091;"	p	line:1091	file:
+xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	1097;"	p	line:1097	file:
+xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	674;"	p	line:674	file:
+xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	681;"	p	line:681	file:
+xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1141;"	f	line:1141	signature:( void )
+xTaskResumeAll::MPU_xTaskResumeAll	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\mpu_wrappers.h	90;"	d	line:90
+xTaskResumeFromISR	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1011;"	f	line:1011	signature:( xTaskHandle pxTaskToResume )
+xTasksWaitingTermination	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	157;"	v	line:157	file:
+xTasksWaitingToReceive	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	130;"	m	line:130	struct:QueueDefinition	file:
+xTasksWaitingToSend	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	129;"	m	line:129	struct:QueueDefinition	file:
+xTickCount	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	176;"	v	line:176	file:
+xTicks	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1230;"	l	line:1230
+xTimeOnEntering	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	107;"	m	line:107	struct:xTIME_OUT
+xTimeOut	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	576;"	l	line:576
+xTimeOut	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	697;"	l	line:697
+xTimeOut	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	774;"	l	line:774
+xTimeOut	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	958;"	l	line:958
+xTimeOutType	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\include\task.h	108;"	t	line:108
+xTimeToWake	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1649;"	l	line:1649
+xTimeToWake	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1699;"	l	line:1699
+xTimeToWake	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	629;"	l	line:629
+xTimeToWake	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	694;"	l	line:694
+xTxLock	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\queue.c	137;"	m	line:137	struct:QueueDefinition	file:
+xValueOfInsertion	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\list.c	129;"	l	line:129
+xYieldRequired	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1013;"	l	line:1013
+xYieldRequired	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	1163;"	l	line:1163
+xYieldRequired	C:\Proyectos C32\SkP32v1.1\FreeRTOS\Source\tasks.c	764;"	l	line:764
