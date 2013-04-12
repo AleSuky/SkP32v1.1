@@ -5,7 +5,7 @@
 // SYSCLK = 80 MHz (4MHz Cristal/ FPLLIDIV * FPLLMUL / FPLLODIV)
 // FPLLDIV 1:1, PLLMULT x20, PLLODIV 1:1. -> 80MHz
 // FPBDIV 1:1 -> 80MHz
-#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_1, FPLLMUL=MUL_20, FPBDIV=DIV_1
+#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_2, FPLLMUL=MUL_20, FPBDIV=DIV_1
 #pragma config FWDTEN=OFF, FCKSM=CSDCMD, POSCMOD=XT, FNOSC=PRIPLL
 #pragma config CP=OFF, BWP=OFF, PWP=OFF
 // *--------------------------------------------------------------------------------*
@@ -20,14 +20,17 @@ int main(){
 	rtccDate dt;
 	UINT8 k,err;
 	char *Sc;
+	unsigned char VolName[] = "Ale";
 	
     mJTAGPortEnable(0);							// JTAG des-habilitado
 	SYSTEMConfigPerformance(GetSystemClock()); 	// Activa pre-cache.-
 	
 	LED1_OUTPUT();
 	LED2_OUTPUT();
+	LED3_OUTPUT();
 	LED1_OFF();
 	LED2_OFF();
+	LED3_OFF();
 	
 	//Initialize the RTCC
 	RtccInit();
@@ -56,13 +59,16 @@ int main(){
 		LED1_ON();
 	}else{	
 		LED2_ON();
+		if(FSformat(0,0x12345678,VolName)==0){
+			LED3_ON();
+		}
 		// w Abre archivo para escritura, si existe sobre-escribe
 		// a Abre archivo para escritura, si existe continua agregando datos al final.
-		MyFile = FSfopen("ARCHIVO.TXT","a+");
+		/*MyFile = FSfopen("ARCHIVO.TXT","a+");
 		for(Sc=&MyBuffer[0];*Sc!=0;Sc++);
 		k=Sc-&MyBuffer[0];
 		FSfwrite(&MyBuffer[0],1,k,MyFile);
-		FSfclose(MyFile);	
+		FSfclose(MyFile);*/	
 	}	
 	while(1){
 

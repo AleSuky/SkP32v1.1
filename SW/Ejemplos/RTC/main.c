@@ -5,7 +5,7 @@
 // SYSCLK = 80 MHz (4MHz Cristal/ FPLLIDIV * FPLLMUL / FPLLODIV)
 // FPLLDIV 1:1, PLLMULT x20, PLLODIV 1:1. -> 80MHz
 // FPBDIV 1:1 -> 80MHz
-#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_1, FPLLMUL=MUL_20, FPBDIV=DIV_1
+#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_2, FPLLMUL=MUL_20, FPBDIV=DIV_1
 #pragma config FWDTEN=OFF, FCKSM=CSDCMD, POSCMOD=XT, FNOSC=PRIPLL
 #pragma config CP=OFF, BWP=OFF, PWP=OFF
 // *--------------------------------------------------------------------------------*

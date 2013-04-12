@@ -65,7 +65,7 @@
 
 // Set configuration fuses (but only in MainDemo.c where THIS_IS_STACK_APPLICATION is defined)
 #if defined(THIS_IS_STACK_APPLICATION)
-	#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_1, FPLLMUL=MUL_20, FPBDIV=DIV_1
+	#pragma config FPLLODIV=DIV_1, FPLLIDIV=DIV_2, FPLLMUL=MUL_20, FPBDIV=DIV_1
 	#pragma config FWDTEN=OFF, FCKSM=CSDCMD, POSCMOD=XT, FNOSC=PRIPLL
 	#pragma config CP=OFF, BWP=OFF, PWP=OFF
 #endif

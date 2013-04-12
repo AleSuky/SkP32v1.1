@@ -113,7 +113,7 @@
 	// Description: The enable bit for the SPI module
 	#define SPIENABLE           SPI2CONbits.ON
 	// Description: The definition for the SPI baud rate generator register (PIC32)
-	#define SPIBRG			    SPI2BRG
+	#define SPIBRG              SPI2BRG
 	
 	// Tris pins for SCK/SDI/SDO lines
 	

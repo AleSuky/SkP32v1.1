@@ -48,12 +48,12 @@
 // 80Mhz Core/Periph, Pri Osc w/PLL, Write protect Boot Flash
 #if defined(TRANSPORT_LAYER_USB) || defined(TRANSPORT_LAYER_USB_HOST)
     #pragma config UPLLEN   = ON        // USB PLL Enabled
-    #pragma config UPLLIDIV = DIV_1     // USB PLL Input Divider = Divide by 2
+    #pragma config UPLLIDIV = DIV_2     // USB PLL Input Divider = Divide by 2
 #endif
 
 #pragma config DEBUG    = OFF           // Background Debugger disabled
 #pragma config FPLLMUL = MUL_20         // PLL Multiplier: Multiply by 20
-#pragma config FPLLIDIV = DIV_1         // PLL Input Divider:  Divide by 1
+#pragma config FPLLIDIV = DIV_2         // PLL Input Divider:  Divide by 1
 
 #if defined(__PIC32MX1XX_2XX__)
     // For PIC32MX1xx, PIC32MX2xx devices the output divisor is set to 2 to produce max 40MHz clock.
