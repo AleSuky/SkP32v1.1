@@ -27,6 +27,9 @@ int main(){
 	
 	LED1_OFF();LED2_OFF();LED3_OFF();LED4_OFF();
 	
+	OpenTimer2(T2_ON | T2_PS_1_1 |  T2_SOURCE_INT, 16000); // 1.3k
+	OpenOC1(OC_ON | OC_TIMER2_SRC | OC_TIMER_MODE16 | OC_PWM_FAULT_PIN_DISABLE, 8000, 16000); // RD0
+	
 	SW1_INPUT();
 	SW2_INPUT();
 	while(1){

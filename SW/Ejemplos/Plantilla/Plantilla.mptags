@@ -6,523 +6,463 @@
 !_TAG_PROGRAM_VERSION	5.5.4	//
 !_TAG_REVISION_NAME	MCHPTags	//
 !_TAG_REVISION_VERSION	6.0.1	//
-BIT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
-BOOL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	t	line:64
-BYTE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	434;"	t	line:434
-BYTE_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
-BYTE_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	461;"	t	line:461
-CHAR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	440;"	t	line:440
-CHAR8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	431;"	t	line:431
-CLEAR	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
-Count	C:\Proyectos C32\SkP32v1.1\Plantilla\main.c	18;"	l	line:18
-DWORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	436;"	t	line:436
-DWORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	550;"	t	line:550
-Delay10us	C:\Proyectos C32\SkP32v1.1\Microchip\Common\TimeDelay.c	68;"	f	line:68	signature:( UINT32 tenMicroSecondCounter )
-Delay10us	C:\Proyectos C32\SkP32v1.1\Microchip\Include\TimeDelay.h	58;"	p	line:58	signature:( UINT32 tenMicroSecondCounter )
-DelayMs	C:\Proyectos C32\SkP32v1.1\Microchip\Common\TimeDelay.c	174;"	f	line:174	signature:( UINT16 ms )
-DelayMs	C:\Proyectos C32\SkP32v1.1\Microchip\Include\TimeDelay.h	79;"	p	line:79	signature:( UINT16 ms )
-FALSE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
-FLOAT_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	424;"	t	line:424
-GetInstructionClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	67;"	d	line:67
-GetPeripheralClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	68;"	d	line:68
-GetSystemClock	C:\Proyectos C32\SkP32v1.1\Plantilla\main.c	21;"	p	line:21	file:
-GetSystemClock::(80000000ul)	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	66;"	d	line:66
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	185;"	m	line:185
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	470;"	m	line:470	struct:<anonymous>::__PACKED
-HB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
-HD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	340;"	m	line:340	struct:<anonymous>::__PACKED
-HD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	562;"	m	line:562	struct:<anonymous>::__PACKED
-HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226
-HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278
-HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	345;"	m	line:345	struct:<anonymous>::__PACKED
-HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
-HW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	567;"	m	line:567	struct:<anonymous>::__PACKED
-INT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	72;"	t	line:72
-INT16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
-INT32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
-INT64	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	79;"	t	line:79
-INT8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	184;"	m	line:184
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469	struct:<anonymous>::__PACKED
-LB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
-LD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	339;"	m	line:339	struct:<anonymous>::__PACKED
-LD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	561;"	m	line:561	struct:<anonymous>::__PACKED
-LED1_OFF::PORTClearBits(PORT_LED1,PIN_LE	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	50;"	d	line:50
-LED1_ON::PORTSetBits(PORT_LED1,PIN_LED1	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	45;"	d	line:45
-LED1_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	40;"	d	line:40
-LED1_TOGGLE::PORTToggleBits(PORT_LED1,PIN_L	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	55;"	d	line:55
-LED2_OFF::PORTClearBits(PORT_LED2,PIN_LE	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	51;"	d	line:51
-LED2_ON::PORTSetBits(PORT_LED2,PIN_LED2	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	46;"	d	line:46
-LED2_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	41;"	d	line:41
-LED2_TOGGLE::PORTToggleBits(PORT_LED2,PIN_L	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	56;"	d	line:56
-LED3_OFF::PORTClearBits(PORT_LED3,PIN_LE	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	52;"	d	line:52
-LED3_ON::PORTSetBits(PORT_LED3,PIN_LED3	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	47;"	d	line:47
-LED3_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	42;"	d	line:42
-LED3_TOGGLE::PORTToggleBits(PORT_LED3,PIN_L	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	57;"	d	line:57
-LED4_OFF::PORTClearBits(PORT_LED4,PIN_LE	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	53;"	d	line:53
-LED4_ON::PORTSetBits(PORT_LED4,PIN_LED4	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	48;"	d	line:48
-LED4_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	43;"	d	line:43
-LED4_TOGGLE::PORTToggleBits(PORT_LED4,PIN_L	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	58;"	d	line:58
-LONG	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	442;"	t	line:442
-LONGLONG	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	445;"	t	line:445
-LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225
-LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277
-LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	344;"	m	line:344	struct:<anonymous>::__PACKED
-LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
-LW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	566;"	m	line:566	struct:<anonymous>::__PACKED
-MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233
-MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285
-MB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
-MW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	347;"	m	line:347	struct:<anonymous>::__PACKED
-MW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	569;"	m	line:569	struct:<anonymous>::__PACKED
-PIN_LED1::BIT_8	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	27;"	d	line:27
-PIN_LED2::BIT_9	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	29;"	d	line:29
-PIN_LED3::BIT_10	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	31;"	d	line:31
-PIN_LED4::BIT_11	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	33;"	d	line:33
-PIN_SW1::BIT_12	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	36;"	d	line:36
-PIN_SW2::BIT_13	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	38;"	d	line:38
-PORT_LED1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	26;"	d	line:26
-PORT_LED2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	28;"	d	line:28
-PORT_LED3::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	30;"	d	line:30
-PORT_LED4::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	32;"	d	line:32
-PORT_SW1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	35;"	d	line:35
-PORT_SW2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	37;"	d	line:37
-PRIVATE::static	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
-PROTECTED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
-PUBLIC::	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	67;"	d	line:67
-QWORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	439;"	t	line:439
-QWORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	638;"	t	line:638
-SET	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BIT
-SHORT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	441;"	t	line:441
-SW1_INPUT::PORTSetPinsDigitalIn(PORT_SW1,	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	60;"	d	line:60
-SW1_STATUS::PORTReadBits(PORT_SW1,PIN_SW1)	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	63;"	d	line:63
-SW2_INPUT::PORTSetPinsDigitalIn(PORT_SW2,	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	61;"	d	line:61
-SW2_STATUS::PORTReadBits(PORT_SW2,PIN_SW2)	C:\Proyectos C32\SkP32v1.1\Plantilla\HardwareProfileSkP32.h	64;"	d	line:64
-TRUE	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	e	line:64	enum:_BOOL
-UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	186;"	m	line:186
-UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232
-UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284
-UB	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
-UCHAR8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	432;"	t	line:432
-UINT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	83;"	t	line:83
-UINT16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
-UINT16_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
-UINT16_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	175;"	t	line:175
-UINT24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	88;"	t	line:88
-UINT24_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
-UINT24_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	215;"	t	line:215
-UINT32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	90;"	t	line:90
-UINT32_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	327;"	t	line:327
-UINT64	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	93;"	t	line:93
-UINT64_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	416;"	t	line:416
-UINT8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
-UINT8_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
-UINT8_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	121;"	t	line:121
-UW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	346;"	m	line:346	struct:<anonymous>::__PACKED
-UW	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	568;"	m	line:568	struct:<anonymous>::__PACKED
-VOID	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	429;"	t	line:429
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	333;"	m	line:333
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	421;"	m	line:421
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	465;"	m	line:465
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	555;"	m	line:555
-Val	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	98;"	m	line:98
-WORD	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	435;"	t	line:435
-WORD_BITS	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
-WORD_VAL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	491;"	t	line:491
-_BIT	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
-_BOOL	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	64;"	g	line:64
-__EXTENSION	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	54;"	d	line:54
-__EXTENSION	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	640;"	d	line:640
-__EXTENSION::__extension__	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	52;"	d	line:52
-__GENERIC_TYPE_DEFS_H_	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	48;"	d	line:48
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	334;"	m	line:334
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	335;"	m	line:335
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	336;"	m	line:336
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	337;"	s	line:337
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	342;"	s	line:342
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	349;"	s	line:349
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	450;"	s	line:450
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	466;"	m	line:466
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	467;"	s	line:467
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	472;"	s	line:472
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	498;"	s	line:498
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	503;"	s	line:503
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	510;"	s	line:510
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	515;"	s	line:515
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	556;"	m	line:556
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	557;"	m	line:557
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	558;"	m	line:558
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	559;"	s	line:559
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	564;"	s	line:564
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	571;"	s	line:571
-__PACKED	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	58;"	d	line:58
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	101;"	m	line:101
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	112;"	m	line:112
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	190;"	m	line:190
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	242;"	m	line:242
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	351;"	m	line:351	struct:<anonymous>::__PACKED
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
-b0	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	573;"	m	line:573	struct:<anonymous>::__PACKED
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	113;"	m	line:113
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	191;"	m	line:191
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	243;"	m	line:243
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	352;"	m	line:352	struct:<anonymous>::__PACKED
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
-b1	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	574;"	m	line:574	struct:<anonymous>::__PACKED
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	144;"	m	line:144
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	252;"	m	line:252
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
-b10	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	583;"	m	line:583	struct:<anonymous>::__PACKED
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	145;"	m	line:145
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	253;"	m	line:253
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
-b11	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	584;"	m	line:584	struct:<anonymous>::__PACKED
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	146;"	m	line:146
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	202;"	m	line:202
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
-b12	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	585;"	m	line:585	struct:<anonymous>::__PACKED
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	203;"	m	line:203
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
-b13	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	586;"	m	line:586	struct:<anonymous>::__PACKED
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
-b14	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	587;"	m	line:587	struct:<anonymous>::__PACKED
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	149;"	m	line:149
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	257;"	m	line:257
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366	struct:<anonymous>::__PACKED
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
-b15	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	588;"	m	line:588	struct:<anonymous>::__PACKED
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	258;"	m	line:258
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	367;"	m	line:367	struct:<anonymous>::__PACKED
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
-b16	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	589;"	m	line:589	struct:<anonymous>::__PACKED
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	207;"	m	line:207
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	368;"	m	line:368	struct:<anonymous>::__PACKED
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
-b17	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	590;"	m	line:590	struct:<anonymous>::__PACKED
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	208;"	m	line:208
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	369;"	m	line:369	struct:<anonymous>::__PACKED
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
-b18	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	591;"	m	line:591	struct:<anonymous>::__PACKED
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	370;"	m	line:370	struct:<anonymous>::__PACKED
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
-b19	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	592;"	m	line:592	struct:<anonymous>::__PACKED
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	114;"	m	line:114
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	244;"	m	line:244
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	353;"	m	line:353	struct:<anonymous>::__PACKED
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476	struct:<anonymous>::__PACKED
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
-b2	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	575;"	m	line:575	struct:<anonymous>::__PACKED
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	371;"	m	line:371	struct:<anonymous>::__PACKED
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
-b20	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	593;"	m	line:593	struct:<anonymous>::__PACKED
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372	struct:<anonymous>::__PACKED
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
-b21	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	594;"	m	line:594	struct:<anonymous>::__PACKED
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	264;"	m	line:264
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	373;"	m	line:373	struct:<anonymous>::__PACKED
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
-b22	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	595;"	m	line:595	struct:<anonymous>::__PACKED
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	265;"	m	line:265
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	374;"	m	line:374	struct:<anonymous>::__PACKED
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
-b23	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	596;"	m	line:596	struct:<anonymous>::__PACKED
-b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266
-b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318
-b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	375;"	m	line:375	struct:<anonymous>::__PACKED
-b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
-b24	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	597;"	m	line:597	struct:<anonymous>::__PACKED
-b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267
-b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319
-b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
-b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
-b25	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	598;"	m	line:598	struct:<anonymous>::__PACKED
-b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268
-b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320
-b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377	struct:<anonymous>::__PACKED
-b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543	struct:<anonymous>::__PACKED
-b26	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	599;"	m	line:599	struct:<anonymous>::__PACKED
-b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269
-b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321
-b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	378;"	m	line:378	struct:<anonymous>::__PACKED
-b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	544;"	m	line:544	struct:<anonymous>::__PACKED
-b27	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	600;"	m	line:600	struct:<anonymous>::__PACKED
-b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270
-b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322
-b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	379;"	m	line:379	struct:<anonymous>::__PACKED
-b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	545;"	m	line:545	struct:<anonymous>::__PACKED
-b28	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	601;"	m	line:601	struct:<anonymous>::__PACKED
-b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271
-b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323
-b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	380;"	m	line:380	struct:<anonymous>::__PACKED
-b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	546;"	m	line:546	struct:<anonymous>::__PACKED
-b29	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	602;"	m	line:602	struct:<anonymous>::__PACKED
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	245;"	m	line:245
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	354;"	m	line:354	struct:<anonymous>::__PACKED
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455	struct:<anonymous>::__PACKED
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	477;"	m	line:477	struct:<anonymous>::__PACKED
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
-b3	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	576;"	m	line:576	struct:<anonymous>::__PACKED
-b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272
-b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324
-b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
-b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	547;"	m	line:547	struct:<anonymous>::__PACKED
-b30	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	603;"	m	line:603	struct:<anonymous>::__PACKED
-b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273
-b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325
-b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
-b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	548;"	m	line:548	struct:<anonymous>::__PACKED
-b31	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	604;"	m	line:604	struct:<anonymous>::__PACKED
-b32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
-b32	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	605;"	m	line:605	struct:<anonymous>::__PACKED
-b33	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
-b33	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	606;"	m	line:606	struct:<anonymous>::__PACKED
-b34	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
-b34	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	607;"	m	line:607	struct:<anonymous>::__PACKED
-b35	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
-b35	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	608;"	m	line:608	struct:<anonymous>::__PACKED
-b36	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
-b36	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	609;"	m	line:609	struct:<anonymous>::__PACKED
-b37	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
-b37	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	610;"	m	line:610	struct:<anonymous>::__PACKED
-b38	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
-b38	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	611;"	m	line:611	struct:<anonymous>::__PACKED
-b39	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
-b39	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	612;"	m	line:612	struct:<anonymous>::__PACKED
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	246;"	m	line:246
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	355;"	m	line:355	struct:<anonymous>::__PACKED
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	456;"	m	line:456	struct:<anonymous>::__PACKED
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	478;"	m	line:478	struct:<anonymous>::__PACKED
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
-b4	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	577;"	m	line:577	struct:<anonymous>::__PACKED
-b40	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
-b40	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	613;"	m	line:613	struct:<anonymous>::__PACKED
-b41	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
-b41	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	614;"	m	line:614	struct:<anonymous>::__PACKED
-b42	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
-b42	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	615;"	m	line:615	struct:<anonymous>::__PACKED
-b43	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
-b43	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	616;"	m	line:616	struct:<anonymous>::__PACKED
-b44	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
-b44	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	617;"	m	line:617	struct:<anonymous>::__PACKED
-b45	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396	struct:<anonymous>::__PACKED
-b45	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	618;"	m	line:618	struct:<anonymous>::__PACKED
-b46	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	397;"	m	line:397	struct:<anonymous>::__PACKED
-b46	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	619;"	m	line:619	struct:<anonymous>::__PACKED
-b47	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	398;"	m	line:398	struct:<anonymous>::__PACKED
-b47	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	620;"	m	line:620	struct:<anonymous>::__PACKED
-b48	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	399;"	m	line:399	struct:<anonymous>::__PACKED
-b48	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	621;"	m	line:621	struct:<anonymous>::__PACKED
-b49	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	400;"	m	line:400	struct:<anonymous>::__PACKED
-b49	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	622;"	m	line:622	struct:<anonymous>::__PACKED
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	117;"	m	line:117
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	195;"	m	line:195
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	247;"	m	line:247
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	356;"	m	line:356	struct:<anonymous>::__PACKED
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	457;"	m	line:457	struct:<anonymous>::__PACKED
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	479;"	m	line:479	struct:<anonymous>::__PACKED
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
-b5	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	578;"	m	line:578	struct:<anonymous>::__PACKED
-b50	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	401;"	m	line:401	struct:<anonymous>::__PACKED
-b50	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	623;"	m	line:623	struct:<anonymous>::__PACKED
-b51	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402	struct:<anonymous>::__PACKED
-b51	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	624;"	m	line:624	struct:<anonymous>::__PACKED
-b52	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403	struct:<anonymous>::__PACKED
-b52	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	625;"	m	line:625	struct:<anonymous>::__PACKED
-b53	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	404;"	m	line:404	struct:<anonymous>::__PACKED
-b53	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	626;"	m	line:626	struct:<anonymous>::__PACKED
-b54	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	405;"	m	line:405	struct:<anonymous>::__PACKED
-b54	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	627;"	m	line:627	struct:<anonymous>::__PACKED
-b55	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	406;"	m	line:406	struct:<anonymous>::__PACKED
-b55	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	628;"	m	line:628	struct:<anonymous>::__PACKED
-b56	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
-b56	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	629;"	m	line:629	struct:<anonymous>::__PACKED
-b57	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408	struct:<anonymous>::__PACKED
-b57	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	630;"	m	line:630	struct:<anonymous>::__PACKED
-b58	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	409;"	m	line:409	struct:<anonymous>::__PACKED
-b58	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	631;"	m	line:631	struct:<anonymous>::__PACKED
-b59	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	410;"	m	line:410	struct:<anonymous>::__PACKED
-b59	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	632;"	m	line:632	struct:<anonymous>::__PACKED
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	118;"	m	line:118
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	196;"	m	line:196
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	357;"	m	line:357	struct:<anonymous>::__PACKED
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	458;"	m	line:458	struct:<anonymous>::__PACKED
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
-b6	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	579;"	m	line:579	struct:<anonymous>::__PACKED
-b60	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	411;"	m	line:411	struct:<anonymous>::__PACKED
-b60	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	633;"	m	line:633	struct:<anonymous>::__PACKED
-b61	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
-b61	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	634;"	m	line:634	struct:<anonymous>::__PACKED
-b62	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
-b62	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	635;"	m	line:635	struct:<anonymous>::__PACKED
-b63	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
-b63	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	636;"	m	line:636	struct:<anonymous>::__PACKED
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	141;"	m	line:141
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	358;"	m	line:358	struct:<anonymous>::__PACKED
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	459;"	m	line:459	struct:<anonymous>::__PACKED
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
-b7	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	580;"	m	line:580	struct:<anonymous>::__PACKED
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	142;"	m	line:142
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
-b8	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	581;"	m	line:581	struct:<anonymous>::__PACKED
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	143;"	m	line:143
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
-b9	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	582;"	m	line:582	struct:<anonymous>::__PACKED
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	460;"	m	line:460
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	549;"	m	line:549
-bits	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	637;"	m	line:637
-byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	155;"	m	line:155
-byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286
-byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	471;"	m	line:471
-byte	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509
-cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32v1.1\Microchip\Common\TimeDelay.c	178;"	l	line:178
-cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32v1.1\Microchip\Common\TimeDelay.c	70;"	l	line:70
-dword	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	341;"	m	line:341
-dword	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	563;"	m	line:563
-high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238
-high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290
-high	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
-low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237
-low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289
-low	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
-main	C:\Proyectos C32\SkP32v1.1\Plantilla\main.c	17;"	f	line:17
-v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126
-v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181
-v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222
-v	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	423;"	m	line:423
-w	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221
-w	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	422;"	m	line:422
-word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279
-word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	348;"	m	line:348
-word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502
-word	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	570;"	m	line:570
-wordUnion	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291
-wordUnion	C:\Proyectos C32\SkP32v1.1\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514
+BIT	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	t	line:66
+BOOL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BYTE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	342;"	t	line:342
+BYTE_BITS	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	368;"	t	line:368
+BYTE_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	368;"	t	line:368
+CHAR	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	348;"	t	line:348
+CHAR8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	339;"	t	line:339
+CLEAR	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	e	line:66	enum:_BIT
+Count	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\main.c	18;"	l	line:18
+DWORD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	344;"	t	line:344
+DWORD_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	457;"	t	line:457
+Delay10us	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	69;"	f	line:69	signature:( UINT32 tenMicroSecondCounter )
+Delay10us	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\TimeDelay.h	59;"	p	line:59	signature:( UINT32 tenMicroSecondCounter )
+DelayMs	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	175;"	f	line:175	signature:( UINT16 ms )
+DelayMs	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\TimeDelay.h	80;"	p	line:80	signature:( UINT16 ms )
+FALSE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BOOL
+GetInstructionClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	67;"	d	line:67
+GetPeripheralClock::(GetSystemClock/1)	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	68;"	d	line:68
+GetSystemClock	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\main.c	21;"	p	line:21	file:
+GetSystemClock::(80000000ul)	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	66;"	d	line:66
+HB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	152;"	m	line:152	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377	struct:<anonymous>::__PACKED
+HB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255	struct:<anonymous>::__PACKED
+HD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408	struct:<anonymous>::__PACKED
+HW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+INT	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+INT16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT32	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	76;"	t	line:76
+INT64	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	80;"	t	line:80
+INT8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+LB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+LB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+LD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:<anonymous>::__PACKED
+LD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	468;"	m	line:468	struct:<anonymous>::__PACKED
+LED1_OFF::PORTClearBits(PORT_LED1,PIN_LE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	50;"	d	line:50
+LED1_ON::PORTSetBits(PORT_LED1,PIN_LED1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	45;"	d	line:45
+LED1_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	40;"	d	line:40
+LED1_TOGGLE::PORTToggleBits(PORT_LED1,PIN_L	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	55;"	d	line:55
+LED2_OFF::PORTClearBits(PORT_LED2,PIN_LE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	51;"	d	line:51
+LED2_ON::PORTSetBits(PORT_LED2,PIN_LED2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	46;"	d	line:46
+LED2_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	41;"	d	line:41
+LED2_TOGGLE::PORTToggleBits(PORT_LED2,PIN_L	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	56;"	d	line:56
+LED3_OFF::PORTClearBits(PORT_LED3,PIN_LE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	52;"	d	line:52
+LED3_ON::PORTSetBits(PORT_LED3,PIN_LED3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	47;"	d	line:47
+LED3_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	42;"	d	line:42
+LED3_TOGGLE::PORTToggleBits(PORT_LED3,PIN_L	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	57;"	d	line:57
+LED4_OFF::PORTClearBits(PORT_LED4,PIN_LE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	53;"	d	line:53
+LED4_ON::PORTSetBits(PORT_LED4,PIN_LED4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	48;"	d	line:48
+LED4_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	43;"	d	line:43
+LED4_TOGGLE::PORTToggleBits(PORT_LED4,PIN_L	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	58;"	d	line:58
+LONG	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	350;"	t	line:350
+LONGLONG	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	353;"	t	line:353
+LW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+LW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	473;"	m	line:473	struct:<anonymous>::__PACKED
+MB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200	struct:<anonymous>::__PACKED
+MB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415	struct:<anonymous>::__PACKED
+MW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262	struct:<anonymous>::__PACKED
+MW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476	struct:<anonymous>::__PACKED
+PIN_LED1::BIT_8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	27;"	d	line:27
+PIN_LED2::BIT_9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	29;"	d	line:29
+PIN_LED3::BIT_10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	31;"	d	line:31
+PIN_LED4::BIT_11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	33;"	d	line:33
+PIN_SW1::BIT_12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	36;"	d	line:36
+PIN_SW2::BIT_13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	38;"	d	line:38
+PORT_LED1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	26;"	d	line:26
+PORT_LED2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	28;"	d	line:28
+PORT_LED3::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	30;"	d	line:30
+PORT_LED4::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	32;"	d	line:32
+PORT_SW1::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	35;"	d	line:35
+PORT_SW2::IOPORT_B	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	37;"	d	line:37
+PRIVATE::static	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	70;"	d	line:70
+PROTECTED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PUBLIC::	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+QWORD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	347;"	t	line:347
+QWORD_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	545;"	t	line:545
+SET	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	e	line:66	enum:_BIT
+SHORT	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	349;"	t	line:349
+SW1_INPUT::PORTSetPinsDigitalIn(PORT_SW1,	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	60;"	d	line:60
+SW1_STATUS::PORTReadBits(PORT_SW1,PIN_SW1)	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	63;"	d	line:63
+SW2_INPUT::PORTSetPinsDigitalIn(PORT_SW2,	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	61;"	d	line:61
+SW2_STATUS::PORTReadBits(PORT_SW2,PIN_SW2)	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\HardwareProfileSkP32.h	64;"	d	line:64
+TRUE	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BOOL
+UB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153	struct:<anonymous>::__PACKED
+UB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	struct:<anonymous>::__PACKED
+UB	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+UCHAR8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	340;"	t	line:340
+UINT	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	86;"	t	line:86
+UINT16_BITS	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	141;"	t	line:141
+UINT16_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	141;"	t	line:141
+UINT24	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	89;"	t	line:89
+UINT24_BITS	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	182;"	t	line:182
+UINT24_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	182;"	t	line:182
+UINT32	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	91;"	t	line:91
+UINT32_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	242;"	t	line:242
+UINT64	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	94;"	t	line:94
+UINT64_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	331;"	t	line:331
+UINT8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT8_BITS	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	111;"	t	line:111
+UINT8_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	111;"	t	line:111
+UW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:<anonymous>::__PACKED
+UW	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+VOID	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	337;"	t	line:337
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	356;"	m	line:356
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	462;"	m	line:462
+Val	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	99;"	m	line:99
+WORD	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	343;"	t	line:343
+WORD_BITS	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	398;"	t	line:398
+WORD_VAL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	398;"	t	line:398
+_BIT	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	g	line:66
+_BOOL	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+__EXTENSION	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	547;"	d	line:547
+__EXTENSION	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	55;"	d	line:55
+__EXTENSION::__extension__	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	53;"	d	line:53
+__GENERIC_TYPE_DEFS1_H_	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	49;"	d	line:49
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	117;"	s	line:117
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	122;"	s	line:122
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	149;"	s	line:149
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	155;"	s	line:155
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	189;"	m	line:189
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	190;"	s	line:190
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	195;"	s	line:195
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	202;"	s	line:202
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	207;"	s	line:207
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	252;"	s	line:252
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	257;"	s	line:257
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	264;"	s	line:264
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	357;"	s	line:357
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	373;"	m	line:373
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	374;"	s	line:374
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	379;"	s	line:379
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	404;"	m	line:404
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	405;"	s	line:405
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	410;"	s	line:410
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	417;"	s	line:417
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	422;"	s	line:422
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	463;"	m	line:463
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	464;"	m	line:464
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	465;"	m	line:465
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	466;"	s	line:466
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	471;"	s	line:471
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	478;"	s	line:478
+__PACKED	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	59;"	d	line:59
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	124;"	m	line:124	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	157;"	m	line:157	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	424;"	m	line:424	struct:<anonymous>::__PACKED
+b0	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	425;"	m	line:425	struct:<anonymous>::__PACKED
+b1	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	219;"	m	line:219	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	434;"	m	line:434	struct:<anonymous>::__PACKED
+b10	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	435;"	m	line:435	struct:<anonymous>::__PACKED
+b11	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	491;"	m	line:491	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	436;"	m	line:436	struct:<anonymous>::__PACKED
+b12	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	492;"	m	line:492	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	437;"	m	line:437	struct:<anonymous>::__PACKED
+b13	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	493;"	m	line:493	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	280;"	m	line:280	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	438;"	m	line:438	struct:<anonymous>::__PACKED
+b14	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	494;"	m	line:494	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	281;"	m	line:281	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	439;"	m	line:439	struct:<anonymous>::__PACKED
+b15	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	440;"	m	line:440	struct:<anonymous>::__PACKED
+b16	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	441;"	m	line:441	struct:<anonymous>::__PACKED
+b17	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	227;"	m	line:227	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	442;"	m	line:442	struct:<anonymous>::__PACKED
+b18	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	498;"	m	line:498	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	176;"	m	line:176	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	228;"	m	line:228	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	443;"	m	line:443	struct:<anonymous>::__PACKED
+b19	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	499;"	m	line:499	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	426;"	m	line:426	struct:<anonymous>::__PACKED
+b2	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	177;"	m	line:177	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	444;"	m	line:444	struct:<anonymous>::__PACKED
+b20	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	287;"	m	line:287	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	445;"	m	line:445	struct:<anonymous>::__PACKED
+b21	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	288;"	m	line:288	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	446;"	m	line:446	struct:<anonymous>::__PACKED
+b22	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	447;"	m	line:447	struct:<anonymous>::__PACKED
+b23	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	503;"	m	line:503	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	448;"	m	line:448	struct:<anonymous>::__PACKED
+b24	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	504;"	m	line:504	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449	struct:<anonymous>::__PACKED
+b25	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	292;"	m	line:292	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	450;"	m	line:450	struct:<anonymous>::__PACKED
+b26	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	293;"	m	line:293	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	451;"	m	line:451	struct:<anonymous>::__PACKED
+b27	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b28	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b29	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	427;"	m	line:427	struct:<anonymous>::__PACKED
+b3	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	239;"	m	line:239	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b30	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	510;"	m	line:510	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	240;"	m	line:240	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455	struct:<anonymous>::__PACKED
+b31	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	511;"	m	line:511	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298	struct:<anonymous>::__PACKED
+b32	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299	struct:<anonymous>::__PACKED
+b33	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300	struct:<anonymous>::__PACKED
+b34	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301	struct:<anonymous>::__PACKED
+b35	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	515;"	m	line:515	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302	struct:<anonymous>::__PACKED
+b36	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	516;"	m	line:516	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303	struct:<anonymous>::__PACKED
+b37	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304	struct:<anonymous>::__PACKED
+b38	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305	struct:<anonymous>::__PACKED
+b39	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	128;"	m	line:128	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	428;"	m	line:428	struct:<anonymous>::__PACKED
+b4	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306	struct:<anonymous>::__PACKED
+b40	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307	struct:<anonymous>::__PACKED
+b41	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308	struct:<anonymous>::__PACKED
+b42	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309	struct:<anonymous>::__PACKED
+b43	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310	struct:<anonymous>::__PACKED
+b44	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311	struct:<anonymous>::__PACKED
+b45	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312	struct:<anonymous>::__PACKED
+b46	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313	struct:<anonymous>::__PACKED
+b47	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314	struct:<anonymous>::__PACKED
+b48	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315	struct:<anonymous>::__PACKED
+b49	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	214;"	m	line:214	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	429;"	m	line:429	struct:<anonymous>::__PACKED
+b5	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316	struct:<anonymous>::__PACKED
+b50	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317	struct:<anonymous>::__PACKED
+b51	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318	struct:<anonymous>::__PACKED
+b52	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319	struct:<anonymous>::__PACKED
+b53	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320	struct:<anonymous>::__PACKED
+b54	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321	struct:<anonymous>::__PACKED
+b55	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322	struct:<anonymous>::__PACKED
+b56	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323	struct:<anonymous>::__PACKED
+b57	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324	struct:<anonymous>::__PACKED
+b58	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325	struct:<anonymous>::__PACKED
+b59	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	215;"	m	line:215	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	430;"	m	line:430	struct:<anonymous>::__PACKED
+b6	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326	struct:<anonymous>::__PACKED
+b60	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	327;"	m	line:327	struct:<anonymous>::__PACKED
+b61	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	328;"	m	line:328	struct:<anonymous>::__PACKED
+b62	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	329;"	m	line:329	struct:<anonymous>::__PACKED
+b63	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	109;"	m	line:109
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	216;"	m	line:216	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	431;"	m	line:431	struct:<anonymous>::__PACKED
+b7	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	217;"	m	line:217	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	432;"	m	line:432	struct:<anonymous>::__PACKED
+b8	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	133;"	m	line:133	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	218;"	m	line:218	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	433;"	m	line:433	struct:<anonymous>::__PACKED
+b9	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	110;"	m	line:110
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	241;"	m	line:241
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	330;"	m	line:330
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	367;"	m	line:367
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	397;"	m	line:397
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	456;"	m	line:456
+bits	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	544;"	m	line:544
+byte	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	121;"	m	line:121
+byte	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154
+byte	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201
+byte	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	378;"	m	line:378
+byte	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	416;"	m	line:416
+cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	179;"	l	line:179
+cyclesRequiredForEntireDelay	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	71;"	l	line:71
+dword	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256
+dword	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	470;"	m	line:470
+high	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205	struct:<anonymous>::__PACKED
+high	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	420;"	m	line:420	struct:<anonymous>::__PACKED
+low	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	struct:<anonymous>::__PACKED
+low	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	419;"	m	line:419	struct:<anonymous>::__PACKED
+main	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Plantilla\main.c	17;"	f	line:17
+word	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194
+word	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263
+word	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	409;"	m	line:409
+word	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	477;"	m	line:477
+wordUnion	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206
+wordUnion	C:\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	421;"	m	line:421

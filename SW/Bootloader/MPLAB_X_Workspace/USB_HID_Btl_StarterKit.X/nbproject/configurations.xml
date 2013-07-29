@@ -78,10 +78,10 @@
     <conf name="default" type="2">
       <toolsSet>
         <developmentServer>localhost</developmentServer>
-        <targetDevice>PIC32MX795F512L</targetDevice>
+        <targetDevice>PIC32MX460F512L</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>SKDEPIC32PlatformTool</platformTool>
+        <platformTool>PICkit3PlatformTool</platformTool>
         <languageToolchain>C32</languageToolchain>
         <languageToolchainVersion>2.02</languageToolchainVersion>
         <platform>3</platform>
@@ -107,7 +107,9 @@
       </makeCustomizationType>
       <C32>
         <property key="additional-warnings" value="false"/>
+        <property key="enable-app-io" value="false"/>
         <property key="enable-omit-frame-pointer" value="false"/>
+        <property key="enable-symbols" value="true"/>
         <property key="enable-unroll-loops" value="false"/>
         <property key="exclude-floating-point" value="false"/>
         <property key="extra-include-directories"
@@ -119,14 +121,14 @@
         <property key="place-data-into-section" value="false"/>
         <property key="post-instruction-scheduling" value="default"/>
         <property key="pre-instruction-scheduling" value="default"/>
-        <property key="preprocessor-macros"
-                  value="TRANSPORT_LAYER_USB;DEMO_BOARD_USB_STARTER_KIT"/>
+        <property key="preprocessor-macros" value="TRANSPORT_LAYER_USB;BOARD_SKP32"/>
         <property key="strict-ansi" value="false"/>
         <property key="support-ansi" value="false"/>
         <property key="use-indirect-calls" value="false"/>
       </C32>
       <C32-AS>
         <property key="assembler-symbols" value=""/>
+        <property key="enable-symbols" value="true"/>
         <property key="exclude-floating-point-library" value="false"/>
         <property key="expand-macros" value="false"/>
         <property key="extra-include-directories-for-assembler"
@@ -135,10 +137,9 @@
         <property key="false-conditionals" value="false"/>
         <property key="keep-locals" value="false"/>
         <property key="list-assembly" value="false"/>
-        <property key="list-file" value=""/>
-        <property key="list-section-info" value="false"/>
         <property key="list-source" value="false"/>
         <property key="list-symbols" value="false"/>
+        <property key="oXC32asm-list-to-file" value="false"/>
         <property key="omit-debug-dirs" value="false"/>
         <property key="omit-forms" value="false"/>
         <property key="preprocessor-macros" value=""/>
@@ -166,7 +167,6 @@
       </C32-LD>
       <C32Global>
         <property key="legacy-libc" value="false"/>
-        <property key="no-start-files" value="false"/>
       </C32Global>
       <SKDEPIC32PlatformTool>
       </SKDEPIC32PlatformTool>

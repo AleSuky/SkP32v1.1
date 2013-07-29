@@ -117,6 +117,10 @@ void vLCDTFTCircle(UINT16 x,UINT16 y,UINT16 Radius,BOOL Filled,UINT16 Color);
 void vLCDTFTAddColor(UINT16 x, UINT16 y, UINT16 Color);
 void vLCDTFTEraseColor(UINT16 x, UINT16 y, UINT16 Color);
 void vLCDTFTTextH(UINT16 x,UINT16 y,const char *PtrText,const char (*Fuente)[5],UINT16 Color);
+
+void vLCDTFTWriteData(UINT16 Data);
+void vLCDTFTWriteCommand(UINT16 Data);
+void vLCDTFTAddressSetH(UINT16 x1,UINT16 y1,UINT16 x2,UINT16 y2);
 // *------------------------------------------------------------* 
 // R = 5 bits 0:4, G = 6 bits 5:10, B = 5 bits 11:15
 #define RGB(_R,_G,_B) (((_R & 0x3E) >> 1) | ((_G & 0x3f) << 5) | ((_B & 0x3e) << 10))
