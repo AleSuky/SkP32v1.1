@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="freeModbus" displayName="freeModbus" projectFiles="true">
+        <itemPath>../../freemodbus/ascii/mbascii.h</itemPath>
+        <itemPath>../../freemodbus/include/mb.h</itemPath>
+        <itemPath>../../freemodbus/include/mbconfig.h</itemPath>
+        <itemPath>../../freemodbus/include/mbframe.h</itemPath>
+        <itemPath>../../freemodbus/include/mbfunc.h</itemPath>
+        <itemPath>../../freemodbus/include/mbport.h</itemPath>
+        <itemPath>../../freemodbus/include/mbproto.h</itemPath>
+        <itemPath>../../freemodbus/include/mbutils.h</itemPath>
+        <itemPath>../../freemodbus/rtu/mbcrc.h</itemPath>
+        <itemPath>../../freemodbus/rtu/mbrtu.h</itemPath>
+        <itemPath>../../freemodbus/tcp/mbtcp.h</itemPath>
+      </logicalFolder>
+      <itemPath>../../Microchip/Include/TimeDelay.h</itemPath>
+      <itemPath>../../Microchip/Include/GenericTypeDefs.h</itemPath>
+      <itemPath>../HardwareProfile.h</itemPath>
+      <itemPath>../HardwareProfileSkP32.h</itemPath>
+      <itemPath>../port/port.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="LinkerScript"
+                   displayName="Linker Files"
+                   projectFiles="true">
+      <itemPath>../app.ld</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="freeModbus" displayName="freeModbus" projectFiles="true">
+        <itemPath>../../freemodbus/ascii/mbascii.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfunccoils.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfuncdiag.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfuncdisc.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfuncholding.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfuncinput.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbfuncother.c</itemPath>
+        <itemPath>../../freemodbus/functions/mbutils.c</itemPath>
+        <itemPath>../../freemodbus/rtu/mbcrc.c</itemPath>
+        <itemPath>../../freemodbus/rtu/mbrtu.c</itemPath>
+        <itemPath>../../freemodbus/tcp/mbtcp.c</itemPath>
+        <itemPath>../../freemodbus/mb.c</itemPath>
+      </logicalFolder>
+      <itemPath>../../Microchip/Common/TimeDelay.c</itemPath>
+      <itemPath>../port/portevent.c</itemPath>
+      <itemPath>../port/portserial.c</itemPath>
+      <itemPath>../port/porttimer.c</itemPath>
+      <itemPath>../main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>..\..\freemodbus</Elem>
+    <Elem>..\..\Microchip\Common</Elem>
+    <Elem>..\port</Elem>
+    <Elem>../</Elem>
+    <Elem>..</Elem>
+    <Elem>..\..\freemodbus\rtu</Elem>
+    <Elem>..\..\freemodbus\include</Elem>
+    <Elem>..\..\freemodbus\ascii</Elem>
+    <Elem>..\..\freemodbus\functions</Elem>
+    <Elem>..\..\Microchip\Include</Elem>
+    <Elem>..\..\freemodbus\tcp</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="default" type="2">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <targetDevice>PIC32MX460F512L</targetDevice>
+        <targetHeader></targetHeader>
+        <targetPluginBoard></targetPluginBoard>
+        <platformTool>Simulator</platformTool>
+        <languageToolchain>C32</languageToolchain>
+        <languageToolchainVersion>2.02</languageToolchainVersion>
+        <platform>3</platform>
+      </toolsSet>
+      <compileType>
+        <linkerTool>
+          <linkerLibItems>
+          </linkerLibItems>
+        </linkerTool>
+        <loading>
+          <useAlternateLoadableFile>false</useAlternateLoadableFile>
+          <alternateLoadableFile></alternateLoadableFile>
+        </loading>
+      </compileType>
+      <makeCustomizationType>
+        <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
+        <makeCustomizationPreStep></makeCustomizationPreStep>
+        <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
+        <makeCustomizationPostStep></makeCustomizationPostStep>
+        <makeCustomizationPutChecksumInUserID>false</makeCustomizationPutChecksumInUserID>
+        <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
+        <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
+      </makeCustomizationType>
+      <C32>
+        <property key="additional-warnings" value="false"/>
+        <property key="enable-app-io" value="false"/>
+        <property key="enable-omit-frame-pointer" value="false"/>
+        <property key="enable-symbols" value="true"/>
+        <property key="enable-unroll-loops" value="false"/>
+        <property key="exclude-floating-point" value="false"/>
+        <property key="extra-include-directories"
+                  value="../port;../../freemodbus/tcp;../../freemodbus/rtu;../../freemodbus/ascii;../../freemodbus/include;..;../../Microchip/Include;../../Micros-Designs/Include;"/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="isolate-each-function" value="false"/>
+        <property key="make-warnings-into-errors" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="place-data-into-section" value="false"/>
+        <property key="post-instruction-scheduling" value="default"/>
+        <property key="pre-instruction-scheduling" value="default"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="strict-ansi" value="false"/>
+        <property key="support-ansi" value="false"/>
+        <property key="use-indirect-calls" value="false"/>
+      </C32>
+      <C32-AS>
+        <property key="assembler-symbols" value=""/>
+        <property key="enable-symbols" value="true"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="expand-macros" value="false"/>
+        <property key="extra-include-directories-for-assembler" value="..;"/>
+        <property key="extra-include-directories-for-preprocessor" value=""/>
+        <property key="false-conditionals" value="false"/>
+        <property key="keep-locals" value="false"/>
+        <property key="list-assembly" value="false"/>
+        <property key="list-source" value="false"/>
+        <property key="list-symbols" value="false"/>
+        <property key="oXC32asm-list-to-file" value="false"/>
+        <property key="omit-debug-dirs" value="false"/>
+        <property key="omit-forms" value="false"/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="warning-level" value=""/>
+      </C32-AS>
+      <C32-LD>
+        <property key="enable-check-sections" value="false"/>
+        <property key="exclude-floating-point-library" value="false"/>
+        <property key="exclude-standard-libraries" value="false"/>
+        <property key="extra-lib-directories" value="..;"/>
+        <property key="generate-16-bit-code" value="false"/>
+        <property key="generate-cross-reference-file" value="false"/>
+        <property key="heap-size" value="512"/>
+        <property key="input-libraries" value=""/>
+        <property key="linker-symbols" value=""/>
+        <property key="map-file" value="&quot;${DISTDIR}/TestModbus.X.${IMAGE_TYPE}.map&quot;"/>
+        <property key="no-startup-files" value="false"/>
+        <property key="optimization-level" value=""/>
+        <property key="preprocessor-macros" value=""/>
+        <property key="remove-unused-sections" value="false"/>
+        <property key="report-memory-usage" value="false"/>
+        <property key="stack-size" value="1024"/>
+        <property key="symbol-stripping" value=""/>
+        <property key="trace-symbols" value=""/>
+        <property key="warn-section-align" value="false"/>
+      </C32-LD>
+      <C32Global>
+        <property key="legacy-libc" value="false"/>
+      </C32Global>
+      <Simulator>
+        <property key="tracecontrol.disablemacros" value="true"/>
+        <property key="tracecontrol.medium" value="0"/>
+        <property key="tracecontrol.select" value="0"/>
+      </Simulator>
+    </conf>
+  </confs>
+</configurationDescriptor>

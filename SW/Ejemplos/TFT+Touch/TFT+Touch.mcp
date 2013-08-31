@@ -68,16 +68,16 @@ file_012=no
 [FILE_INFO]
 file_000=main.c
 file_001=..\Microchip\Common\TimeDelay.c
-file_002=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Source\ADS7843.c
-file_003=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Source\TouchCalibracion.c
-file_004=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Source\LCDTFT2.4.c
+file_002=..\Micros-Designs\Source\ADS7843.c
+file_003=..\Micros-Designs\Source\LCDTFT.c
+file_004=..\Micros-Designs\Source\TouchCalibracion.c
 file_005=..\Microchip\Include\TimeDelay.h
 file_006=..\Microchip\Include\GenericTypeDefs.h
 file_007=HardwareProfile.h
 file_008=HardwareProfileSkP32.h
-file_009=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Include\ADS7843.h
-file_010=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Include\TouchCalibracion.h
-file_011=C:\Proyectos C32\SkP32v1.1\Micros-Designs\Include\LCDTFT2.4.h
+file_009=..\Micros-Designs\Include\ADS7843.h
+file_010=..\Micros-Designs\Include\LCDTFT.h
+file_011=..\Micros-Designs\Include\TouchCalibracion.h
 file_012=app.ld
 [SUITE_INFO]
 suite_guid={14495C23-81F8-43F3-8A44-859C583D7760}

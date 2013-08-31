@@ -1,6 +1,5 @@
-Objects\TouchCalibracion.o: \
- C:\Proyectos\ C32\SkP32v1.1\Micros-Designs\Source\TouchCalibracion.c \
- C:\Proyectos\ C32\SkP32v1.1\Micros-Designs\Source\/..\Include\TouchCalibracion.h \
- C:\Proyectos\ C32\SkP32v1.1\Micros-Designs\Source\/..\Include\/LCDTFT2.4.h \
- ..\Microchip\Include/TimeDelay.h ..\Microchip\Include/GenericTypedefs.h \
- C:\Proyectos\ C32\SkP32v1.1\Micros-Designs\Source\/..\Include\/ADS7843.h
+Objects\TouchCalibracion.o: ..\Micros-Designs\Source\TouchCalibracion.c \
+ ..\Micros-Designs\Source\/..\Include\TouchCalibracion.h \
+ ..\Micros-Designs\Source\/..\Include\/LCDTFT.h \
+ ..\Microchip\Include/TimeDelay.h ..\Microchip\Include/GenericTypeDefs.h \
+ ..\Micros-Designs\Source\/..\Include\/ADS7843.h

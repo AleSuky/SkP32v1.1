@@ -1,0 +1,253 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File001]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbascii.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File002]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfunccoils.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File003]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfuncdiag.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File004]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfuncdisc.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File005]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfuncholding.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File006]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfuncinput.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File007]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbfuncother.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File008]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbutils.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File009]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbcrc.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File010]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbrtu.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File011]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mbtcp.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File012]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\mb.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File013]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\portevent.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File014]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\portserial.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File015]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\porttimer.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File016]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Objects\main.o
+Folder=Intermediary
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={430F471F-7ECB-4852-A80D-DEF9A5C8E751}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG
+[File017]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Hex\TestModbus.elf
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=512 --defsym=_min_stack_size=1024 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[File018]
+Location=E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\Hex\TestModbus.hex
+Folder=Output
+DeviceName=PIC32MX460F512L
+LanguageToolSuiteID={14495C23-81F8-43F3-8A44-859C583D7760}
+LanguageToolID={C68E5105-1196-4333-A0BF-3DC57271E614}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-ld.exe
+PPAD=$(BINDIR)|Hex||$(TMPDIR)|Objects||$(AINDIR)||$(INCDIR)|.\port;..\freemodbus\tcp;..\freemodbus\rtu;..\freemodbus\ascii;..\freemodbus\include;.;..\Microchip\Include;..\Micros-Designs\Include||$(LIBDIR)||$(LKRDIR)||
+SOLK=<src>|..\Microchip\Common\TimeDelay.c|..\freemodbus\ascii\mbascii.c|..\freemodbus\functions\mbfunccoils.c|..\freemodbus\functions\mbfuncdiag.c|..\freemodbus\functions\mbfuncdisc.c|..\freemodbus\functions\mbfuncholding.c|..\freemodbus\functions\mbfuncinput.c|..\freemodbus\functions\mbfuncother.c|..\freemodbus\functions\mbutils.c|..\freemodbus\rtu\mbcrc.c|..\freemodbus\rtu\mbrtu.c|..\freemodbus\tcp\mbtcp.c|..\freemodbus\mb.c|port\portevent.c|port\portserial.c|port\porttimer.c|main.c||<obj>||<lib>||<lkr>|app.ld||
+SuiteArgsString=
+ToolArgsString=--defsym=_min_heap_size=512 --defsym=_min_stack_size=1024 -Map="$(BINDIR_)$(TARGETBASE).map" -o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1
+[TOOL_LOC_STAMPS]
+tool_loc{430F471F-7ECB-4852-A80D-DEF9A5C8E751}=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-gcc.exe
+tool_loc{C68E5105-1196-4333-A0BF-3DC57271E614}=C:\Program Files (x86)\Microchip\mplabc32\v2.02\bin\pic32-ld.exe

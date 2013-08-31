@@ -1,0 +1,965 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BIT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	t	line:66
+BITS_UCHAR::8U	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	43;"	d	line:43	file:
+BOOL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	t	line:65
+BYTE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	342;"	t	line:342
+BYTE_BITS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	368;"	t	line:368
+BYTE_HIGH_NIBBLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	77;"	e	line:77	file:
+BYTE_LOW_NIBBLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	78;"	e	line:78	file:
+BYTE_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	368;"	t	line:368
+CHAR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	348;"	t	line:348
+CHAR8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	339;"	t	line:339
+CLEAR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	e	line:66	enum:_BIT
+Count	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	27;"	l	line:27
+DWORD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	344;"	t	line:344
+DWORD_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	457;"	t	line:457
+Delay10us	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	69;"	f	line:69	signature:( UINT32 tenMicroSecondCounter )
+Delay10us	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\TimeDelay.h	59;"	p	line:59	signature:( UINT32 tenMicroSecondCounter )
+DelayMs	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	175;"	f	line:175	signature:( UINT16 ms )
+DelayMs	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\TimeDelay.h	80;"	p	line:80	signature:( UINT16 ms )
+ENTER_CRITICAL_SECTION::()	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	35;"	d	line:35
+EV_EXECUTE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	44;"	e	line:44
+EV_FRAME_RECEIVED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	43;"	e	line:43
+EV_FRAME_SENT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	45;"	e	line:45
+EV_READY	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	42;"	e	line:42
+EXIT_CRITICAL_SECTION::()	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	36;"	d	line:36
+FALSE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BOOL
+FALSE::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	51;"	d	line:51
+GetInstructionClock::(GetSystemClock/1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	67;"	d	line:67
+GetPeripheralClock::(GetSystemClock/1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	68;"	d	line:68
+GetSystemClock	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	29;"	p	line:29	file:
+GetSystemClock::(80000000ul)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	66;"	d	line:66
+HB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	120;"	m	line:120	struct:<anonymous>::__PACKED
+HB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	152;"	m	line:152	struct:<anonymous>::__PACKED
+HB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	198;"	m	line:198	struct:<anonymous>::__PACKED
+HB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	377;"	m	line:377	struct:<anonymous>::__PACKED
+HB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	413;"	m	line:413	struct:<anonymous>::__PACKED
+HD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	255;"	m	line:255	struct:<anonymous>::__PACKED
+HD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	469;"	m	line:469	struct:<anonymous>::__PACKED
+HW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	193;"	m	line:193	struct:<anonymous>::__PACKED
+HW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	260;"	m	line:260	struct:<anonymous>::__PACKED
+HW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	408;"	m	line:408	struct:<anonymous>::__PACKED
+HW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	474;"	m	line:474	struct:<anonymous>::__PACKED
+INLINE::inline	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	31;"	d	line:31
+INT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	73;"	t	line:73
+INT16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	75;"	t	line:75
+INT32	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	76;"	t	line:76
+INT64	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	80;"	t	line:80
+INT8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	74;"	t	line:74
+INT_DISABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	42;"	l	line:42
+INT_DISABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	48;"	l	line:48
+INT_ENABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	40;"	l	line:40
+INT_ENABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	46;"	l	line:46
+INT_SOURCE_UART_RX	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	40;"	p	line:40	file:
+INT_SOURCE_UART_RX	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	42;"	p	line:42	file:
+INT_SOURCE_UART_RX	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	99;"	p	line:99	file:
+INT_SOURCE_UART_TX	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	46;"	p	line:46	file:
+INT_SOURCE_UART_TX	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	48;"	p	line:48	file:
+ISRUart2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	96;"	f	line:96	signature:(void)
+ISR_T2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	65;"	f	line:65	signature:(void)
+LB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	119;"	m	line:119	struct:<anonymous>::__PACKED
+LB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	151;"	m	line:151	struct:<anonymous>::__PACKED
+LB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	197;"	m	line:197	struct:<anonymous>::__PACKED
+LB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	376;"	m	line:376	struct:<anonymous>::__PACKED
+LB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	412;"	m	line:412	struct:<anonymous>::__PACKED
+LD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	254;"	m	line:254	struct:<anonymous>::__PACKED
+LD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	468;"	m	line:468	struct:<anonymous>::__PACKED
+LED1_OFF::PORTClearBits(PORT_LED1,PIN_LE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	50;"	d	line:50
+LED1_ON::PORTSetBits(PORT_LED1,PIN_LED1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	45;"	d	line:45
+LED1_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	40;"	d	line:40
+LED1_TOGGLE::PORTToggleBits(PORT_LED1,PIN_L	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	55;"	d	line:55
+LED2_OFF::PORTClearBits(PORT_LED2,PIN_LE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	51;"	d	line:51
+LED2_ON::PORTSetBits(PORT_LED2,PIN_LED2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	46;"	d	line:46
+LED2_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	41;"	d	line:41
+LED2_TOGGLE::PORTToggleBits(PORT_LED2,PIN_L	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	56;"	d	line:56
+LED3_OFF::PORTClearBits(PORT_LED3,PIN_LE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	52;"	d	line:52
+LED3_ON::PORTSetBits(PORT_LED3,PIN_LED3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	47;"	d	line:47
+LED3_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	42;"	d	line:42
+LED3_TOGGLE::PORTToggleBits(PORT_LED3,PIN_L	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	57;"	d	line:57
+LED4_OFF::PORTClearBits(PORT_LED4,PIN_LE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	53;"	d	line:53
+LED4_ON::PORTSetBits(PORT_LED4,PIN_LED4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	48;"	d	line:48
+LED4_OUTPUT::PORTSetPinsDigitalOut(PORT_LED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	43;"	d	line:43
+LED4_TOGGLE::PORTToggleBits(PORT_LED4,PIN_L	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	58;"	d	line:58
+LONG	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	350;"	t	line:350
+LONGLONG	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	353;"	t	line:353
+LW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	192;"	m	line:192	struct:<anonymous>::__PACKED
+LW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	259;"	m	line:259	struct:<anonymous>::__PACKED
+LW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	407;"	m	line:407	struct:<anonymous>::__PACKED
+LW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	473;"	m	line:473	struct:<anonymous>::__PACKED
+MB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	200;"	m	line:200	struct:<anonymous>::__PACKED
+MB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	415;"	m	line:415	struct:<anonymous>::__PACKED
+MB_ADDRESS_BROADCAST::(0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	38;"	d	line:38
+MB_ADDRESS_MAX::(247)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	40;"	d	line:40
+MB_ADDRESS_MIN::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	39;"	d	line:39
+MB_ASCII	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	88;"	e	line:88
+MB_ASCII_DEFAULT_CR::'	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	52;"	d	line:52	file:
+MB_ASCII_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	50;"	d	line:50
+MB_ASCII_TIMEOUT_SEC::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	64;"	d	line:64
+MB_ASCII_TIMEOUT_WAIT_BEFORE_SEND_MS::(0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	76;"	d	line:76
+MB_EILLSTATE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	120;"	e	line:120
+MB_EINVAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	116;"	e	line:116
+MB_EIO	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	119;"	e	line:119
+MB_ENOERR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	114;"	e	line:114
+MB_ENOREG	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	115;"	e	line:115
+MB_ENORES	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	118;"	e	line:118
+MB_EPORTERR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	117;"	e	line:117
+MB_ETIMEDOUT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	121;"	e	line:121
+MB_EX_ACKNOWLEDGE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	65;"	e	line:65
+MB_EX_GATEWAY_PATH_FAILED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	68;"	e	line:68
+MB_EX_GATEWAY_TGT_FAILED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	69;"	e	line:69
+MB_EX_ILLEGAL_DATA_ADDRESS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	62;"	e	line:62
+MB_EX_ILLEGAL_DATA_VALUE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	63;"	e	line:63
+MB_EX_ILLEGAL_FUNCTION	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	61;"	e	line:61
+MB_EX_MEMORY_PARITY_ERROR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	67;"	e	line:67
+MB_EX_NONE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	60;"	e	line:60
+MB_EX_SLAVE_BUSY	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	66;"	e	line:66
+MB_EX_SLAVE_DEVICE_FAILURE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	64;"	e	line:64
+MB_FUNC_DIAG_DIAGNOSTIC::(8)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	52;"	d	line:52
+MB_FUNC_DIAG_GET_COM_EVENT_CNT::(11)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	53;"	d	line:53
+MB_FUNC_DIAG_GET_COM_EVENT_LOG::(12)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	54;"	d	line:54
+MB_FUNC_DIAG_READ_EXCEPTION::(7)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	51;"	d	line:51
+MB_FUNC_ERROR::(128)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	56;"	d	line:56
+MB_FUNC_HANDLERS_MAX::(16)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	86;"	d	line:86
+MB_FUNC_NONE::(0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	41;"	d	line:41
+MB_FUNC_OTHER_REPORT_SLAVEID::(17)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	55;"	d	line:55
+MB_FUNC_OTHER_REP_SLAVEID_BUF::(32)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	96;"	d	line:96
+MB_FUNC_OTHER_REP_SLAVEID_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	99;"	d	line:99
+MB_FUNC_READWRITE_HOLDING_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	126;"	d	line:126
+MB_FUNC_READWRITE_MULTIPLE_REGISTERS::(23)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	50;"	d	line:50
+MB_FUNC_READ_COILS::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	42;"	d	line:42
+MB_FUNC_READ_COILS_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	114;"	d	line:114
+MB_FUNC_READ_DISCRETE_INPUTS::(2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	43;"	d	line:43
+MB_FUNC_READ_DISCRETE_INPUTS_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	123;"	d	line:123
+MB_FUNC_READ_HOLDING_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	105;"	d	line:105
+MB_FUNC_READ_HOLDING_REGISTER::(3)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	46;"	d	line:46
+MB_FUNC_READ_INPUT_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	102;"	d	line:102
+MB_FUNC_READ_INPUT_REGISTER::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	47;"	d	line:47
+MB_FUNC_WRITE_COIL_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	117;"	d	line:117
+MB_FUNC_WRITE_HOLDING_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	108;"	d	line:108
+MB_FUNC_WRITE_MULTIPLE_COILS::(15)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	45;"	d	line:45
+MB_FUNC_WRITE_MULTIPLE_COILS_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	120;"	d	line:120
+MB_FUNC_WRITE_MULTIPLE_HOLDING_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	111;"	d	line:111
+MB_FUNC_WRITE_MULTIPLE_REGISTERS::(16)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	49;"	d	line:49
+MB_FUNC_WRITE_REGISTER::(6)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	48;"	d	line:48
+MB_FUNC_WRITE_SINGLE_COIL::(5)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	44;"	d	line:44
+MB_PAR_EVEN	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	59;"	e	line:59
+MB_PAR_NONE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	57;"	e	line:57
+MB_PAR_ODD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	58;"	e	line:58
+MB_PDU_DATA_OFF::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	67;"	d	line:67
+MB_PDU_FUNC_OFF::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	66;"	d	line:66
+MB_PDU_FUNC_READWRITE_BYTECNT_OFF::(MB_PDU_DATA_OFF+8)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	65;"	d	line:65	file:
+MB_PDU_FUNC_READWRITE_READ_ADDR_OFF::(MB_PDU_DATA_OFF+0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	61;"	d	line:61	file:
+MB_PDU_FUNC_READWRITE_READ_REGCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	62;"	d	line:62	file:
+MB_PDU_FUNC_READWRITE_SIZE_MIN::(9)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	67;"	d	line:67	file:
+MB_PDU_FUNC_READWRITE_WRITE_ADDR_OFF::(MB_PDU_DATA_OFF+4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	63;"	d	line:63	file:
+MB_PDU_FUNC_READWRITE_WRITE_REGCNT_OFF::(MB_PDU_DATA_OFF+6)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	64;"	d	line:64	file:
+MB_PDU_FUNC_READWRITE_WRITE_VALUES_OFF::(MB_PDU_DATA_OFF+9)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	66;"	d	line:66	file:
+MB_PDU_FUNC_READ_ADDR_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	45;"	d	line:45	file:
+MB_PDU_FUNC_READ_ADDR_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	36;"	d	line:36	file:
+MB_PDU_FUNC_READ_ADDR_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	45;"	d	line:45	file:
+MB_PDU_FUNC_READ_ADDR_OFF::(MB_PDU_DATA_OFF+0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	45;"	d	line:45	file:
+MB_PDU_FUNC_READ_COILCNT_MAX::(0x07D0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	48;"	d	line:48	file:
+MB_PDU_FUNC_READ_COILCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	46;"	d	line:46	file:
+MB_PDU_FUNC_READ_DISCCNT_MAX::(0x07D0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	39;"	d	line:39	file:
+MB_PDU_FUNC_READ_DISCCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	37;"	d	line:37	file:
+MB_PDU_FUNC_READ_REGCNT_MAX::(0x007D)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	48;"	d	line:48	file:
+MB_PDU_FUNC_READ_REGCNT_MAX::(0x007D)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	48;"	d	line:48	file:
+MB_PDU_FUNC_READ_REGCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	46;"	d	line:46	file:
+MB_PDU_FUNC_READ_REGCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	46;"	d	line:46	file:
+MB_PDU_FUNC_READ_RSP_BYTECNT_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	50;"	d	line:50	file:
+MB_PDU_FUNC_READ_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	47;"	d	line:47	file:
+MB_PDU_FUNC_READ_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	38;"	d	line:38	file:
+MB_PDU_FUNC_READ_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	47;"	d	line:47	file:
+MB_PDU_FUNC_READ_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	47;"	d	line:47	file:
+MB_PDU_FUNC_WRITE_ADDR_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	50;"	d	line:50	file:
+MB_PDU_FUNC_WRITE_ADDR_OFF::(MB_PDU_DATA_OFF+0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	50;"	d	line:50	file:
+MB_PDU_FUNC_WRITE_MUL_ADDR_OFF::(MB_PDU_DATA_OFF)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	54;"	d	line:54	file:
+MB_PDU_FUNC_WRITE_MUL_ADDR_OFF::(MB_PDU_DATA_OFF+0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	54;"	d	line:54	file:
+MB_PDU_FUNC_WRITE_MUL_BYTECNT_OFF::(MB_PDU_DATA_OFF+4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	56;"	d	line:56	file:
+MB_PDU_FUNC_WRITE_MUL_BYTECNT_OFF::(MB_PDU_DATA_OFF+4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	56;"	d	line:56	file:
+MB_PDU_FUNC_WRITE_MUL_COILCNT_MAX::(0x07B0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	59;"	d	line:59	file:
+MB_PDU_FUNC_WRITE_MUL_COILCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	55;"	d	line:55	file:
+MB_PDU_FUNC_WRITE_MUL_REGCNT_MAX::(0x0078)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	59;"	d	line:59	file:
+MB_PDU_FUNC_WRITE_MUL_REGCNT_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	55;"	d	line:55	file:
+MB_PDU_FUNC_WRITE_MUL_SIZE_MIN::(5)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	58;"	d	line:58	file:
+MB_PDU_FUNC_WRITE_MUL_SIZE_MIN::(5)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	58;"	d	line:58	file:
+MB_PDU_FUNC_WRITE_MUL_VALUES_OFF::(MB_PDU_DATA_OFF+5)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	57;"	d	line:57	file:
+MB_PDU_FUNC_WRITE_MUL_VALUES_OFF::(MB_PDU_DATA_OFF+5)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	57;"	d	line:57	file:
+MB_PDU_FUNC_WRITE_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	52;"	d	line:52	file:
+MB_PDU_FUNC_WRITE_SIZE::(4)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	52;"	d	line:52	file:
+MB_PDU_FUNC_WRITE_VALUE_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	51;"	d	line:51	file:
+MB_PDU_FUNC_WRITE_VALUE_OFF::(MB_PDU_DATA_OFF+2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	51;"	d	line:51	file:
+MB_PDU_SIZE_MAX::253	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	64;"	d	line:64
+MB_PDU_SIZE_MIN::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	65;"	d	line:65
+MB_PORT_HAS_CLOSE::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	57;"	d	line:57	file:
+MB_REG_READ	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	105;"	e	line:105
+MB_REG_WRITE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	106;"	e	line:106
+MB_RTU	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	87;"	e	line:87
+MB_RTU_ENABLED::(1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	53;"	d	line:53
+MB_SER_PDU_ADDR_OFF::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	55;"	d	line:55	file:
+MB_SER_PDU_ADDR_OFF::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	50;"	d	line:50	file:
+MB_SER_PDU_PDU_OFF::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	56;"	d	line:56	file:
+MB_SER_PDU_PDU_OFF::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	51;"	d	line:51	file:
+MB_SER_PDU_SIZE_CRC::2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	49;"	d	line:49	file:
+MB_SER_PDU_SIZE_LRC::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	54;"	d	line:54	file:
+MB_SER_PDU_SIZE_MAX::256	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	53;"	d	line:53	file:
+MB_SER_PDU_SIZE_MAX::256	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	48;"	d	line:48	file:
+MB_SER_PDU_SIZE_MIN::4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	47;"	d	line:47	file:
+MB_TCP	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	89;"	e	line:89
+MB_TCP_ENABLED::(0)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	56;"	d	line:56
+MB_TCP_FUNC::7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	74;"	d	line:74	file:
+MB_TCP_LEN::4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	72;"	d	line:72	file:
+MB_TCP_PID::2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	71;"	d	line:71	file:
+MB_TCP_PORT_USE_DEFAULT::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	74;"	d	line:74
+MB_TCP_PROTOCOL_ID::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	76;"	d	line:76	file:
+MB_TCP_PSEUDO_ADDRESS::255	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	39;"	d	line:39
+MB_TCP_TID::0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	70;"	d	line:70	file:
+MB_TCP_UID::6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	73;"	d	line:73	file:
+MW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	262;"	m	line:262	struct:<anonymous>::__PACKED
+MW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	476;"	m	line:476	struct:<anonymous>::__PACKED
+PIN_LED1::BIT_8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	27;"	d	line:27
+PIN_LED2::BIT_9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	29;"	d	line:29
+PIN_LED3::BIT_10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	31;"	d	line:31
+PIN_LED4::BIT_11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	33;"	d	line:33
+PIN_SW1::BIT_12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	36;"	d	line:36
+PIN_SW2::BIT_13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	38;"	d	line:38
+PORT_LED1::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	26;"	d	line:26
+PORT_LED2::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	28;"	d	line:28
+PORT_LED3::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	30;"	d	line:30
+PORT_LED4::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	32;"	d	line:32
+PORT_SW1::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	35;"	d	line:35
+PORT_SW2::IOPORT_B	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	37;"	d	line:37
+PRIVATE::static	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	70;"	d	line:70
+PROTECTED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	69;"	d	line:69
+PR_BEGIN_EXTERN_C::extern"C"{	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	32;"	d	line:32
+PR_END_EXTERN_C::}	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	33;"	d	line:33
+PUBLIC::	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	68;"	d	line:68
+QWORD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	347;"	t	line:347
+QWORD_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	545;"	t	line:545
+REG_HOLDING_NREGS::100	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	19;"	d	line:19	file:
+REG_HOLDING_START::2000	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	18;"	d	line:18	file:
+REG_INPUT_NREGS::4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	17;"	d	line:17	file:
+REG_INPUT_START::1000	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	16;"	d	line:16	file:
+SET	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	e	line:66	enum:_BIT
+SHORT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	349;"	t	line:349
+STATE_DISABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	68;"	e	line:68	file:
+STATE_ENABLED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	67;"	e	line:67	file:
+STATE_NOT_INITIALIZED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	69;"	e	line:69	file:
+STATE_RX_ERROR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	59;"	e	line:59	file:
+STATE_RX_IDLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	61;"	e	line:61	file:
+STATE_RX_IDLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	57;"	e	line:57	file:
+STATE_RX_INIT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	56;"	e	line:56	file:
+STATE_RX_RCV	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	62;"	e	line:62	file:
+STATE_RX_RCV	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	58;"	e	line:58	file:
+STATE_RX_WAIT_EOF	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	63;"	e	line:63	file:
+STATE_TX_DATA	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	70;"	e	line:70	file:
+STATE_TX_END	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	71;"	e	line:71	file:
+STATE_TX_IDLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	68;"	e	line:68	file:
+STATE_TX_IDLE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	64;"	e	line:64	file:
+STATE_TX_NOTIFY	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	72;"	e	line:72	file:
+STATE_TX_START	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	69;"	e	line:69	file:
+STATE_TX_XMIT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	65;"	e	line:65	file:
+SW1_INPUT::PORTSetPinsDigitalIn(PORT_SW1,	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	60;"	d	line:60
+SW1_STATUS::PORTReadBits(PORT_SW1,PIN_SW1)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	63;"	d	line:63
+SW2_INPUT::PORTSetPinsDigitalIn(PORT_SW2,	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	61;"	d	line:61
+SW2_STATUS::PORTReadBits(PORT_SW2,PIN_SW2)	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\HardwareProfileSkP32.h	64;"	d	line:64
+TRUE	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	e	line:65	enum:_BOOL
+TRUE::1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	47;"	d	line:47
+UB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	153;"	m	line:153	struct:<anonymous>::__PACKED
+UB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	199;"	m	line:199	struct:<anonymous>::__PACKED
+UB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	414;"	m	line:414	struct:<anonymous>::__PACKED
+UCHAR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	39;"	t	line:39
+UCHAR8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	340;"	t	line:340
+UINT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	84;"	t	line:84
+UINT16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	86;"	t	line:86
+UINT16_BITS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	141;"	t	line:141
+UINT16_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	141;"	t	line:141
+UINT24	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	89;"	t	line:89
+UINT24_BITS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	182;"	t	line:182
+UINT24_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	182;"	t	line:182
+UINT32	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	91;"	t	line:91
+UINT32_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	242;"	t	line:242
+UINT64	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	94;"	t	line:94
+UINT64_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	331;"	t	line:331
+UINT8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	85;"	t	line:85
+UINT8_BITS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	111;"	t	line:111
+UINT8_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	111;"	t	line:111
+ULONG	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	43;"	t	line:43
+USHORT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	41;"	t	line:41
+UW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	261;"	m	line:261	struct:<anonymous>::__PACKED
+UW	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	475;"	m	line:475	struct:<anonymous>::__PACKED
+VOID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	337;"	t	line:337
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	115;"	m	line:115
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	147;"	m	line:147
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	187;"	m	line:187
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	248;"	m	line:248
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	356;"	m	line:356
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	372;"	m	line:372
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	402;"	m	line:402
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	462;"	m	line:462
+Val	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	99;"	m	line:99
+WORD	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	343;"	t	line:343
+WORD_BITS	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	398;"	t	line:398
+WORD_VAL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	398;"	t	line:398
+_BIT	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	66;"	g	line:66
+_BOOL	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	65;"	g	line:65
+_MB_ASCII_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	32;"	d	line:32
+_MB_CONFIG_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbconfig.h	32;"	d	line:32
+_MB_CRC_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.h	32;"	d	line:32
+_MB_FRAME_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	32;"	d	line:32
+_MB_FUNC_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	32;"	d	line:32
+_MB_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	32;"	d	line:32
+_MB_PORT_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	32;"	d	line:32
+_MB_PROTO_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	32;"	d	line:32
+_MB_RTU_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	32;"	d	line:32
+_MB_TCP_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	32;"	d	line:32
+_MB_UTILS_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbutils.h	32;"	d	line:32
+_PORT_H	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\port.h	23;"	d	line:23
+__EXTENSION	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	547;"	d	line:547
+__EXTENSION	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	55;"	d	line:55
+__EXTENSION::__extension__	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	53;"	d	line:53
+__GENERIC_TYPE_DEFS1_H_	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	49;"	d	line:49
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	116;"	m	line:116
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	117;"	s	line:117
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	122;"	s	line:122
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	148;"	m	line:148
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	149;"	s	line:149
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	155;"	s	line:155
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	188;"	m	line:188
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	189;"	m	line:189
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	190;"	s	line:190
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	195;"	s	line:195
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	202;"	s	line:202
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	207;"	s	line:207
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	249;"	m	line:249
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	250;"	m	line:250
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	251;"	m	line:251
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	252;"	s	line:252
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	257;"	s	line:257
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	264;"	s	line:264
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	357;"	s	line:357
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	373;"	m	line:373
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	374;"	s	line:374
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	379;"	s	line:379
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	403;"	m	line:403
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	404;"	m	line:404
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	405;"	s	line:405
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	410;"	s	line:410
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	417;"	s	line:417
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	422;"	s	line:422
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	463;"	m	line:463
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	464;"	m	line:464
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	465;"	m	line:465
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	466;"	s	line:466
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	471;"	s	line:471
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	478;"	s	line:478
+__PACKED	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	59;"	d	line:59
+assert	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	157;"	f	line:157	signature:( usRcvBufferPos < MB_SER_PDU_SIZE_MAX ); if( ( usRcvBufferPos >= MB_SER_PDU_SIZE_MIN )
+assert	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	157;"	f	line:157	signature:( usRcvBufferPos < MB_SER_PDU_SIZE_MAX ); if( ( usRcvBufferPos >= MB_SER_PDU_SIZE_MIN )
+aucCRCHi	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	34;"	v	line:34	file:
+aucCRCLo	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	59;"	v	line:59	file:
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	102;"	m	line:102
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	124;"	m	line:124	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	157;"	m	line:157	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	209;"	m	line:209	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	266;"	m	line:266	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	359;"	m	line:359	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	381;"	m	line:381	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	424;"	m	line:424	struct:<anonymous>::__PACKED
+b0	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	480;"	m	line:480	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	103;"	m	line:103
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	125;"	m	line:125	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	158;"	m	line:158	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	210;"	m	line:210	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	267;"	m	line:267	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	360;"	m	line:360	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	382;"	m	line:382	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	425;"	m	line:425	struct:<anonymous>::__PACKED
+b1	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	481;"	m	line:481	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	134;"	m	line:134	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	167;"	m	line:167	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	219;"	m	line:219	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	276;"	m	line:276	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	391;"	m	line:391	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	434;"	m	line:434	struct:<anonymous>::__PACKED
+b10	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	490;"	m	line:490	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	135;"	m	line:135	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	168;"	m	line:168	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	220;"	m	line:220	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	277;"	m	line:277	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	392;"	m	line:392	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	435;"	m	line:435	struct:<anonymous>::__PACKED
+b11	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	491;"	m	line:491	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	136;"	m	line:136	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	169;"	m	line:169	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	221;"	m	line:221	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	278;"	m	line:278	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	393;"	m	line:393	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	436;"	m	line:436	struct:<anonymous>::__PACKED
+b12	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	492;"	m	line:492	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	137;"	m	line:137	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	170;"	m	line:170	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	222;"	m	line:222	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	279;"	m	line:279	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	394;"	m	line:394	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	437;"	m	line:437	struct:<anonymous>::__PACKED
+b13	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	493;"	m	line:493	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	138;"	m	line:138	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	171;"	m	line:171	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	223;"	m	line:223	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	280;"	m	line:280	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	395;"	m	line:395	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	438;"	m	line:438	struct:<anonymous>::__PACKED
+b14	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	494;"	m	line:494	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	139;"	m	line:139	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	172;"	m	line:172	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	224;"	m	line:224	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	281;"	m	line:281	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	396;"	m	line:396	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	439;"	m	line:439	struct:<anonymous>::__PACKED
+b15	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	495;"	m	line:495	struct:<anonymous>::__PACKED
+b16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	173;"	m	line:173	struct:<anonymous>::__PACKED
+b16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	225;"	m	line:225	struct:<anonymous>::__PACKED
+b16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	282;"	m	line:282	struct:<anonymous>::__PACKED
+b16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	440;"	m	line:440	struct:<anonymous>::__PACKED
+b16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	496;"	m	line:496	struct:<anonymous>::__PACKED
+b17	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	174;"	m	line:174	struct:<anonymous>::__PACKED
+b17	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	226;"	m	line:226	struct:<anonymous>::__PACKED
+b17	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	283;"	m	line:283	struct:<anonymous>::__PACKED
+b17	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	441;"	m	line:441	struct:<anonymous>::__PACKED
+b17	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	497;"	m	line:497	struct:<anonymous>::__PACKED
+b18	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	175;"	m	line:175	struct:<anonymous>::__PACKED
+b18	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	227;"	m	line:227	struct:<anonymous>::__PACKED
+b18	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	284;"	m	line:284	struct:<anonymous>::__PACKED
+b18	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	442;"	m	line:442	struct:<anonymous>::__PACKED
+b18	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	498;"	m	line:498	struct:<anonymous>::__PACKED
+b19	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	176;"	m	line:176	struct:<anonymous>::__PACKED
+b19	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	228;"	m	line:228	struct:<anonymous>::__PACKED
+b19	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	285;"	m	line:285	struct:<anonymous>::__PACKED
+b19	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	443;"	m	line:443	struct:<anonymous>::__PACKED
+b19	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	499;"	m	line:499	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	104;"	m	line:104
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	126;"	m	line:126	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	159;"	m	line:159	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	211;"	m	line:211	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	268;"	m	line:268	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	361;"	m	line:361	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	383;"	m	line:383	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	426;"	m	line:426	struct:<anonymous>::__PACKED
+b2	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	482;"	m	line:482	struct:<anonymous>::__PACKED
+b20	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	177;"	m	line:177	struct:<anonymous>::__PACKED
+b20	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	229;"	m	line:229	struct:<anonymous>::__PACKED
+b20	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	286;"	m	line:286	struct:<anonymous>::__PACKED
+b20	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	444;"	m	line:444	struct:<anonymous>::__PACKED
+b20	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	500;"	m	line:500	struct:<anonymous>::__PACKED
+b21	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	178;"	m	line:178	struct:<anonymous>::__PACKED
+b21	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	230;"	m	line:230	struct:<anonymous>::__PACKED
+b21	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	287;"	m	line:287	struct:<anonymous>::__PACKED
+b21	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	445;"	m	line:445	struct:<anonymous>::__PACKED
+b21	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	501;"	m	line:501	struct:<anonymous>::__PACKED
+b22	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	179;"	m	line:179	struct:<anonymous>::__PACKED
+b22	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	231;"	m	line:231	struct:<anonymous>::__PACKED
+b22	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	288;"	m	line:288	struct:<anonymous>::__PACKED
+b22	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	446;"	m	line:446	struct:<anonymous>::__PACKED
+b22	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	502;"	m	line:502	struct:<anonymous>::__PACKED
+b23	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	180;"	m	line:180	struct:<anonymous>::__PACKED
+b23	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	232;"	m	line:232	struct:<anonymous>::__PACKED
+b23	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	289;"	m	line:289	struct:<anonymous>::__PACKED
+b23	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	447;"	m	line:447	struct:<anonymous>::__PACKED
+b23	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	503;"	m	line:503	struct:<anonymous>::__PACKED
+b24	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	233;"	m	line:233	struct:<anonymous>::__PACKED
+b24	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	290;"	m	line:290	struct:<anonymous>::__PACKED
+b24	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	448;"	m	line:448	struct:<anonymous>::__PACKED
+b24	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	504;"	m	line:504	struct:<anonymous>::__PACKED
+b25	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	234;"	m	line:234	struct:<anonymous>::__PACKED
+b25	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	291;"	m	line:291	struct:<anonymous>::__PACKED
+b25	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	449;"	m	line:449	struct:<anonymous>::__PACKED
+b25	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	505;"	m	line:505	struct:<anonymous>::__PACKED
+b26	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	235;"	m	line:235	struct:<anonymous>::__PACKED
+b26	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	292;"	m	line:292	struct:<anonymous>::__PACKED
+b26	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	450;"	m	line:450	struct:<anonymous>::__PACKED
+b26	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	506;"	m	line:506	struct:<anonymous>::__PACKED
+b27	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	236;"	m	line:236	struct:<anonymous>::__PACKED
+b27	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	293;"	m	line:293	struct:<anonymous>::__PACKED
+b27	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	451;"	m	line:451	struct:<anonymous>::__PACKED
+b27	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	507;"	m	line:507	struct:<anonymous>::__PACKED
+b28	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	237;"	m	line:237	struct:<anonymous>::__PACKED
+b28	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	294;"	m	line:294	struct:<anonymous>::__PACKED
+b28	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	452;"	m	line:452	struct:<anonymous>::__PACKED
+b28	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	508;"	m	line:508	struct:<anonymous>::__PACKED
+b29	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	238;"	m	line:238	struct:<anonymous>::__PACKED
+b29	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	295;"	m	line:295	struct:<anonymous>::__PACKED
+b29	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	453;"	m	line:453	struct:<anonymous>::__PACKED
+b29	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	509;"	m	line:509	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	105;"	m	line:105
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	127;"	m	line:127	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	160;"	m	line:160	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	212;"	m	line:212	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	269;"	m	line:269	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	362;"	m	line:362	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	384;"	m	line:384	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	427;"	m	line:427	struct:<anonymous>::__PACKED
+b3	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	483;"	m	line:483	struct:<anonymous>::__PACKED
+b30	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	239;"	m	line:239	struct:<anonymous>::__PACKED
+b30	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	296;"	m	line:296	struct:<anonymous>::__PACKED
+b30	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	454;"	m	line:454	struct:<anonymous>::__PACKED
+b30	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	510;"	m	line:510	struct:<anonymous>::__PACKED
+b31	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	240;"	m	line:240	struct:<anonymous>::__PACKED
+b31	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	297;"	m	line:297	struct:<anonymous>::__PACKED
+b31	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	455;"	m	line:455	struct:<anonymous>::__PACKED
+b31	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	511;"	m	line:511	struct:<anonymous>::__PACKED
+b32	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	298;"	m	line:298	struct:<anonymous>::__PACKED
+b32	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	512;"	m	line:512	struct:<anonymous>::__PACKED
+b33	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	299;"	m	line:299	struct:<anonymous>::__PACKED
+b33	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	513;"	m	line:513	struct:<anonymous>::__PACKED
+b34	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	300;"	m	line:300	struct:<anonymous>::__PACKED
+b34	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	514;"	m	line:514	struct:<anonymous>::__PACKED
+b35	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	301;"	m	line:301	struct:<anonymous>::__PACKED
+b35	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	515;"	m	line:515	struct:<anonymous>::__PACKED
+b36	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	302;"	m	line:302	struct:<anonymous>::__PACKED
+b36	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	516;"	m	line:516	struct:<anonymous>::__PACKED
+b37	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	303;"	m	line:303	struct:<anonymous>::__PACKED
+b37	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	517;"	m	line:517	struct:<anonymous>::__PACKED
+b38	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	304;"	m	line:304	struct:<anonymous>::__PACKED
+b38	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	518;"	m	line:518	struct:<anonymous>::__PACKED
+b39	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	305;"	m	line:305	struct:<anonymous>::__PACKED
+b39	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	519;"	m	line:519	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	106;"	m	line:106
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	128;"	m	line:128	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	161;"	m	line:161	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	213;"	m	line:213	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	270;"	m	line:270	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	363;"	m	line:363	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	385;"	m	line:385	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	428;"	m	line:428	struct:<anonymous>::__PACKED
+b4	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	484;"	m	line:484	struct:<anonymous>::__PACKED
+b40	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	306;"	m	line:306	struct:<anonymous>::__PACKED
+b40	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	520;"	m	line:520	struct:<anonymous>::__PACKED
+b41	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	307;"	m	line:307	struct:<anonymous>::__PACKED
+b41	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	521;"	m	line:521	struct:<anonymous>::__PACKED
+b42	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	308;"	m	line:308	struct:<anonymous>::__PACKED
+b42	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	522;"	m	line:522	struct:<anonymous>::__PACKED
+b43	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	309;"	m	line:309	struct:<anonymous>::__PACKED
+b43	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	523;"	m	line:523	struct:<anonymous>::__PACKED
+b44	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	310;"	m	line:310	struct:<anonymous>::__PACKED
+b44	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	524;"	m	line:524	struct:<anonymous>::__PACKED
+b45	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	311;"	m	line:311	struct:<anonymous>::__PACKED
+b45	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	525;"	m	line:525	struct:<anonymous>::__PACKED
+b46	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	312;"	m	line:312	struct:<anonymous>::__PACKED
+b46	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	526;"	m	line:526	struct:<anonymous>::__PACKED
+b47	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	313;"	m	line:313	struct:<anonymous>::__PACKED
+b47	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	527;"	m	line:527	struct:<anonymous>::__PACKED
+b48	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	314;"	m	line:314	struct:<anonymous>::__PACKED
+b48	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	528;"	m	line:528	struct:<anonymous>::__PACKED
+b49	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	315;"	m	line:315	struct:<anonymous>::__PACKED
+b49	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	529;"	m	line:529	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	107;"	m	line:107
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	129;"	m	line:129	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	162;"	m	line:162	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	214;"	m	line:214	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	271;"	m	line:271	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	364;"	m	line:364	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	386;"	m	line:386	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	429;"	m	line:429	struct:<anonymous>::__PACKED
+b5	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	485;"	m	line:485	struct:<anonymous>::__PACKED
+b50	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	316;"	m	line:316	struct:<anonymous>::__PACKED
+b50	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	530;"	m	line:530	struct:<anonymous>::__PACKED
+b51	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	317;"	m	line:317	struct:<anonymous>::__PACKED
+b51	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	531;"	m	line:531	struct:<anonymous>::__PACKED
+b52	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	318;"	m	line:318	struct:<anonymous>::__PACKED
+b52	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	532;"	m	line:532	struct:<anonymous>::__PACKED
+b53	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	319;"	m	line:319	struct:<anonymous>::__PACKED
+b53	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	533;"	m	line:533	struct:<anonymous>::__PACKED
+b54	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	320;"	m	line:320	struct:<anonymous>::__PACKED
+b54	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	534;"	m	line:534	struct:<anonymous>::__PACKED
+b55	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	321;"	m	line:321	struct:<anonymous>::__PACKED
+b55	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	535;"	m	line:535	struct:<anonymous>::__PACKED
+b56	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	322;"	m	line:322	struct:<anonymous>::__PACKED
+b56	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	536;"	m	line:536	struct:<anonymous>::__PACKED
+b57	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	323;"	m	line:323	struct:<anonymous>::__PACKED
+b57	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	537;"	m	line:537	struct:<anonymous>::__PACKED
+b58	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	324;"	m	line:324	struct:<anonymous>::__PACKED
+b58	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	538;"	m	line:538	struct:<anonymous>::__PACKED
+b59	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	325;"	m	line:325	struct:<anonymous>::__PACKED
+b59	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	539;"	m	line:539	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	108;"	m	line:108
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	130;"	m	line:130	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	163;"	m	line:163	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	215;"	m	line:215	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	272;"	m	line:272	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	365;"	m	line:365	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	387;"	m	line:387	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	430;"	m	line:430	struct:<anonymous>::__PACKED
+b6	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	486;"	m	line:486	struct:<anonymous>::__PACKED
+b60	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	326;"	m	line:326	struct:<anonymous>::__PACKED
+b60	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	540;"	m	line:540	struct:<anonymous>::__PACKED
+b61	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	327;"	m	line:327	struct:<anonymous>::__PACKED
+b61	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	541;"	m	line:541	struct:<anonymous>::__PACKED
+b62	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	328;"	m	line:328	struct:<anonymous>::__PACKED
+b62	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	542;"	m	line:542	struct:<anonymous>::__PACKED
+b63	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	329;"	m	line:329	struct:<anonymous>::__PACKED
+b63	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	543;"	m	line:543	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	109;"	m	line:109
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	131;"	m	line:131	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	164;"	m	line:164	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	216;"	m	line:216	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	273;"	m	line:273	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	366;"	m	line:366	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	388;"	m	line:388	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	431;"	m	line:431	struct:<anonymous>::__PACKED
+b7	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	487;"	m	line:487	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	132;"	m	line:132	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	165;"	m	line:165	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	217;"	m	line:217	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	274;"	m	line:274	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	389;"	m	line:389	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	432;"	m	line:432	struct:<anonymous>::__PACKED
+b8	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	488;"	m	line:488	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	133;"	m	line:133	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	166;"	m	line:166	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	218;"	m	line:218	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	275;"	m	line:275	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	390;"	m	line:390	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	433;"	m	line:433	struct:<anonymous>::__PACKED
+b9	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	489;"	m	line:489	struct:<anonymous>::__PACKED
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	110;"	m	line:110
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	140;"	m	line:140
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	181;"	m	line:181
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	241;"	m	line:241
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	330;"	m	line:330
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	367;"	m	line:367
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	397;"	m	line:397
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	456;"	m	line:456
+bits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	544;"	m	line:544
+byte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	121;"	m	line:121
+byte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	154;"	m	line:154
+byte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	201;"	m	line:201
+byte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	378;"	m	line:378
+byte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	416;"	m	line:416
+cyclesRequiredForEntireDelay	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	179;"	l	line:179
+cyclesRequiredForEntireDelay	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Common\TimeDelay.c	71;"	l	line:71
+dword	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	256;"	m	line:256
+dword	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	470;"	m	line:470
+eBytePos	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	98;"	v	line:98	file:
+eBytePosSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	190;"	l	line:190
+eEvent	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	342;"	l	line:342
+eException	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	338;"	l	line:338	file:
+eMBASCIIInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	108;"	f	line:108	signature:( UCHAR ucSlaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBASCIIInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	39;"	p	line:39	signature:( UCHAR slaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBASCIIReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	152;"	f	line:152	signature:( UCHAR * pucRcvAddress, UCHAR ** pucFrame, USHORT * pusLength )
+eMBASCIIReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	44;"	p	line:44	signature:( UCHAR * pucRcvAddress, UCHAR ** pucFrame, USHORT * pusLength )
+eMBASCIISend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	185;"	f	line:185	signature:( UCHAR ucSlaveAddress, const UCHAR * pucFrame, USHORT usLength )
+eMBASCIISend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	46;"	p	line:46	signature:( UCHAR slaveAddress, const UCHAR * pucFrame, USHORT usLength )
+eMBASCIIStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	131;"	f	line:131	signature:( void )
+eMBASCIIStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	41;"	p	line:41	signature:( void )
+eMBASCIIStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	143;"	f	line:143	signature:( void )
+eMBASCIIStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	42;"	p	line:42	signature:( void )
+eMBBytePos	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	79;"	t	line:79	file:
+eMBClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	184;"	p	line:184	signature:( void )
+eMBClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	273;"	f	line:273	signature:( void )
+eMBCurrentMode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	63;"	v	line:63	file:
+eMBDisable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	207;"	p	line:207	signature:( void )
+eMBDisable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	310;"	f	line:310	signature:( void )
+eMBEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	196;"	p	line:196	signature:( void )
+eMBEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	292;"	f	line:292	signature:( void )
+eMBErrorCode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	122;"	t	line:122
+eMBEventType	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	46;"	t	line:46
+eMBException	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	70;"	t	line:70
+eMBFuncReadCoils	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	69;"	f	line:69	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadCoils	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	58;"	p	line:58	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadDiscreteInputs	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	49;"	f	line:49	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadDiscreteInputs	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	70;"	p	line:70	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	170;"	f	line:170	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	46;"	p	line:46	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadInputRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	59;"	f	line:59	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadInputRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	42;"	p	line:42	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadWriteMultipleHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	235;"	f	line:235	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReadWriteMultipleHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	74;"	p	line:74	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReportSlaveID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncother.c	81;"	f	line:81	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncReportSlaveID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	38;"	p	line:38	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteCoil	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	148;"	f	line:148	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteCoil	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	62;"	p	line:62	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	77;"	f	line:77	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	50;"	p	line:50	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteMultipleCoils	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	202;"	f	line:202	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteMultipleCoils	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	66;"	p	line:66	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteMultipleHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	110;"	f	line:110	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBFuncWriteMultipleHoldingRegister	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbfunc.h	54;"	p	line:54	signature:( UCHAR * pucFrame, USHORT * usLen )
+eMBInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	151;"	p	line:151	signature:( eMBMode eMode, UCHAR ucSlaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	130;"	f	line:130	signature:( eMBMode eMode, UCHAR ucSlaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBMode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	90;"	t	line:90
+eMBParity	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	60;"	t	line:60
+eMBPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	46;"	p	line:46	file:
+eMBPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	221;"	p	line:221	signature:( void )
+eMBPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	332;"	f	line:332	signature:( void )
+eMBRTUInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	81;"	f	line:81	signature:( UCHAR ucSlaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBRTUInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	37;"	p	line:37	signature:( UCHAR slaveAddress, UCHAR ucPort, ULONG ulBaudRate, eMBParity eParity )
+eMBRTUReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	151;"	f	line:151	signature:( UCHAR * pucRcvAddress, UCHAR ** pucFrame, USHORT * pusLength )
+eMBRTUReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	41;"	p	line:41	signature:( UCHAR * pucRcvAddress, UCHAR ** pucFrame, USHORT * pusLength )
+eMBRTUSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	187;"	f	line:187	signature:( UCHAR ucSlaveAddress, const UCHAR * pucFrame, USHORT usLength )
+eMBRTUSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	42;"	p	line:42	signature:( UCHAR slaveAddress, const UCHAR * pucFrame, USHORT usLength )
+eMBRTUStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	126;"	f	line:126	signature:( void )
+eMBRTUStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	39;"	p	line:39	signature:( void )
+eMBRTUStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	142;"	f	line:142	signature:( void )
+eMBRTUStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	40;"	p	line:40	signature:( void )
+eMBRcvState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	64;"	t	line:64	file:
+eMBRcvState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	60;"	t	line:60	file:
+eMBRegCoilsCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	127;"	f	line:127	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNCoils, eMBRegisterMode eMode )
+eMBRegCoilsCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	382;"	p	line:382	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNCoils, eMBRegisterMode eMode )
+eMBRegDiscreteCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	134;"	f	line:134	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNDiscrete )
+eMBRegDiscreteCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	411;"	p	line:411	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNDiscrete )
+eMBRegHoldingCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	83;"	f	line:83	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNRegs, eMBRegisterMode eMode )
+eMBRegHoldingCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	347;"	p	line:347	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNRegs, eMBRegisterMode eMode )
+eMBRegInputCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	55;"	f	line:55	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNRegs )
+eMBRegInputCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	312;"	p	line:312	signature:( UCHAR * pucRegBuffer, USHORT usAddress, USHORT usNRegs )
+eMBRegisterCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	265;"	p	line:265	signature:( UCHAR ucFunctionCode, pxMBFunctionHandler pxHandler )
+eMBRegisterCB	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	226;"	f	line:226	signature:( UCHAR ucFunctionCode, pxMBFunctionHandler pxHandler )
+eMBRegisterMode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	107;"	t	line:107
+eMBSetSlaveID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncother.c	53;"	f	line:53	signature:( UCHAR ucSlaveID, BOOL xIsRunning, UCHAR const *pucAdditional, USHORT usAdditionalLen )
+eMBSetSlaveID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	241;"	p	line:241	signature:( UCHAR ucSlaveID, BOOL xIsRunning, UCHAR const *pucAdditional, USHORT usAdditionalLen )
+eMBSndState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	73;"	t	line:73	file:
+eMBSndState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	66;"	t	line:66	file:
+eMBState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	70;"	v	line:70	file:
+eMBTCPDoInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	81;"	f	line:81	signature:( USHORT ucTCPPort )
+eMBTCPDoInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	42;"	p	line:42	signature:( USHORT ucTCPPort )
+eMBTCPInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mb.h	168;"	p	line:168	signature:( USHORT usTCPPort )
+eMBTCPInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	197;"	f	line:197	signature:( USHORT ucTCPPort )
+eMBTCPReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	105;"	f	line:105	signature:( UCHAR * pucRcvAddress, UCHAR ** ppucFrame, USHORT * pusLength )
+eMBTCPReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	45;"	p	line:45	signature:( UCHAR * pucRcvAddress, UCHAR ** pucFrame, USHORT * pusLength )
+eMBTCPSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	137;"	f	line:137	signature:( UCHAR _unused, const UCHAR * pucFrame, USHORT usLength )
+eMBTCPSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	47;"	p	line:47	signature:( UCHAR _unused, const UCHAR * pucFrame, USHORT usLength )
+eMBTCPStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	93;"	f	line:93	signature:( void )
+eMBTCPStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	43;"	p	line:43	signature:( void )
+eMBTCPStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	98;"	f	line:98	signature:( void )
+eMBTCPStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.h	44;"	p	line:44	signature:( void )
+eQueuedEvent	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	27;"	v	line:27	file:
+eRcvState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	90;"	v	line:90	file:
+eRcvState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	70;"	v	line:70	file:
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	154;"	l	line:154
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	210;"	l	line:210
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	77;"	l	line:77
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	57;"	l	line:57
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	117;"	l	line:117
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	177;"	l	line:177
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	245;"	l	line:245
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	81;"	l	line:81
+eRegStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	66;"	l	line:66
+eSndState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	89;"	v	line:89	file:
+eSndState	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	69;"	v	line:69	file:
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	57;"	l	line:57
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	86;"	l	line:86
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	110;"	l	line:110
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	154;"	l	line:154
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	187;"	l	line:187
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	153;"	l	line:153
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	209;"	l	line:209
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	76;"	l	line:76
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	56;"	l	line:56
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	116;"	l	line:116
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	176;"	l	line:176
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	244;"	l	line:244
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	80;"	l	line:80
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	65;"	l	line:65
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncother.c	56;"	l	line:56
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	132;"	l	line:132
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	199;"	l	line:199
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	229;"	l	line:229
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	275;"	l	line:275
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	294;"	l	line:294
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	312;"	l	line:312
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	341;"	l	line:341
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	154;"	l	line:154
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	189;"	l	line:189
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	83;"	l	line:83
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	107;"	l	line:107
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	139;"	l	line:139
+eStatus	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	83;"	l	line:83
+high	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	205;"	m	line:205	struct:<anonymous>::__PACKED
+high	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	420;"	m	line:420	struct:<anonymous>::__PACKED
+i	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	228;"	l	line:228
+i	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	340;"	l	line:340
+iIndex	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	89;"	l	line:89
+iRegIndex	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	58;"	l	line:58
+iRegIndex	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	87;"	l	line:87
+low	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	204;"	m	line:204	struct:<anonymous>::__PACKED
+low	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	419;"	m	line:419	struct:<anonymous>::__PACKED
+main	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	26;"	f	line:26
+peMBFrameReceive	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	74;"	t	line:74
+peMBFrameReceiveCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	78;"	v	line:78	file:
+peMBFrameSend	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	78;"	t	line:78
+peMBFrameSendCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	75;"	v	line:75	file:
+prveMBError2Exception	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	62;"	p	line:62	file:	signature:( eMBErrorCode eErrorCode )
+prveMBError2Exception	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	42;"	p	line:42	file:	signature:( eMBErrorCode eErrorCode )
+prveMBError2Exception	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	70;"	p	line:70	file:	signature:( eMBErrorCode eErrorCode )
+prveMBError2Exception	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	53;"	p	line:53	file:	signature:( eMBErrorCode eErrorCode )
+prvucMBBIN2CHAR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	478;"	f	line:478	file:	signature:( UCHAR ucByte )
+prvucMBBIN2CHAR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	84;"	p	line:84	file:	signature:( UCHAR ucByte )
+prvucMBCHAR2BIN	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	461;"	f	line:461	file:	signature:( UCHAR ucCharacter )
+prvucMBCHAR2BIN	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	82;"	p	line:82	file:	signature:( UCHAR ucCharacter )
+prvucMBLRC	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	498;"	f	line:498	file:	signature:( UCHAR * pucFrame, USHORT usLen )
+prvucMBLRC	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	86;"	p	line:86	file:	signature:( UCHAR * pucFrame, USHORT usLen )
+prvvTIMERExpiredISR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	30;"	p	line:30	file:	signature:( void )
+prvvUARTRxISR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	30;"	p	line:30	file:	signature:( void )
+prvvUARTTxReadyISR	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	29;"	p	line:29	file:	signature:( void )
+pucFrameCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	74;"	l	line:74
+pucFrameCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	54;"	l	line:54
+pucFrameCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	174;"	l	line:174
+pucFrameCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	242;"	l	line:242
+pucFrameCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	63;"	l	line:63
+pucMBTCPFrame	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	108;"	l	line:108
+pucMBTCPFrame	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	140;"	l	line:140
+pucSndBufferCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	100;"	v	line:100	file:
+pucSndBufferCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	74;"	v	line:74	file:
+pvMBFrameClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	82;"	t	line:82
+pvMBFrameCloseCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	79;"	v	line:79	file:
+pvMBFrameStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	70;"	t	line:70
+pvMBFrameStartCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	76;"	v	line:76	file:
+pvMBFrameStop	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbframe.h	72;"	t	line:72
+pvMBFrameStopCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	77;"	v	line:77	file:
+pxHandler	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	77;"	m	line:77
+pxMBFrameCBByteReceived	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	85;"	v	line:85
+pxMBFrameCBReceiveFSMCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	89;"	v	line:89
+pxMBFrameCBTransmitFSMCur	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	90;"	v	line:90
+pxMBFrameCBTransmitterEmpty	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	86;"	v	line:86
+pxMBFunctionHandler	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	72;"	t	line:72
+pxMBPortCBTimerExpired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	68;"	p	line:68	file:
+pxMBPortCBTimerExpired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	87;"	v	line:87
+ucASCIIBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	95;"	v	line:95	file:
+ucBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	151;"	l	line:151
+ucByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	189;"	l	line:189
+ucByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	251;"	l	line:251
+ucByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	360;"	l	line:360
+ucByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	239;"	l	line:239
+ucByteCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	206;"	l	line:206
+ucByteCountVerify	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	207;"	l	line:207
+ucCRCHi	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	87;"	l	line:87
+ucCRCLo	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	88;"	l	line:88
+ucFunctionCode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	76;"	m	line:76
+ucFunctionCode	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	336;"	l	line:336	file:
+ucLRC	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	103;"	v	line:103	file:
+ucLRC	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	500;"	l	line:500
+ucMBAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	62;"	v	line:62	file:
+ucMBFrame	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	334;"	l	line:334	file:
+ucMBLFCharacter	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	104;"	v	line:104	file:
+ucMBSlaveID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncother.c	47;"	v	line:47	file:
+ucNBytes	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	73;"	l	line:73
+ucNBytes	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	53;"	l	line:53
+ucRTUBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	72;"	v	line:72
+ucRcvAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	335;"	l	line:335	file:
+ucRegByteCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	114;"	l	line:114
+ucRegWriteByteCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	241;"	l	line:241
+ucResult	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	252;"	l	line:252
+usByteOffset	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	52;"	l	line:52
+usCRC16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	190;"	l	line:190
+usCoilCnt	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	205;"	l	line:205
+usCoilCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	72;"	l	line:72
+usDiscreteCnt	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	52;"	l	line:52
+usLRC	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	188;"	l	line:188
+usLength	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	337;"	l	line:337	file:
+usLength	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	109;"	l	line:109
+usMBCRC16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.c	85;"	f	line:85	signature:( UCHAR * pucFrame, USHORT usLen )
+usMBCRC16	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbcrc.h	34;"	p	line:34	signature:( UCHAR * pucFrame, USHORT usLen )
+usMBSlaveIDLen	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncother.c	48;"	v	line:48	file:
+usMask	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	51;"	l	line:51
+usNPreBits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	53;"	l	line:53
+usPID	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	110;"	l	line:110
+usRcvBufferPos	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	97;"	v	line:97	file:
+usRcvBufferPos	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	77;"	v	line:77	file:
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	150;"	l	line:150
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	204;"	l	line:204
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfunccoils.c	71;"	l	line:71
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncdisc.c	51;"	l	line:51
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	112;"	l	line:112
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	172;"	l	line:172
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	79;"	l	line:79
+usRegAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	61;"	l	line:61
+usRegCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	113;"	l	line:113
+usRegCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	173;"	l	line:173
+usRegCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncinput.c	62;"	l	line:62
+usRegHoldingBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	24;"	v	line:24	file:
+usRegHoldingStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	23;"	v	line:23	file:
+usRegInputBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	22;"	v	line:22	file:
+usRegInputStart	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\main.c	21;"	v	line:21	file:
+usRegReadAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	237;"	l	line:237
+usRegReadCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	238;"	l	line:238
+usRegWriteAddress	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	239;"	l	line:239
+usRegWriteCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbfuncholding.c	240;"	l	line:240
+usSndBufferCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	101;"	v	line:101	file:
+usSndBufferCount	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	75;"	v	line:75	file:
+usTCPLength	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\tcp\mbtcp.c	141;"	l	line:141
+usTim1Timerout50usCpy	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	28;"	v	line:28	file:
+usTimerT35_50us	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	84;"	l	line:84
+usValue	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	54;"	l	line:54
+usWordBuf	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	50;"	l	line:50
+vMBPortClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	74;"	p	line:74	signature:( void )
+vMBPortSerialEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	34;"	f	line:34	signature:( BOOL xRxEnable, BOOL xTxEnable )
+vMBPortSerialEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	78;"	p	line:78	signature:( BOOL xRxEnable, BOOL xTxEnable )
+vMBPortTimersDelay	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	93;"	p	line:93	signature:( USHORT usTimeOutMS )
+vMBPortTimersDisable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	54;"	f	line:54
+vMBPortTimersDisable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	91;"	p	line:91	signature:( void )
+vMBPortTimersEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	43;"	f	line:43
+vMBPortTimersEnable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	89;"	p	line:89	signature:( void )
+vMBTCPPortClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	118;"	p	line:118	signature:( void )
+vMBTCPPortDisable	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	120;"	p	line:120	signature:( void )
+word	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	194;"	m	line:194
+word	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	263;"	m	line:263
+word	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	409;"	m	line:409
+word	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	477;"	m	line:477
+wordUnion	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	206;"	m	line:206
+wordUnion	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\Microchip\Include\GenericTypeDefs.h	421;"	m	line:421
+xEventHappened	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	49;"	l	line:49
+xEventInQueue	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	28;"	v	line:28	file:
+xFrameReceived	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	153;"	l	line:153
+xFuncHandlers	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	95;"	v	line:95	file:
+xMBASCIIReceiveFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	248;"	f	line:248	signature:( void )
+xMBASCIIReceiveFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	48;"	p	line:48	signature:( void )
+xMBASCIITimerT1SExpired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	437;"	f	line:437	signature:( void )
+xMBASCIITimerT1SExpired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	50;"	p	line:50	signature:( void )
+xMBASCIITransmitFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	357;"	f	line:357	signature:( void )
+xMBASCIITransmitFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.h	49;"	p	line:49	signature:( void )
+xMBFunctionHandler	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbproto.h	78;"	t	line:78
+xMBPortEventGet	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	47;"	f	line:47	signature:( eMBEventType * eEvent )
+xMBPortEventGet	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	67;"	p	line:67	signature:( eMBEventType * eEvent )
+xMBPortEventInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	32;"	f	line:32	signature:( void )
+xMBPortEventInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	63;"	p	line:63	signature:( void )
+xMBPortEventPost	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portevent.c	39;"	f	line:39	signature:( eMBEventType eEvent )
+xMBPortEventPost	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	139;"	p	line:139	file:
+xMBPortEventPost	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	65;"	p	line:65	signature:( eMBEventType eEvent )
+xMBPortEventPost	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\mb.c	366;"	p	line:366	file:
+xMBPortSerialClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	76;"	p	line:76	signature:( void )
+xMBPortSerialGetByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	86;"	f	line:86	signature:( CHAR * pucByte )
+xMBPortSerialGetByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	256;"	p	line:256	file:	signature:( CHAR * ) & ucByte 
+xMBPortSerialGetByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	80;"	p	line:80	signature:( CHAR * pucByte )
+xMBPortSerialGetByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	244;"	p	line:244	file:	signature:( CHAR * ) & ucByte 
+xMBPortSerialInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	54;"	f	line:54	signature:( UCHAR ucPORT, ULONG ulBaudRate, UCHAR ucDataBits, eMBParity eParity )
+xMBPortSerialInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	71;"	p	line:71	signature:( UCHAR ucPort, ULONG ulBaudRate, UCHAR ucDataBits, eMBParity eParity )
+xMBPortSerialPutByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\portserial.c	75;"	f	line:75	signature:( CHAR ucByte )
+xMBPortSerialPutByte	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	82;"	p	line:82	signature:( CHAR ucByte )
+xMBPortTimersClose	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	87;"	p	line:87	signature:( void )
+xMBPortTimersInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\TestModbus\port\porttimer.c	34;"	f	line:34	signature:( USHORT usTim1Timerout50us )
+xMBPortTimersInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	85;"	p	line:85	signature:( USHORT usTimeOut50us )
+xMBRTUReceiveFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	236;"	f	line:236	signature:( void )
+xMBRTUReceiveFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	43;"	p	line:43	signature:( void )
+xMBRTUTimerT15Expired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	45;"	p	line:45	signature:( void )
+xMBRTUTimerT35Expired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	334;"	f	line:334	signature:( void )
+xMBRTUTimerT35Expired	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	46;"	p	line:46	signature:( void )
+xMBRTUTransmitFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	296;"	f	line:296	signature:( void )
+xMBRTUTransmitFSM	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.h	44;"	p	line:44	signature:( void )
+xMBTCPPortGetRequest	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	122;"	p	line:122	signature:( UCHAR **ppucMBTCPFrame, USHORT * usTCPLength )
+xMBTCPPortInit	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	116;"	p	line:116	signature:( USHORT usTCPPort )
+xMBTCPPortSendResponse	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbport.h	124;"	p	line:124	signature:( const UCHAR *pucMBTCPFrame, USHORT usTCPLength )
+xMBUtilGetBits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbutils.h	100;"	p	line:100	signature:( UCHAR * ucByteBuf, USHORT usBitOffset, UCHAR ucNBits )
+xMBUtilSetBits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\functions\mbutils.c	47;"	f	line:47	signature:( UCHAR * ucByteBuf, USHORT usBitOffset, UCHAR ucNBits, UCHAR ucValue )
+xMBUtilSetBits	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\include\mbutils.h	78;"	p	line:78	signature:( UCHAR * ucByteBuf, USHORT usBitOffset, UCHAR ucNBits, UCHAR ucValues )
+xNeedPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	250;"	l	line:250
+xNeedPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\ascii\mbascii.c	359;"	l	line:359
+xNeedPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	298;"	l	line:298
+xNeedPoll	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	336;"	l	line:336
+xTaskNeedSwitch	E:\Proyectos\Proyectos C32\SkP32v1.1\SW\Ejemplos\freemodbus\rtu\mbrtu.c	238;"	l	line:238

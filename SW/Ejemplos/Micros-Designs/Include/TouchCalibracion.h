@@ -25,7 +25,7 @@
 
 #include <p32xxxx.h>
 #include <plib.h>
-#include "LCDTFT2.4.h"
+#include "LCDTFT.h"
 #include "ADS7843.h" 
 
 typedef struct{

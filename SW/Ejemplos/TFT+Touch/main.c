@@ -52,7 +52,7 @@ int main(){
 	
 	vInitADS7843();
 	
-	//vCalibracionTouch();
+	vCalibracionTouch();
 	//ConfigINT3(EXT_INT_PRI_2 | FALLING_EDGE_INT | EXT_INT_ENABLE);
     //INTConfigureSystem(INT_SYSTEM_CONFIG_MULT_VECTOR);
     //INTEnableInterrupts();
