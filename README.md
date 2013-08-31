@@ -34,6 +34,7 @@ Las características de la misma son:
 <li type="square">FM25L16	</li>
 <li type="square">FreeRTOS LCD</li>	
 <li type="square">FreeRTOS Plantilla</li>	
+<li type="square">Modbus Test (freeMODBUS)</li>	
 <li type="square">Plantilla	</li>
 <li type="square">RTC	</li>
 <li type="square">SDCard	</li>
