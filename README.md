@@ -33,7 +33,8 @@ Las características de la misma son:
 <li type="square">AVI_Player</li>	
 <li type="square">FM25L16	</li>
 <li type="square">FreeRTOS LCD</li>	
-<li type="square">FreeRTOS Plantilla</li>	
+<li type="square">FreeRTOS Plantilla</li>
+<li type="square">FSFatTest (FatFs by ChaN)</li>
 <li type="square">Modbus Test (freeMODBUS)</li>	
 <li type="square">Plantilla	</li>
 <li type="square">RTC	</li>
